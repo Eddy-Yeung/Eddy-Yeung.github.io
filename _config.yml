@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Eddy Yeung / 楊承風"
-title_separator          : "–"
+title_separator          : "·"
 name                     : &name "Eddy Yeung"
 description              : &description "personal description"
 url                      : https://eddy-yeung.github.io
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : googlefafda2f516af3714.html
+google_site_verification : googlefafda2f516af3714
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
