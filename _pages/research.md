@@ -9,7 +9,7 @@ author_profile: true
   * "[Does Immigration Boost Public Euroscepticism in European Union Member States?](https://doi.org/10.1177/14651165211030428)" _European Union Politics_, forthcoming.
       * Featured in [EUROPP](https://blogs.lse.ac.uk/europpblog/2021/08/02/there-is-no-evidence-that-immigration-boosts-euroscepticism-in-eu-member-states/).
       * _Abstract:_ A number of studies have established a strong link between anti-immigration and Eurosceptic attitudes. But does this relationship necessarily imply that more immigration would increase public Euroscepticism in member states of the European Union? I evaluate this question by analyzing immigration data and Eurobarometer survey data over the period 2009–2017. The analysis shows no evidence that individual levels of Euroscepticism increase with actual levels of immigration. This result suggests that a strong link between anti-immigration and Eurosceptic attitudes does not necessarily translate into a strong link between immigration levels and public Euroscepticism. Public Euroscepticism can still be low even if immigration levels are high.
-      * _Keywords:_ European integration, Euroscepticism, immigration, public opinion
+      * _Keywords:_ European integration, Euroscepticism, immigration, public opinion.
 
 ## Working Papers
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
@@ -18,7 +18,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
       * _Keywords:_ international trade, relative gains, other-regarding preferences, public opinion, survey experiment
   * "Overestimation of the Level of Democracy among Citizens in Nondemocracies." _Under Review_.
       * _Abstract:_ Overestimation of the level of democracy is prevalent among citizens in nondemocracies. Despite such prevalence, no research to date has systematically documented this phenomenon and examined its determinants. Yet given the renewed interest in the role of legitimacy in authoritarian survival, studying whether and why this phenomenon arises is important to our understanding of authoritarian resilience. I argue that, even in the absence of democratic institutions in nondemocracies, autocrats exercise media control in order to boost their democratic legitimacy. This façade of democracy, in turn, benefits their survival. Combining media freedom data with individual survey response data that include 27,000 observations from nineteen nondemocracies, I find that overestimation of the level of democracy is more prevalent in countries with stronger media control. This finding underscores the importance of media in autocracies, and sheds light on media control as a strategy for authoritarian survival.
-      * _Keywords:_ authoritarian politics, media control, democratic legitimacy, authoritarian resilience, comparative public opinion
+      * _Keywords:_ authoritarian politics, media control, democratic legitimacy, authoritarian resilience, comparative public opinion.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
