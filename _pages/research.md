@@ -19,6 +19,10 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Overestimation of the Level of Democracy among Citizens in Nondemocracies." _Under Review_.
       * _Abstract:_ Overestimation of the level of democracy is prevalent among citizens in nondemocracies. Despite such prevalence, no research to date has systematically documented this phenomenon and examined its determinants. Yet given the renewed interest in the role of legitimacy in authoritarian survival, studying whether and why this phenomenon arises is important to our understanding of authoritarian resilience. I argue that, even in the absence of democratic institutions in nondemocracies, autocrats exercise media control in order to boost their democratic legitimacy. This façade of democracy, in turn, benefits their survival. Combining media freedom data with individual survey response data that include 27,000 observations from nineteen nondemocracies, I find that overestimation of the level of democracy is more prevalent in countries with stronger media control. This finding underscores the importance of media in autocracies, and sheds light on media control as a strategy for authoritarian survival.
       * _Keywords:_ authoritarian politics, media control, democratic legitimacy, authoritarian resilience, comparative public opinion.
+      
+## Work in Progress
+  * "Can Conservatives Be Persuaded? The Framing Effect on Conservatives' Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
+  * "Attitudes Toward Internal Migrants and Support for Redistribution: Evidence from Shanghai," with [Hsu Yumin Wang](https://hsuyuminwang.com/).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
