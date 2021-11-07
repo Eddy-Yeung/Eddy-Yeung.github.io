@@ -21,7 +21,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
       * _Keywords:_ authoritarian politics, media control, democratic legitimacy, authoritarian resilience, comparative public opinion.
       
 ## Work in Progress
-  * "Can Conservatives Be Persuaded to Support Welfare? The Framing Effect on Conservatives' Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
+  * "Can Conservatives Be Persuaded? The Framing Effect on Conservatives' Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
   * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai," with [Hsu Yumin Wang](https://hsuyuminwang.com/).
 
 {% if author.googlescholar %}
