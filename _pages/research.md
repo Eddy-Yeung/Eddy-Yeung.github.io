@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
   * "[Does Immigration Boost Public Euroscepticism in European Union Member States?](https://doi.org/10.1177/14651165211030428)" _European Union Politics_, 22(4), 2021. [[replication material](https://github.com/Eddy-Yeung/euroscepticism-and-immigration)]
-      * Featured in [_EUROPP_](https://blogs.lse.ac.uk/europpblog/2021/08/02/there-is-no-evidence-that-immigration-boosts-euroscepticism-in-eu-member-states/).
+      * _Coverage:_ [European Politics and Policy (EUROPP)](https://blogs.lse.ac.uk/europpblog/2021/08/02/there-is-no-evidence-that-immigration-boosts-euroscepticism-in-eu-member-states/).
       * _Abstract:_ A number of studies have established a strong link between anti-immigration and Eurosceptic attitudes. But does this relationship necessarily imply that more immigration would increase public Euroscepticism in member states of the European Union? I evaluate this question by analyzing immigration data and Eurobarometer survey data over the period 2009–2017. The analysis shows no evidence that individual levels of Euroscepticism increase with actual levels of immigration. This result suggests that a strong link between anti-immigration and Eurosceptic attitudes does not necessarily translate into a strong link between immigration levels and public Euroscepticism. Public Euroscepticism can still be low even if immigration levels are high.
       * _Keywords:_ European integration, Euroscepticism, immigration, public opinion.
 
@@ -21,7 +21,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
       * _Keywords:_ authoritarian politics, media control, democratic legitimacy, authoritarian resilience, comparative public opinion.
       
 ## Work in Progress
-  * "Can Conservatives Be Persuaded? The Framing Effect on Conservatives' Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
+  * "Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
   * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai," with [Hsu Yumin Wang](https://hsuyuminwang.com/).
 
 {% if author.googlescholar %}
