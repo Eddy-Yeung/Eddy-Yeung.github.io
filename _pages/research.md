@@ -23,7 +23,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US." [[pre-analysis plan](https://osf.io/bcuqe/)]
   * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai," with [Hsu Yumin Wang](https://hsuyuminwang.com/).
-  * "Learning to Love Trade? Information Provision on Public Support for Free Trade."
+  * "Learning to Love Trade? Information Provision and Public Support for Free Trade."
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
