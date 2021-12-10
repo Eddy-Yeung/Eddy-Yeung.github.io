@@ -14,4 +14,4 @@ I study comparative public opinion and authoritarian politics, focusing on how c
 
 I hold an M.Phil. in Economic Research from the University of Cambridge, where I was [Hughes Hall Scholar](https://www.hughes.cam.ac.uk/applying/scholarships-bursaries/) and [Hong Kong Scholar](https://hkses.edb.gov.hk/en/index.html). I also hold a B.Econ. in Economics and Political Science from the University of Hong Kong, where I was [John Swire Scholar](https://www.scholarships.hku.hk/Scholarships/detail/158) and [Undergraduate Research Fellow](https://tl.hku.hk/urfp/).
 
-My work has been published in _European Union Politics_.
+My research is published or forthcoming in _European Union Politics_ and _International Organization_.
