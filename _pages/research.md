@@ -26,7 +26,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Learning to Love Trade? Information Provision and Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd/)]
   * "Beyond Persuasion and Signaling: Propaganda as Provocation."
-  * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." (with [Hsu Yumin Wang](https://hsuyuminwang.com/))
+  * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." (with [Hsu Yumin Wang](https://hsuyuminwang.com/)) [[pre-analysis plan](https://osf.io/fg2d6/)]
   * "Can Providing Information about the Racial Composition of American Welfare Recipients Reduce Affective Polarization?" (with Joseph Glasgow)
 
 {% if author.googlescholar %}
