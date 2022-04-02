@@ -30,7 +30,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Propaganda as Provocation."
   * "Strategic Provocation in Domestic Politics."
   * "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." (with [Hsu Yumin Wang](https://hsuyuminwang.com)) [[pre-analysis plan](https://osf.io/fg2d6)]
-  * "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" (with Joseph Glasgow)
+  * "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" (with [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
