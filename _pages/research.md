@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications
-  * **Yeung, Eddy S. F.**&nbsp; Forthcoming. "Overestimation of the Level of Democracy among Citizens in Nondemocracies." _Comparative Political Studies_. [[replication material](https://doi.org/10.7910/DVN/HUAADF)] 
+  * **Yeung, Eddy S. F.**&nbsp; Forthcoming. "Overestimation of the Level of Democracy among Citizens in Nondemocracies." _Comparative Political Studies_. [[replication material](https://doi.org/10.7910/DVN/HUAADF), [preprint](https://osf.io/2fqmh)]
       * _Abstract:_ Overestimation of the level of democracy is prevalent among citizens in nondemocracies. Despite such prevalence, no research to date has systematically documented this phenomenon and examined its determinants. Yet given the renewed interest in the role of legitimacy in authoritarian survival, studying whether and why this phenomenon arises is important to our understanding of authoritarian resilience. I argue that, even in the absence of democratic institutions in nondemocracies, autocrats exercise media control in order to boost their democratic legitimacy. This façade of democracy, in turn, benefits their survival. Combining media freedom data with individual survey response data that include over 30,000 observations from 22 nondemocracies, I find that overestimation of the level of democracy is greater in countries with stronger media control. But highly educated citizens overestimate less. These findings shed light on media control as a strategy for authoritarian survival, and have important implications for modernization theory.
       * _Keywords:_ nondemocratic regimes, comparative public opinion, media control, democratic legitimacy, authoritarian resilience.
       
