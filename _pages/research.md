@@ -27,11 +27,11 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Information Provision and Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
       * _Abstract:_ How to reduce public opposition to international trade? Recent studies emphasize the role of information in shaping trade attitudes, but efforts to identify relevant information to promote public support for trade are at best nascent. Drawing on latest scholarly insights, I argue that providing factual information about how trade beneﬁts employment or exports/imports in the US, particularly in the agricultural and manufacturing sectors, will increase trade support. This is because while Americans tend to hold sociotropic perceptions of trade, they tend to lack the economic literacy to understand the aggregate impacts of trade on their national ingroups. The effectiveness of information provision will be further reinforced by emphasizing trade's impacts on jobs and exports/imports in agriculture and manufacturing, since Americans often evaluate trade through the lens of employment, fairness, and the distribution of gains. To test my argument, I conduct a preregistered information provision experiment on a nationally-representative American sample (_n_ = 998). Overall, I do not ﬁnd evidence that information provision boosted Americans' support for trade. In another preregistered analysis, however, I ﬁnd that racial minorities increased their trade support when they learned how trade beneﬁts US jobs. The ﬁndings shed light on the role of information in shaping trade preferences, and have implications for the emerging literature on race in international political economy.
-      * _Keywords:_ trade attitudes, globalization, information, racial identity, public opinion
+      * _Keywords:_ trade attitudes, globalization, information, racial identity, public opinion.
 
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung.** "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" _Under Review_.
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" _Under Review_.
   
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung.** "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
       
 ## Work in Progress (Selected)
   * "Propaganda as Provocation."
