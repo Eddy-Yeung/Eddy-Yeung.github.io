@@ -19,15 +19,15 @@ author_profile: true
       * _Abstract:_ A number of studies have established a strong link between anti-immigration and Eurosceptic attitudes. But does this relationship necessarily imply that more immigration would increase public Euroscepticism in member states of the European Union? I evaluate this question by analyzing immigration data and Eurobarometer survey data over the period 2009–2017. The analysis shows no evidence that individual levels of Euroscepticism increase with actual levels of immigration. This result suggests that a strong link between anti-immigration and Eurosceptic attitudes does not necessarily translate into a strong link between immigration levels and public Euroscepticism. Public Euroscepticism can still be low even if immigration levels are high.
       * _Keywords:_ European integration, Euroscepticism, immigration, public opinion.
 
-## Working Papers & PAPs
+## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * **Yeung, Eddy S. F.**&nbsp; "Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US." _Revise and Resubmit_ at _Political Behavior_. [[pre-analysis plan](https://osf.io/bcuqe)]
+  * **Yeung, Eddy S. F.**&nbsp; "Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US." Revise and resubmit at _Political Behavior_. [[pre-analysis plan](https://osf.io/bcuqe)]
       * _Abstract:_ Universal basic income (UBI) has been proposed as a policy response to technological advances and structural inequality. Yet, recent data show that most conservatives in Europe and the US are strongly opposed to the welfare proposal. Can framing UBI as a policy that conforms to their ideological predispositions overcome such opposition? Exploiting the compatibility of UBI with core conservative ideals including individualism and laissez-faire government, I design an original survey experiment that randomly exposes respondents to one of two frames: (1) an _equalizing-opportunity_ frame which emphasizes that UBI creates a level playing field and promotes self-responsibility, or (2) a _limiting-government_ frame which highlights UBI as a policy that limits government and reduces bureaucracy. I find that American conservatives—identified by using 10 policy statements—remained strongly opposed to UBI even after they were presented with such frames. Analyses of open-ended responses, which show that _how_ conservatives explained their opposition to UBI remained unchanged regardless of framing, reinforce this conclusion. Conservatives' opposition to UBI remained rigid, even after the key components of UBI that fit the conservative ideology were accentuated. The results thus shed important light on the political feasibility of framing UBI, and the rigidity of welfare attitudes among American conservatives.
       * _Keywords:_ universal basic income, framing, conservative, welfare, public opinion.
-
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" _Under Review_.
   
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
+  
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" Under review.
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
       
