@@ -27,13 +27,18 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
   
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" Under review.
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?"
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
+  
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
       
 ## Work in Progress (Selected)
-  * "Propaganda as Provocation."
-  * "Strategic Provocation in Domestic Politics."
+  * "Propaganda as Provocation"
+  * "Strategic Provocation in Domestic Politics"
+  * "What Does Democracy Mean to Americans?"
+  * "Measuring Preference Intensity: An Investigation into the Validity of Quadratic Voting for Survey Research" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
+  * "What Is a Patriot?" (with [Kai Quek](https://ppaweb.hku.hk/f/quek) and Felix Wang)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
