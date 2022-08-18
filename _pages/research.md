@@ -27,7 +27,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
   
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?"
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" [[pre-analysis plan](https://osf.io/w59ek)]
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
   
