@@ -33,11 +33,11 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
       
-## Work in Progress (Selected)
+## Work in Progress
   * "Propaganda as Provocation"
   * "Strategic Provocation in Domestic Politics"
   * "What Does Democracy Mean to Americans?"
-  * "Measuring Preference Intensity: An Investigation into the Validity of Quadratic Voting for Survey Research" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
+  * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "What Is a Patriot?" (with [Kai Quek](https://ppaweb.hku.hk/f/quek) and Felix Wang)
 
 {% if author.googlescholar %}
