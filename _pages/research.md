@@ -27,7 +27,7 @@ author_profile: true
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
   
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Can Providing Information about the Racial Composition of Welfare Recipients Reduce Affective Polarization in the US?" [[pre-analysis plan](https://osf.io/w59ek)]
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
   
@@ -36,7 +36,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Propaganda as Provocation"
   * "Strategic Provocation in Domestic Politics"
-  * "What Does Democracy Mean to Americans?"
+  * "What Does Democracy Mean to the Masses?"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "What Is a Patriot?" (with [Kai Quek](https://ppaweb.hku.hk/f/quek) and Felix Wang)
 
