@@ -25,7 +25,7 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan](https://osf.io/pm8nd)]
+  * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plans](https://osf.io/fa2wh)]
   
   * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
@@ -36,7 +36,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Propaganda as Provocation"
   * "Strategic Provocation in Domestic Politics"
-  * "What Does Democracy Mean to the Masses?"
+  * "What Does Democracy Mean to the Mass Public?"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "What Is a Patriot?" (with [Kai Quek](https://ppaweb.hku.hk/f/quek) and Felix Wang)
 
