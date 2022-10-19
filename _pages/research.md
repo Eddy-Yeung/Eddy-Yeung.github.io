@@ -15,6 +15,7 @@ author_profile: true
       * _Keywords:_ nondemocratic regimes, comparative public opinion, media control, democratic legitimacy, authoritarian resilience.
       
   * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." _International Organization_ 76(3): 741–65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
+      * _Coverage:_ [U.S.-China Perception Monitor](http://uscnpm.com/model_item.html?action=view&table=article&id=27753).
       * _Abstract:_ When do people care about relative gains in trade? Much of the international relations scholarship—and much of the political rhetoric on trade—would lead us to expect support for a trade policy that benefits ourselves more than it benefits others. Yet, a large interdisciplinary literature also points to the prevalence and importance of other-regarding preferences, rendering the conventional wisdom contestable. We investigate whether and how relative gains influence trade preferences through an original survey experiment in the midst of the China–US trade war. We find that in a win-win scenario, relative gains shape trade opinion: if both sides are gaining, people want to gain more than their foreign trade partner. However, these considerations are offset in a win-lose scenario where the other side is losing out. Relative-gains considerations causally affect opinion on trade, but not in a "beggar-thy-neighbor" or even a "beggar-thy-rival" situation. These findings contribute to our understanding of the role of relative gains in international relations and provide the first experimental evidence that relative-gains considerations can be offset by other-regarding preferences in international trade.
       * _Keywords:_ relative gains, trade, public opinion, survey experiment.
       
@@ -33,7 +34,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plans](https://osf.io/fa2wh)]
   
-  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
+  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?" _Under review_.
       
 ## Work in Progress
   * "Propaganda as Provocation"
