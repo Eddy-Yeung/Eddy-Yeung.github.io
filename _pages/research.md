@@ -28,14 +28,15 @@ author_profile: true
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai." [[pre-analysis plan](https://osf.io/fg2d6)]
-  
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
   
   * **Yeung, Eddy S. F.**&nbsp; "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plans](https://osf.io/fa2wh)]
   
   * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?" _Under review_.
       
+## Null Results Reports
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
+
 ## Work in Progress
   * "Propaganda as Provocation"
   * "Strategic Provocation in Domestic Politics"
