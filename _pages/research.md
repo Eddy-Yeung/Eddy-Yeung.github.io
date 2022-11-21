@@ -26,7 +26,7 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
+  * [Glasgow, Joey](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
   
