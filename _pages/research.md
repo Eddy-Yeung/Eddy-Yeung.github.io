@@ -26,7 +26,7 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Glasgow, Joey](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
   
@@ -40,9 +40,9 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Propaganda as Provocation"
   * "Strategic Provocation in Domestic Politics"
-  * "What Does Democracy Mean to the Mass Public?"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
-  * "Does Providing Factual Corrections on Immigrant Crime Reduce Prejudice against Immigrants?" (with [Joey Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
+  * "What Does Democracy Mean to the Mass Public?" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+  * "Does Providing Factual Corrections on Immigrant Crime Reduce Prejudice against Immigrants?" (with [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
