@@ -32,13 +32,14 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   
   * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plans](https://osf.io/fa2wh)]
   
+  * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
+  
   * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
       
 ## Null Results Reports
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
 
 ## Work in Progress
-  * "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings"
   * "Strategic Provocation in Domestic Politics"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "What Does Democracy Mean to the Mass Public?" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
