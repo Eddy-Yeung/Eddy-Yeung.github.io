@@ -43,7 +43,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
   * "Strategic Provocation in Domestic Politics"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
-  * "What Does Democracy Mean to the Mass Public?" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+  * "Mass Understandings of Democracy" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Democratic Benchmarking" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Does Providing Factual Corrections on Immigrant Crime Reduce Prejudice against Immigrants?" (with [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
 
