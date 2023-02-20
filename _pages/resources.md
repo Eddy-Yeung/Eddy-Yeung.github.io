@@ -19,3 +19,7 @@ Many scholars have generously shared their R tutorials on different topics. Thei
   * [Implementing Counterfactual Estimators in Panel Fixed-Effect Settings: fect](https://yiqingxu.org/packages/fect/articles/tutorial.html) (by [Licheng Liu](https://www.linkedin.com/in/licheng-liu-659a23220), [Ye Wang](https://www.yewang-polisci.com), [Yiqing Xu](https://yiqingxu.org), and [Ziyi Liu](https://github.com/lzy318))
   * [Estimating Mood from Existing Surveys](http://chrisclaassen.com/estimating-mood.html) (by [Christopher Claassen](http://chrisclaassen.com))
   * [Quantitative Text Analysis in R](https://tutorials.quanteda.io) (by [Kohei Watanabe](http://koheiw.net) and [Stefan Müller](https://muellerstefan.net))
+  
+Additional resources for survey design:
+  * [Programming Choice Experiments in Qualtrics](https://m-graham.com/resources/conjoint%20how-to.pdf) (by [Matt Graham](https://m-graham.com/index.html))
+  * [Programming Quadratic Voting in Qualtrics](https://charlottecavaille.wordpress.com/qvsr) (by [Charlotte Cavaillé](https://charlottecavaille.wordpress.com))
