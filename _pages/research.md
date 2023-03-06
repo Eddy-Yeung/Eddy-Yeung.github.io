@@ -27,7 +27,7 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Does Providing Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Do Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan](https://osf.io/w59ek)]
   
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
   
@@ -41,11 +41,13 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
 
 ## Work in Progress
-  * "Strategic Provocation in Domestic Politics"
   * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "Mass Understandings of Democracy" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
-  * "Legitimizing Dictatorship" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
-  * "Does Providing Factual Corrections on Immigrant Crime Reduce Prejudice against Immigrants?" (with [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
+  * "Legitimizing Dictatorship: How Autocrats Weaponize Foreign Democratic Failure to Generate Domestic Democratic Legitimacy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
+  * "Dynamic Democratic Backsliding" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
+  * "Reciprocity in the Shadow of a Trade War" (with [Kai Quek](https://ppaweb.hku.hk/f/quek))
+  * "Do Factual Corrections on Immigrant Crime Reduce Prejudice against Immigrants?" (with [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html))
+  * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
