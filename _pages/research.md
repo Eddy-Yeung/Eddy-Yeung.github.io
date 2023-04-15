@@ -39,7 +39,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
     
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Do Factual Corrections on Welfare Recipiency Reduce Racial Prejudice in the United States?" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
+  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Racialized Misinformation, Factual Corrections, and Racial Prejudice: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
       
 ## Null Results Reports
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
