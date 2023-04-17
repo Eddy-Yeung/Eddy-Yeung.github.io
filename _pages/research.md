@@ -50,7 +50,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Legitimizing Dictatorship: How Autocrats Weaponize Foreign Democratic Failure to Generate Domestic Democratic Legitimacy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Dynamic Democratic Backsliding" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
-  * "Understanding and Strengthening Taiwan's Resilience in the Shadow of China's Threat" (multi-paper project with [Renard Sexton](https://renardsexton.com) and [Hsu Yumin Wang](https://hsuyuminwang.com))
+  * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com) and [Hsu Yumin Wang](https://hsuyuminwang.com))
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
