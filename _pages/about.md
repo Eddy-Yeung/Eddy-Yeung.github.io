@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Political Science at [Emory University](http://polisci.emory.edu/home) and Graduate Research Fellow at the [Halle Institute for Global Research](https://halle.emory.edu/index.html).
+I am a PhD candidate in the Department of Political Science at [Emory University](http://polisci.emory.edu/home) and Graduate Research Fellow at the [Halle Institute for Global Research](https://halle.emory.edu/index.html).
 
 I study the interplay between public opinion and political communication across autocracies and democracies, with a regional focus on East Asia and the United States. My research on autocracies, on the one hand, explores how autocrats manipulate public opinion and generate democratic legitimacy by using **media control** and **political rhetoric**. My research on democracies, on the other hand, studies how individuals form their attitudes toward domestic and foreign policies such as **social welfare** and **international cooperation**. Bridging autocratic and democratic publics, I research how global citizens understand contested concepts such as **democracy** and **patriotism**, and examine how such bottom-up understandings shape domestic politics in turn.
 

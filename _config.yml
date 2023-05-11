@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eddy S. F. Yeung"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Emory University"
+  bio              : "PhD Candidate at Emory University"
   location         : "Atlanta, GA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wZx81R4AAAAJ&hl=en"
@@ -310,4 +310,4 @@ compress_html:
     envs: development
 
 # Site masthead title
-masthead_title: "Eddy S. F. Yeung / 楊承風"
+masthead_title: "Eddy Yeung / 楊承風"
