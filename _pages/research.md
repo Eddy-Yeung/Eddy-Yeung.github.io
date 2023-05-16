@@ -14,7 +14,6 @@ author_profile: true
       * _Abstract:_ Universal basic income (UBI) has been proposed as a policy response to technological advances and structural inequality. Yet, recent data show that most conservatives in Europe and the US are strongly opposed to the welfare proposal. Can framing UBI as a policy that conforms to their ideological predispositions overcome such opposition? Exploiting the compatibility of UBI with core conservative ideals such as individualism and laissez-faire government, I design an original survey experiment that randomly exposes respondents to one of two frames: (1) an _equalizing-opportunity_ frame which emphasizes that UBI creates a level playing ﬁeld and promotes self-responsibility, or (2) a _limiting-government_ frame which highlights UBI as a policy that limits government and reduces bureaucracy. I find that American conservatives—identified by using 10 policy statements—remained strongly opposed to UBI even after they were presented with such frames. Analyses of open-ended responses, which show that _how_ conservatives explained their opposition to UBI remained unchanged regardless of framing, reinforce this conclusion. Conservatives’ opposition to UBI remained rigid, even after the key components of UBI that ﬁt the conservative ideology were accentuated. These results shed light on the political feasibility of framing UBI, and the rigidity of welfare attitudes among American conservatives.
       * _Keywords:_ universal basic income, framing, conservative, welfare, public opinion.
 
-      
   * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." _International Organization_ 76(3): 741–65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
       * _Coverage:_ [U.S.-China Perception Monitor](http://uscnpm.com/model_item.html?action=view&table=article&id=27753).
       * _Abstract:_ When do people care about relative gains in trade? Much of the international relations scholarship—and much of the political rhetoric on trade—would lead us to expect support for a trade policy that benefits ourselves more than it benefits others. Yet, a large interdisciplinary literature also points to the prevalence and importance of other-regarding preferences, rendering the conventional wisdom contestable. We investigate whether and how relative gains influence trade preferences through an original survey experiment in the midst of the China–US trade war. We find that in a win-win scenario, relative gains shape trade opinion: if both sides are gaining, people want to gain more than their foreign trade partner. However, these considerations are offset in a win-lose scenario where the other side is losing out. Relative-gains considerations causally affect opinion on trade, but not in a "beggar-thy-neighbor" or even a "beggar-thy-rival" situation. These findings contribute to our understanding of the role of relative gains in international relations and provide the first experimental evidence that relative-gains considerations can be offset by other-regarding preferences in international trade.
@@ -27,17 +26,11 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
-  
   * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
-
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
-  
   * **Yeung, Eddy S. F.** "Learning to Love Trade? The Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
-    
   * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
-
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
         
 ## Null Results Reports
