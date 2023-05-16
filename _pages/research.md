@@ -28,28 +28,27 @@ author_profile: true
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
-  
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
-  
-  * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
-  
-  * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
   
   * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
 
-  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
+  * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
+  
+  * **Yeung, Eddy S. F.** "Learning to Love Trade? The Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
     
-  * [Glasgow, Joseph](http://polisci.emory.edu/home/people/graduate-students.html), and **Eddy S. F. Yeung**. "Racialized Misinformation, Factual Corrections, and Racial Prejudice: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
-      
+  * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
+
+  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
+        
 ## Null Results Reports
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
 
 ## Work in Progress
-  * "Measuring Preference Intensity and Its Policy Effects" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
+  * "Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings" (dissertation book project)
+  * "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
-  * "Legitimizing Dictatorship: How Autocrats Weaponize Foreign Democratic Failure to Generate Domestic Democratic Legitimacy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
-  * "Dynamic Democratic Backsliding" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
+  * "Democratic Benchmarking" (multi-paper project with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com) and [Hsu Yumin Wang](https://hsuyuminwang.com))
 
 {% if author.googlescholar %}
