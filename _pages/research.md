@@ -26,7 +26,7 @@ author_profile: true
 
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." R&R at _Journal of Politics_.
   * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
   * **Yeung, Eddy S. F.** "Learning to Love Trade? The Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
@@ -42,7 +42,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
   * "Democratic Benchmarking" (multi-paper project with [Jennifer Gandhi](https://www.jennifergandhi.com))
-  * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com) and [Hsu Yumin Wang](https://hsuyuminwang.com))
+  * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
