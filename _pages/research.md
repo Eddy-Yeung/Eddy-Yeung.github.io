@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+Focusing on public opinion, my research aims to help pursue a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. My research agenda thus centers around the following questions:
+      * Under what conditions does the public resist autocracy and defend democracy?
+      * Under what conditions does the public abandon outgroup prejudice and endorse social policy?
+      * Under what conditions does the public oppose protectionism and favor international cooperation?
+
+I am particularly interested in the roles of media and elites in shaping public opinion formation in these domains.
+
 ## Publications      
   * **Yeung, Eddy S. F.** 2023. "[Overestimation of the Level of Democracy among Citizens in Nondemocracies](https://doi.org/10.1177/00104140221089647)." _Comparative Political Studies_ 56(2): 228–66. [[replication material](https://doi.org/10.7910/DVN/HUAADF), [preprint](https://osf.io/2fqmh)]
       * _Abstract:_ Overestimation of the level of democracy is prevalent among citizens in nondemocracies. Despite such prevalence, no research to date has systematically documented this phenomenon and examined its determinants. Yet given the renewed interest in the role of legitimacy in authoritarian survival, studying whether and why this phenomenon arises is important to our understanding of authoritarian resilience. I argue that, even in the absence of democratic institutions in nondemocracies, autocrats exercise media control in order to boost their democratic legitimacy. This façade of democracy, in turn, benefits their survival. Combining media freedom data with individual survey response data that include over 30,000 observations from 22 nondemocracies, I find that overestimation of the level of democracy is greater in countries with stronger media control. But highly educated citizens overestimate less. These findings shed light on media control as a strategy for authoritarian survival, and have important implications for modernization theory.
@@ -27,8 +34,9 @@ author_profile: true
 ## Working Papers / Pre-Analysis Plans
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." R&R at _Journal of Politics_.
-  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
+  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
+  * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics."
   * **Yeung, Eddy S. F.** "Learning to Love Trade? The Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
   * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
@@ -38,11 +46,11 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
 ## Work in Progress
   * "Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings" (dissertation book project)
-  * "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics" (with [Zachary Peskowitz](https://www.zacharypeskowitz.com))
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
-  * "Democratic Benchmarking" (multi-paper project with [Jennifer Gandhi](https://www.jennifergandhi.com))
+  * "Democratic Evaluation" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+  * "Dynamic Democratic Backsliding"
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
