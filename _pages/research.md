@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 Focusing on public opinion, my research aims to help pursue a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. My research agenda thus centers around the following questions:
-      * Under what conditions does the public resist autocracy and defend democracy?
-      * Under what conditions does the public abandon outgroup prejudice and endorse social policy?
-      * Under what conditions does the public oppose protectionism and favor international cooperation?
+
+  * Under what conditions does the public resist autocracy and defend democracy?
+  * Under what conditions does the public abandon outgroup prejudice and endorse social policy?
+  * Under what conditions does the public oppose protectionism and favor international cooperation?
 
 I am particularly interested in the roles of media and elites in shaping public opinion formation in these domains.
 
