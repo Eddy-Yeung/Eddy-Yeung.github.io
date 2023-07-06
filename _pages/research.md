@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-Focusing on public opinion, my research aims to help pursue a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. My research agenda thus centers around the following questions:
+Focusing on public opinion, my research aims to help pursue a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. Thus, my research agenda centers around the following questions:
 
 - Under what conditions does the public resist autocracy and defend democracy?
 - Under what conditions does the public abandon outgroup prejudice and endorse social policy?
 - Under what conditions does the public oppose protectionism and favor international cooperation?
 
-I am particularly interested in the roles of media and elites in shaping public opinion formation in these domains.
+In answering these questions, I am particularly interested in the roles of media and elites in shaping public opinion.
 
 ## Publications      
   * **Yeung, Eddy S. F.** 2023. "[Overestimation of the Level of Democracy among Citizens in Nondemocracies](https://doi.org/10.1177/00104140221089647)." _Comparative Political Studies_ 56(2): 228–66. [[replication material](https://doi.org/10.7910/DVN/HUAADF), [preprint](https://osf.io/2fqmh)]
