@@ -11,7 +11,7 @@ Focusing on public opinion, my research aims to help pursue a more liberal and d
 - Under what conditions does the public abandon outgroup prejudice and endorse social policy?
 - Under what conditions does the public oppose protectionism and favor international cooperation?
 
-In answering these questions, I am particularly interested in the roles of media and elites in shaping public opinion.
+In answering these questions, I am particularly interested in the roles of media and elites.
 
 ## Publications      
   * **Yeung, Eddy S. F.** 2023. "[Overestimation of the Level of Democracy among Citizens in Nondemocracies](https://doi.org/10.1177/00104140221089647)." _Comparative Political Studies_ 56(2): 228–66. [[replication material](https://doi.org/10.7910/DVN/HUAADF), [preprint](https://osf.io/2fqmh)]
