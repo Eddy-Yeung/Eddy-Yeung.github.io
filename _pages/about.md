@@ -14,6 +14,6 @@ I study the interplay between public opinion and political communication across 
 
 I hold an MPhil in Economic Research from the University of Cambridge, where I was [Hughes Hall Scholar](https://www.hughes.cam.ac.uk/applying/scholarships-bursaries) and [Hong Kong Scholar](https://hkses.edb.gov.hk/en/index.html). I also hold a BEcon in Economics, Politics, and Public Administration from the University of Hong Kong, where I was [John Swire Scholar](https://www.scholarships.hku.hk/Scholarships/detail/158), [Undergraduate Research Fellow](https://tl.hku.hk/urfp), and a first-generation-to-college student.
 
-Growing up in Hong Kong's public housing shaped how I think about social inequality, social justice, and social policy. It also drew me closer to the masses, whose formation of political attitudes is the centerpiece of my research agenda.
+Growing up in Hong Kong's public housing shaped how I think about social inequality, social justice, and social policy. It also drew me closer to the masses, whose formation of political attitudes is the crux of my research agenda.
 
 My research has been published in _Comparative Political Studies_, _European Union Politics_, _International Organization_, and _Political Behavior_.
