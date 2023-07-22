@@ -32,27 +32,29 @@ In answering these questions, I am particularly interested in the roles of mass 
       * _Abstract:_ A number of studies have established a strong link between anti-immigration and Eurosceptic attitudes. But does this relationship necessarily imply that more immigration would increase public Euroscepticism in member states of the European Union? I evaluate this question by analyzing immigration data and Eurobarometer survey data over the period 2009–2017. The analysis shows no evidence that individual levels of Euroscepticism increase with actual levels of immigration. This result suggests that a strong link between anti-immigration and Eurosceptic attitudes does not necessarily translate into a strong link between immigration levels and public Euroscepticism. Public Euroscepticism can still be low even if immigration levels are high.
       * _Keywords:_ European integration, Euroscepticism, immigration, public opinion.
 
-## Working Papers / Pre-Analysis Plans
+## Working Papers
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." R&R at _Journal of Politics_.
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." R&R at _The Journal of Politics_.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
-  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot?"
+  * **Yeung, Eddy S. F.**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Under review.
   * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[pre-analysis plan](https://osf.io/z23xu)]
-  * **Yeung, Eddy S. F.** "Learning to Love Trade? The Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
   * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
+  * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocity in the Shadow of a Trade War."
-        
-## Null Results Reports
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
 
 ## Work in Progress
   * "Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings" (dissertation book project)
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
-  * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
-  * "Democratic Evaluation" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
-  * "Understanding Taiwan's Resilience amid the Threat of War" (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+  * "Democratic Evaluation: How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Dynamic Democratic Backsliding"
+  * "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China's Rise"
+  * "Measuring and Testing Interventions to Change Resilience and Will-to-Fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 
+        
+## Null Results Reports
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [pre-analysis plan](https://osf.io/fg2d6)]
+  
+  
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
