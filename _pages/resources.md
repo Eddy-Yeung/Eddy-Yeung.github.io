@@ -21,6 +21,7 @@ Many scholars have generously shared their R tutorials on different topics. Thei
   * [Quantitative Text Analysis in R](https://tutorials.quanteda.io) (by [Kohei Watanabe](http://koheiw.net) and [Stefan Müller](https://muellerstefan.net))
   * [Analysis of Conjoint Experiments](https://cran.r-project.org/web/packages/cregg/vignettes/Introduction.html) (by [Thomas J. Leeper](https://thomasleeper.com))
   
-Additional resources for survey design:
+Additional resources for research design:
   * [Programming Choice Experiments in Qualtrics](https://m-graham.com/resources/conjoint%20how-to.pdf) (by [Matt Graham](https://m-graham.com/index.html))
   * [Programming Quadratic Voting in Qualtrics](https://charlottecavaille.wordpress.com/qvsr) (by [Charlotte Cavaillé](https://charlottecavaille.wordpress.com))
+  * [Research Design in the Social Sciences](https://book.declaredesign.org) (by [Graeme Blair](https://graemeblair.com), [Alexander Coppock](https://alexandercoppock.com), and [Macartan Humphreys](https://macartan.github.io))
