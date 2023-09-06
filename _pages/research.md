@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Focusing on public opinion, my research aims to facilitate the pursuit of a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. Thus, my research agenda centers around the following questions:
+Focusing on public opinion, my research aims to help pursue a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. Thus, my research agenda centers around the following questions that lie at the heart of liberal democracy:
 
 - Under what conditions does the public resist autocracy and defend democracy?
 - Under what conditions does the public abandon outgroup prejudice and endorse social policy?
@@ -25,7 +25,7 @@ In answering these questions, I am particularly interested in the roles of mass 
   * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." _International Organization_ 76(3): 741–65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
       * _Coverage:_ [U.S.-China Perception Monitor](http://uscnpm.com/model_item.html?action=view&table=article&id=27753).
       * _Abstract:_ When do people care about relative gains in trade? Much of the international relations scholarship—and much of the political rhetoric on trade—would lead us to expect support for a trade policy that benefits ourselves more than it benefits others. Yet, a large interdisciplinary literature also points to the prevalence and importance of other-regarding preferences, rendering the conventional wisdom contestable. We investigate whether and how relative gains influence trade preferences through an original survey experiment in the midst of the China–US trade war. We find that in a win-win scenario, relative gains shape trade opinion: if both sides are gaining, people want to gain more than their foreign trade partner. However, these considerations are offset in a win-lose scenario where the other side is losing out. Relative-gains considerations causally affect opinion on trade, but not in a "beggar-thy-neighbor" or even a "beggar-thy-rival" situation. These findings contribute to our understanding of the role of relative gains in international relations and provide the first experimental evidence that relative-gains considerations can be offset by other-regarding preferences in international trade.
-      * _Keywords:_ relative gains, trade, public opinion, survey experiment.
+      * _Keywords:_ relative gains, other-regarding preferences, trade, U.S.-China relations, public opinion.
       
   * **Yeung, Eddy S. F.** 2021. "[Does Immigration Boost Public Euroscepticism in European Union Member States?](https://doi.org/10.1177/14651165211030428)" _European Union Politics_ 22(4): 631–54. [[replication material](https://github.com/Eddy-Yeung/euroscepticism-and-immigration), [preprint](https://osf.io/jb5pm)]
       * _Coverage:_ [European Politics and Policy](https://blogs.lse.ac.uk/europpblog/2021/08/02/there-is-no-evidence-that-immigration-boosts-euroscepticism-in-eu-member-states).
