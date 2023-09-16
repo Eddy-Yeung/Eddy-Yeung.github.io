@@ -34,7 +34,7 @@ In answering these questions, I am particularly interested in the roles of mass 
 
 ## Working Papers
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
-  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." R&R at _The Journal of Politics_.
+  * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Registered report principally accepted at _The Journal of Politics_.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[pre-analysis plan](https://osf.io/2hn3q)]
   * **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/gjjs/0fd37e1bc5524a4eaec97ae6df7b4301.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Under review.
   * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[pre-analysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
