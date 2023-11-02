@@ -45,7 +45,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China’s Rise." [[pre-analysis plan](https://osf.io/w7bde)]
 
 ## Work in Progress
-  * "Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings" (dissertation book project)
+  * _Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings_ (dissertation book project)
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Democratic Evaluation: How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Dynamic Democratic Backsliding"
