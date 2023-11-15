@@ -36,19 +36,19 @@ In answering these questions, I zoom in on the roles of mass media, political el
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Registered report principally accepted at _The Journal of Politics_.
   * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "Self-Reported Political Ideology." Invited to revise and resubmit at _Political Science Research and Methods_.
-  * **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/gjjs/0fd37e1bc5524a4eaec97ae6df7b4301.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Revise and resubmit at _Foreign Policy Analysis_.
+  * **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/gjjs/0fd37e1bc5524a4eaec97ae6df7b4301.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Invited to revise and resubmit at _Foreign Policy Analysis_.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[pre-analysis plan](https://osf.io/2hn3q)]
+  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Strategies of Semi- and Super-Reciprocity."
   * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[pre-analysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
   * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f)]
   * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
-  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Symmetric, Semi- and Super-Reciprocity."
   * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China’s Rise." [[pre-analysis plan](https://osf.io/w7bde)]
 
 ## Work in Progress
   * _Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings_ (dissertation book project)
+  * "Dynamic Democratic Backsliding"
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Democratic Evaluation: How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
-  * "Dynamic Democratic Backsliding"
   * "Measuring and Testing Interventions to Change Resilience and Will-to-Fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
         
 ## Null Results Reports
