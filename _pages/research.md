@@ -42,7 +42,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[pre-analysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
   * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[pre-analysis plan 1](https://osf.io/w59ek), [pre-analysis plan 2](https://osf.io/5w63f), [pre-analysis plan 3](https://osf.io/4mcy6)]
   * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[pre-analysis plan 1](https://osf.io/pm8nd), [pre-analysis plan 2](https://osf.io/rb64t)]
-  * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China’s Rise." [[pre-analysis plan](https://osf.io/w7bde)]
+  * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China’s Rise." [[pre-analysis plan](https://osf.io/jvehu)]
 
 ## Work in Progress
   * _Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings_ (dissertation book project)
