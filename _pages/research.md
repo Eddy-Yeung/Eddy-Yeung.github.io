@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Focusing on public opinion, my research aims to contribute to a more liberal and democratic society, such that individuals—despite their social, economic, and political differences—can peacefully coexist. Thus, my research agenda centers around the following questions that lie at the heart of liberal democracy:
+Focusing on public opinion, my research aims to contribute to a more liberal and democratic society, such that global citizens—despite their social, economic, and political differences—can peacefully coexist. Thus, my research agenda centers around the following questions that lie at the heart of liberal democracy:
 
 - Under what conditions does the public resist autocracy and defend democracy?
 - Under what conditions does the public abandon outgroup prejudice and endorse social policy?
