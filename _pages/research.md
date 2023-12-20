@@ -35,7 +35,7 @@ In answering these questions, I zoom in on the roles of mass media, political el
 ## Working Papers
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Registered report principally accepted at _The Journal of Politics_.
-  * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "Self-Reported Political Ideology." Conditionally accepted at _Political Science Research and Methods_.
+  * **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "Self-Reported Political Ideology." Conditionally accepted at _Political Science Research and Methods_. [[preanalysis plan](https://osf.io/87bvs)]
   * **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Revised and resubmitted at _Foreign Policy Analysis_.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Strategies of Semi- and Super-Reciprocity." [[preanalysis plan](https://osf.io/pbuew)]
