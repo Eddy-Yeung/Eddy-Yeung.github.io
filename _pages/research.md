@@ -50,6 +50,8 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Democratic Evaluation: How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Measuring and Testing Interventions to Change Resilience and Will-to-Fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+  * "Perceptions, Misperceptions, and Crisis Deescalation: Cross-National Experimental Evidence from China and the US" (with [Matthew J. Conklin](https://matthewjconklin.com))
+  * "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
         
 ## Null Results Reports
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [preanalysis plan](https://osf.io/fg2d6)]
