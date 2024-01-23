@@ -16,4 +16,4 @@ I hold an MPhil in Economic Research from the University of Cambridge, where I w
 
 Growing up in Hong Kong's public housing shaped how I think about social inequality, social justice, and social policy. It also drew me closer to the masses, whose formation of political attitudes is the crux of my research agenda.
 
-My research has been published in _Comparative Political Studies_, _European Union Politics_, _International Organization_, and _Political Behavior_. My other work has been conditionally or principally accepted at _Political Science Research and Methods_ and _The Journal of Politics_.
+My research has been published or is forthcoming in _Comparative Political Studies_, _European Union Politics_, _International Organization_, _Political Behavior_, and _Political Science Research and Methods_.
