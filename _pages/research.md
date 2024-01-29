@@ -41,11 +41,11 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Registered report principally accepted at _The Journal of Politics_.
   * **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Revised and resubmitted at _Foreign Policy Analysis_.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
-  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Strategies of Semi- and Super-Reciprocity." [[preanalysis plan](https://osf.io/pbuew)]
-  * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
-  * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
   * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[preanalysis plan 1](https://osf.io/pm8nd), [preanalysis plan 2](https://osf.io/rb64t)]
-  * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Depolarize Americans? An Experimental Test in the Shadow of China’s Rise." [[preanalysis plan](https://osf.io/jvehu)]
+  * [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+  * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Cross-National Experiments in the United States and China." [[preanalysis plan](https://osf.io/pbuew)]
+  * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
+  * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise." [[preanalysis plan](https://osf.io/jvehu)]
 
 ## Work in Progress
   * _Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings_ (dissertation book project)
@@ -53,10 +53,10 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * "Mass Understandings of Democracy: Experimental Evidence from a Six-Country Survey" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
   * "Democratic Evaluation: How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
   * "Measuring and Testing Interventions to Change Resilience and Will-to-Fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
-  * "Perceptions, Misperceptions, and Crisis Deescalation: Cross-National Experimental Evidence from China and the US" (with [Matthew J. Conklin](https://matthewjconklin.com))
+  * "Perception, Misperception, and Crisis Deescalation: Cross-National Experimental Evidence" (with [Matthew Conklin](https://matthewjconklin.com))
   * "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
         
-## Null Results Reports
+## Null Results Report
   * [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2022. "[Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai](https://osf.io/eymhu)." [[replication material](https://github.com/Eddy-Yeung/mig-and-redist), [preanalysis plan](https://osf.io/fg2d6)]
   
   
