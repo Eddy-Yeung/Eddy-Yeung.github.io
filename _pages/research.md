@@ -8,7 +8,7 @@ author_profile: true
 Focusing on public opinion, my research aims to contribute to a more liberal and democratic society, such that global citizens—despite their social, economic, and political differences—can peacefully coexist. Motivated by this objective, my research agenda centers around the following questions that lie at the heart of liberal democracy:
 
 - Under what conditions does the public resist autocracy and defend democracy?
-- Under what conditions does the public abandon outgroup prejudice and endorse social policy?
+- Under what conditions does the public abandon outgroup prejudice and endorse liberal policy?
 - Under what conditions does the public oppose protectionist policy and favor international cooperation?
 
 In answering these questions, I zoom in on the roles of mass media, political elites, and individual psychology.
