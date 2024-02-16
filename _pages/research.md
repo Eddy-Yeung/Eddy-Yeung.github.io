@@ -45,7 +45,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
   * **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
   * **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[preanalysis plan 1](https://osf.io/pm8nd), [preanalysis plan 2](https://osf.io/rb64t)]
   * [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Cross-National Experiments in the United States and China." [[preanalysis plan](https://osf.io/pbuew)]
-  * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration" [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
+  * **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration." [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
   * **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise." [[preanalysis plan](https://osf.io/jvehu)]
   * **Yeung, Eddy S. F.** "Dynamic Democratic Backsliding." [[preanalysis plan](https://osf.io/kczh6)]
 
