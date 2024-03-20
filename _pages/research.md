@@ -15,15 +15,6 @@ In answering these questions, I zoom in on the roles of mass media, political el
 
 ## Publications
 
--   **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "What Is a Patriot? A Cross-National Study in China and the United States." Accepted at *Foreign Policy Analysis*. [[replication material](https://doi.org/10.7910/DVN/GEV30Y), [preprint](https://eddy-yeung.github.io/assets/YeungWangQuek_patriot.pdf)]
-    -   Keywords: patriotism, nationalism, national identity, China and the United States, public opinion, foreign policy preferences
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Patriotism is a pervasive political force. However, not much is known about how people understand what it means to be "patriotic" in the first place. We conduct a cross-country study of mass understandings of patriotism. Through parallel national surveys in two global superpowers—China and the United States—we uncover the substantively different understandings of what it means to be "patriotic" between and within countries, and how the different understandings may map onto different policy preferences. In particular, while the literature draws a distinction between (benign) patriotism and (malign) nationalism, we find that most Chinese respondents—and about a third of American respondents—understand patriotism as nationalism. The nationalistic understanding of patriotism, in turn, corresponds to more hawkish foreign policy preferences. By unpacking folk intuitions about patriotism and mapping them onto existing scholarly debates, we bridge the distance between the academic literature and the mass political behavior it seeks to explain.
-
-        </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG), [preanalysis plan](https://osf.io/87bvs)]
     -   Coverage: [Good Authority](https://goodauthority.org), [The Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
@@ -32,6 +23,15 @@ In answering these questions, I zoom in on the roles of mass media, political el
         <summary>Abstract:</summary>
 
         American politics scholarship has relied extensively on self-reported measures of ideology. We evaluate these widely used measures through an original national survey. Descriptively, we show that Americans' understandings of "liberal" and "conservative" are weakly aligned with conventional definitions of these terms and that such understandings are heterogeneous across social groups, casting doubt on the construct validity and measurement equivalence of ideological self-placements. Experimentally, we randomly assign one of three measures of ideology to each respondent: (1) the standard ANES question, (2) a version that adds definitions of "liberal" and "conservative," and (3) a version that keeps these definitions but removes ideological labels from the question. We find that the third measure, which helps to isolate symbolic ideology from operational ideology, shifts self-reported ideology in important ways: Democrats become more conservative, and Republicans more liberal. These findings offer first-cut experimental evidence on the limitations of self-reported ideology as a measure of operational ideology, and contribute to ongoing debates about the use of ideological self-placements in American politics.
+
+        </details>
+-   **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). "[What Is a Patriot? A Cross-National Study in China and the United States](https://doi.org/10.1093/fpa/orae007)." Accepted at *Foreign Policy Analysis*. [[replication material](https://doi.org/10.7910/DVN/GEV30Y), [preprint](https://eddy-yeung.github.io/assets/YeungWangQuek_patriot.pdf)]
+    -   Keywords: patriotism, nationalism, national identity, China and the United States, public opinion, foreign policy preferences
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Patriotism is a pervasive political force. However, not much is known about how people understand what it means to be "patriotic" in the first place. We conduct a cross-country study of mass understandings of patriotism. Through parallel national surveys in two global superpowers—China and the United States—we uncover the substantively different understandings of what it means to be "patriotic" between and within countries, and how the different understandings may map onto different policy preferences. In particular, while the literature draws a distinction between (benign) patriotism and (malign) nationalism, we find that most Chinese respondents—and about a third of American respondents—understand patriotism as nationalism. The nationalistic understanding of patriotism, in turn, corresponds to more hawkish foreign policy preferences. By unpacking folk intuitions about patriotism and mapping them onto existing scholarly debates, we bridge the distance between the academic literature and the mass political behavior it seeks to explain.
 
         </details>
 -   **Yeung, Eddy S. F.** 2024. "[Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US](https://rdcu.be/cVUvX)." *Political Behavior* 46(1): 135--61. [[replication material](https://doi.org/10.7910/DVN/VCHMLD), [preanalysis plan](https://osf.io/bcuqe), [slides](https://eddy-yeung.github.io/assets/Yeung_APPAM.pdf)]
