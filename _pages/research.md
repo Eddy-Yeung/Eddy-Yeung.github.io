@@ -16,7 +16,7 @@ In answering these questions, I zoom in on the roles of mass media, political el
 ## Publications
 
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG), [preanalysis plan](https://osf.io/87bvs)]
-    -   Coverage: [Good Authority](https://goodauthority.org), [The Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723)
+    -   Coverage: [The Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
     -   <details>
 
