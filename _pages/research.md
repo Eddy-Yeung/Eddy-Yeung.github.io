@@ -54,7 +54,6 @@ In answering these questions, I zoom in on the roles of mass media, political el
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." *International Organization* 76(3): 741--65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
-    -   Coverage: [U.S.-China Perception Monitor](http://uscnpm.com/model_item.html?action=view&table=article&id=27753)
     -   Keywords: relative gains, other-regarding preferences, trade, U.S.-China relations, public opinion
     -   <details>
 
@@ -77,7 +76,7 @@ In answering these questions, I zoom in on the roles of mass media, political el
 ## Working Papers
 
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Registered report principally accepted at *The Journal of Politics*.
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Conditionally accepted at *The Journal of Politics*.
     -   <details>
 
         <summary>Abstract:</summary>
@@ -151,7 +150,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (working title, book project)
--   "Do I Live in a Democracy? How Comparisons Influence Individual Assessments of Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
+-   "How Comparisons Influence Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Measuring and Testing Interventions to Change Resilience and Will-to-fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
