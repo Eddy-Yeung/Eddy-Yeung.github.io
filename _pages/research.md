@@ -92,12 +92,22 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals' incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
 
         </details>
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discovered strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People evaluate democracy in ways that emphasize free and fair elections and civil liberties. This pattern is consistent across all six countries and among a diverse range of subgroups defined by demographic and political factors. While people subscribe to other conceptions of democracy (regarding economic equality, rule-abidance, etc.), they do so less consistently or to a lesser extent.
+
+        </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
     -   <details>
 
         <summary>Abstract:</summary>
 
         In contemporary autocracies where democratic uprisings have gained momentum, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens' attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I argue that such propaganda aims to provoke and radicalize the opposition: by radicalizing protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition; thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings, benefiting authoritarian survival. I conduct a preregistered experiment in Hong Kong and find that regime opponents report higher levels of anger, disgust, and violence support upon randomized exposure to provocative propaganda, offering microfoundations for my theory. Additionally, I provide qualitative evidence by tracing Hong Kong's democratic uprising in 2019–20.
+        
+        </details>
 -   **Yeung, Eddy S. F.** "Dynamic Democratic Backsliding." [[preanalysis plan](https://osf.io/kczh6)]
     -   <details>
 
@@ -138,23 +148,17 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants' crime rate is lower than natives' crime rate. Across three well-powered experiments, we estimate substantively null effects of factual corrections on multiple measures of prejudice. Policy attitudes also did not change, although our information interventions significantly reduced misperceptions about Blacks and immigrants. These findings highlight the challenges of using corrective information to improve citizens' attitudes toward minority groups.
 
         </details>
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries."
-    -   <details>
 
-        <summary>Abstract:</summary>
-
-        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discovered strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People evaluate democracy in ways that emphasize free and fair elections and civil liberties. This pattern is consistent across all six countries and among a diverse range of subgroups defined by demographic and political factors. While people subscribe to other conceptions of democracy (regarding economic equality, rule-abidance, etc.), they do so less consistently or to a lesser extent.
-
-        </details>
-
-## Work in Progress
+## Work in Progress (Select)
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (working title, book project)
--   "How Comparisons Influence Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
+-   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Measuring and Testing Interventions to Change Resilience and Will-to-fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
+-   "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "The Spillover Effects of Minimum Wage Framing on Americans' Social Welfare Preferences" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
+-   "Spillover Effects of Framing: Minimum Wage, Living Wage, and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
+-   "After Failed Uprisings: Propaganda and the Political Effects of Dissidents’ Confessions in Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com))
 
 ## Null Results Report
 
