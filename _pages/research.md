@@ -84,7 +84,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China's democracy more positively.
 
         </details>
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." Resubmitted at *The Journal of Politics*. [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
     -   <details>
 
         <summary>Abstract:</summary>
@@ -92,12 +92,20 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals' incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
 
         </details>
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries."
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries." Invited to resubmit at *Science*.
     -   <details>
 
         <summary>Abstract:</summary>
 
         How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discovered strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People evaluate democracy in ways that emphasize free and fair elections and civil liberties. This pattern is consistent across all six countries and among a diverse range of subgroups defined by demographic and political factors. While people subscribe to other conceptions of democracy (regarding economic equality, rule-abidance, etc.), they do so less consistently or to a lesser extent.
+
+        </details>
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States." [[preanalysis plan](https://osf.io/pbuew)]
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. We delineate and analyze three theoretical forms of reciprocity: balanced reciprocity (reciprocation perceivably equivalent to the received), semi-reciprocity (less than received), and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has profoundly impacted the global economy.
 
         </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
@@ -122,14 +130,6 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         <summary>Abstract:</summary>
 
         Past influential literature in IPE holds that individuals "learn to love globalization." Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify sociotropic information that is "most likely" to enhance trade support in the US: trade's benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments, I find no evidence that informing citizens about the societal benefits of trade increases trade support, suggesting that the role of sociotropic information in shaping trade attitudes may be more limited than previously thought.
-
-        </details>
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States." [[preanalysis plan](https://osf.io/pbuew)]
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. We delineate and analyze three theoretical forms of reciprocity: balanced reciprocity (reciprocation perceivably equivalent to the received), semi-reciprocity (less than received), and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has profoundly impacted the global economy.
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise." [[preanalysis plan](https://osf.io/jvehu)]
@@ -159,6 +159,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing: Minimum Wage, Living Wage, and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
 -   "After Failed Uprisings: Propaganda and the Political Effects of Dissidents’ Confessions in Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com))
+-   "Voice After Exit: Hong Kong Diaspora's Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), [Athena Tong](https://esrp.rcast.u-tokyo.ac.jp/experts/athena-kerin-tong/?lang=en), and Sam Yip)
 
 ## Null Results Report
 
