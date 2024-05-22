@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Propaganda as Provocation"
+permalink: /dissertation/
+author_profile: true
+---
+
+In contemporary autocracies where democratic uprisings have gained momentum, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the opposition and the ongoing movement. What is the political logic behind it?
+
+My dissertation offers a provocative explanation: such propaganda aims to enrage, disgust, and therefore radicalize the opposition. By radicalizing protesters in social movements, the autocrat can discredit regime opponents and dissuade the rest of the public from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings, beneﬁting authoritarian survival.
+
+I examine my theory in Hong Kong, where the Anti-Extradition Law Amendment Bill (Anti-ELAB) movement is one of the largest democratic uprisings in recent history and where the opposition radicalized in the shadow of provocative propaganda. First, I conduct content analysis on local media outlets to illustrate the strategic timing of provocative propaganda and document how it worked in tandem with other forms of political messaging to exploit the radicalization of the opposition. Then, I use an experiment to demonstrate the radicalizing effects of provocative propaganda, showing causal evidence that regime opponents in Hong Kong reported higher levels of anger, disgust, and violence support upon randomized exposure to such propaganda. I distill my theory and experimental findings in my job market paper, *The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings*, which won the 2024 Timothy E. Cook Best Graduate Student Paper Award from [APSA’s Political Communication Section](https://politicalcommunication.org).
+
+After providing microlevel evidence consistent with the observable implications of my theory, I triangulate primary and secondary sources to qualitatively trace the opposition’s responses to provocation and radicalization during the Anti-ELAB movement. Finally, I provide a narrative of the media environments in other autocracies amid recent popular uprisings to shed light on the generalizability and scope conditions of my theory, positing that provocative propaganda is more likely to be produced when state control is strong enough to tame the radicalized opposition, especially amid domestic emergency where repression is imperative. By offering and testing an original theory of how autocrats use propaganda to impede democratic uprisings, my dissertation elucidates the logic of state-led provocation in politics, demonstrating how emotions can be weaponized by state leaders in time of conflict.
+
+My dissertation has been generously funded by Princeton’s [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), Emory’s [Halle Institute for Global Research](https://halle.emory.edu), APSA’s [Centennial Center](https://connect.apsanet.org/centennialcenter), and the [Institute for Humane Studies](https://www.theihs.org).
