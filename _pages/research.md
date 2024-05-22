@@ -106,7 +106,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
-    -   Recipient of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
+    -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
         <summary>Abstract:</summary>
