@@ -5,13 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Focusing on public opinion, my research aims to contribute to a more liberal and democratic society, such that citizens within and across countries—despite their social, economic, and political divides—can peacefully coexist. Motivated by this objective, my research agenda centers around the following questions:
-
--   Under what conditions does the public resist autocracy and defend democracy?
--   Under what conditions does the public abandon outgroup prejudice and endorse liberal policy?
--   Under what conditions does the public oppose protectionist policy and favor international cooperation?
-
-In answering these questions, I zoom in on the roles of mass media, political elites, and individual psychology.
+I study how political communication and elite behavior shape public opinion. An important part of my research agenda unpacks how autocrats use propaganda to manipulate mass beliefs, with implications for political conflict and authoritarian resilience. Another major research agenda examines how competition concerns between the two global superpowers—China and the United States—constrain individual preferences for international cooperation and crisis deescalation, shedding light on the interplay between domestic politics and international relations through the lens of public opinion.
 
 ## Publications
 
@@ -76,7 +70,8 @@ In answering these questions, I zoom in on the roles of mass media, political el
 ## Working Papers
 
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Conditionally accepted at *The Journal of Politics*.
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
+    -   Conditionally accepted at *The Journal of Politics*
     -   <details>
 
         <summary>Abstract:</summary>
@@ -84,7 +79,8 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China's democracy more positively.
 
         </details>
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." Resubmitted at *The Journal of Politics*. [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+    -   Resubmitted at *The Journal of Politics*
     -   <details>
 
         <summary>Abstract:</summary>
@@ -92,7 +88,8 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals' incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
 
         </details>
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries." Invited to resubmit at *Science*.
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Hold Consistent Understandings of Democracy Across and Within Six Very Different Countries."
+    -   Invited to resubmit at *Science*
     -   <details>
 
         <summary>Abstract:</summary>
@@ -109,6 +106,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
+    -   Recipient of [[2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)]
     -   <details>
 
         <summary>Abstract:</summary>
