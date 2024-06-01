@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I study how political communication and elite behavior shape public opinion. An important part of my research agenda unpacks how autocrats use propaganda to manipulate mass beliefs, with implications for political conflict and authoritarian resilience. Another major research agenda examines how competition concerns between the two global superpowers—China and the United States—constrain individual preferences for international cooperation and crisis deescalation, shedding light on the interplay between domestic politics and international relations through the lens of public opinion.
+I study how political communication and elite strategy shape public opinion. In one research agenda, I unpack how autocrats use **propaganda** to manipulate mass beliefs, with implications for authoritarian resilience and domestic conflict. In another agenda, I examine how **great power competition** between China and the United States constrains individual preferences for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of public opinion. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of important concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
 
 ## Publications
 
