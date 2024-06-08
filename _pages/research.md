@@ -102,7 +102,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         <summary>Abstract:</summary>
 
-        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. We delineate and analyze three theoretical forms of reciprocity: balanced reciprocity (reciprocation perceivably equivalent to the received), semi-reciprocity (less than received), and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has profoundly impacted the global economy.
+        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates---and how its domestic public and international rival respond to its reciprocation---is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
 
         </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
@@ -147,17 +147,18 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 
-## Work in Progress (Select)
+## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (working title, book project)
--   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
--   "Measuring and Testing Interventions to Change Resilience and Will-to-fight in Taiwan" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+-   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
+-   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China" (with [Matthew Conklin](https://matthewjconklin.com))
+-   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "After Failed Uprisings: The Impacts of Propagated Dissidents’ Confessions in Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com))
+-   "Voice After Exit: Hong Kong Diaspora's Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), [Athena Tong](https://esrp.rcast.u-tokyo.ac.jp/experts/athena-kerin-tong/?lang=en), and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing: Minimum Wage, Living Wage, and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
--   "After Failed Uprisings: Propaganda and the Political Effects of Dissidents’ Confessions in Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com))
--   "Voice After Exit: Hong Kong Diaspora's Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), [Athena Tong](https://esrp.rcast.u-tokyo.ac.jp/experts/athena-kerin-tong/?lang=en), and Sam Yip)
 
 ## Null Results Report
 
