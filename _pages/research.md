@@ -97,6 +97,15 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discover strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People within these countries and among a diverse range of subgroups consistently emphasize free and fair elections and civil liberties as key determinants of democracy. Countries are also considered more democratic if they produce desirable outcomes, but these effects are smaller and less consistent.
 
         </details>
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise." [[preanalysis plan](https://osf.io/jvehu)]
+    -   Invited to resubmit at *Political Science Research and Methods*
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations' similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted both Democrats' and Republicans' support for assertive foreign policy, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
+
+        </details>
 -   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States." [[preanalysis plan](https://osf.io/pbuew)]
     -   <details>
 
@@ -128,14 +137,6 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         <summary>Abstract:</summary>
 
         Past influential literature in IPE holds that individuals "learn to love globalization." Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify sociotropic information that is "most likely" to enhance trade support in the US: trade's benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments, I find no evidence that informing citizens about the societal benefits of trade increases trade support, suggesting that the role of sociotropic information in shaping trade attitudes may be more limited than previously thought.
-
-        </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise." [[preanalysis plan](https://osf.io/jvehu)]
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations' similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted both Democrats' and Republicans' support for assertive foreign policy, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration." [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
