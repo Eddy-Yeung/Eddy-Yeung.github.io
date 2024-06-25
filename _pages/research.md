@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I study how political communication and elite strategy shape public opinion. In one research agenda, I unpack how autocrats use **propaganda** to manipulate mass beliefs, with implications for authoritarian resilience and domestic conflict. In another agenda, I examine how **great power competition** between China and the United States constrains individual preferences for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of public opinion. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of contested concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
+I study how political communication, elite strategy, and psychology shape mass preferences for conflict, international cooperation, and democratic governance. In one research agenda, I unpack how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for political violence and authoritarian resilience. In another agenda, I examine how **great power competition** between China and the United States constrains individual preferences for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of public opinion. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of contested concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
 
 ## Publications
 
@@ -89,7 +89,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Consistently View Elections and Civil Liberties as Key Components of Democracy."
-    -   Invited to resubmit at *Science*
+    -   Resubmitted at *Science*
     -   <details>
 
         <summary>Abstract:</summary>
