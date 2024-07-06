@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I study how political communication, elite strategy, and psychology shape (1) the dynamics of *conflict escalation* and (2) mass preferences for *international cooperation* and *democracy*. In one research agenda, I unpack how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for political violence and authoritarian resilience. In another agenda, I examine how **great power competition** between China and the United States constrains individual preferences for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of political psychology and public opinion. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of contested concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
+I study how political communication, elite strategy, and psychology shape (1) the dynamics of *conflict escalation* and (2) public opinion on *international cooperation* and *democracy*. In one research agenda, I unpack how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for political violence and authoritarian resilience. In another agenda, I examine how **great power competition** between China and the United States constrains individual preferences for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of political psychology. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of contested concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
 
 ## Publications
 
@@ -150,13 +150,13 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
 ## Work in Progress
 
--   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (working title, book project)
+-   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
--   "After Failed Uprisings: Propaganda on Dissidents’ Confessions and Its Political Logic in Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com))
+-   "Confession Propaganda and Its Political Impacts upon Failed Uprisings: Theory and Evidence from Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
 -   "Voice After Exit: Hong Kong Diaspora's Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing: Minimum Wage, Living Wage, and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
