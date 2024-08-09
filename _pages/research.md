@@ -9,7 +9,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
 ## Publications
 
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." [[preanalysis plan](https://osf.io/vtsm5)]
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." Accepted at *The Journal of Politics*. [[preanalysis plan](https://osf.io/vtsm5)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
@@ -18,7 +18,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
         Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise." [[preanalysis plan](https://osf.io/jvehu)]
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise." Accepted at *Political Science Research and Methods*. [[preanalysis plan](https://osf.io/jvehu)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
 
