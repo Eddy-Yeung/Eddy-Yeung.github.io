@@ -9,6 +9,24 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
 ## Publications
 
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." [[preanalysis plan](https://osf.io/vtsm5)]
+    -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
+
+        </details>
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise." [[preanalysis plan](https://osf.io/jvehu)]
+    -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
+
+        </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG), [preanalysis plan](https://osf.io/87bvs)]
     -   Coverage: [The Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
@@ -48,7 +66,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." *International Organization* 76(3): 741--65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
-    -   Keywords: relative gains, other-regarding preferences, trade, U.S.-China relations, public opinion
+    -   Keywords: relative gains, other-regarding preferences, trade, US-China relations, public opinion
     -   <details>
 
         <summary>Abstract:</summary>
@@ -70,24 +88,6 @@ I study how political communication, elite strategy, and psychology shape (1) th
 ## Working Papers
 
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies."
-    -   Conditionally accepted at *The Journal of Politics*
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
-
-        </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise." [[preanalysis plan](https://osf.io/jvehu)]
-    -   Conditionally accepted at *Political Science Research and Methods*
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
-
-        </details>
 -   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
     -   Resubmitted at *The Journal of Politics*
     -   <details>
@@ -147,6 +147,15 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate substantively null effects of factual corrections on multiple measures of prejudice. Policy attitudes also did not change, although our information interventions significantly reduced misperceptions about Blacks and immigrants. These findings highlight the challenges of using corrective information to improve citizens’ attitudes toward minority groups.
 
         </details>
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        To what extent do citizens prioritize living in a democracy, compared to being wealthy, safe, and other factors? In an era of democratic decay and authoritarian assertiveness, this question has become hotly contested. We provide a new perspective using conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (existence of elections, health care, etc.) and individual-level outcomes that the respondent would experience (wealth and being a minority). Citizens from Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+
+        </details>
+
 
 ## Work in Progress
 
@@ -155,7 +164,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 -   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
--   "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Confession Propaganda and Its Political Impacts upon Failed Uprisings: Theory and Evidence from Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
 -   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
