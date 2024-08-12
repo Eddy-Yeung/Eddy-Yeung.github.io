@@ -9,7 +9,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
 ## Publications
 
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." *The Journal of Politics*. [[preanalysis plan](https://osf.io/vtsm5)]
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)." *The Journal of Politics*. [[preanalysis plan](https://osf.io/vtsm5)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
@@ -18,7 +18,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
         Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://coss.fsu.edu/polisci/grad-students/weifang-xu). Forthcoming. "Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise." *Political Science Research and Methods*. [[preanalysis plan](https://osf.io/jvehu)]
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). Forthcoming. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://drive.google.com/file/d/1LHUqvb1vEfsk-Am7SShGgZlGAfaEGTWC/view?usp=sharing)." *Political Science Research and Methods*. [[preanalysis plan](https://osf.io/jvehu)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
 
@@ -131,7 +131,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Democratic backsliding occurs over time, but the study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different <em>sequences</em> of democratic backsliding shape accountability. Using a preregistered experiment capturing the reality that democratic transgressions are committed by elected officials (not unelected candidates) over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to recall the incumbent as episodes of democratic backsliding unfold. Moreover, reacting to the same transgressions in different time contexts, respondents change their recall decisions drastically depending on what other transgressions precede. Incumbents who incrementally increase the severity of democratic transgressions are less likely to be held accountable than those who incrementally decrease the severity. My dynamic approach not only paints a less pessimistic picture of American democracy but also demonstrates how sequence matters in shaping voter behavior amid democratic backsliding.
 
         </details>
--   **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Sociotropic Information on Public Support for International Trade." [[preanalysis plan 1](https://osf.io/pm8nd), [preanalysis plan 2](https://osf.io/rb64t)]
+-   **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Positive Sociotropic Information on Public Support for International Trade." [[preanalysis plan 1](https://osf.io/pm8nd), [preanalysis plan 2](https://osf.io/rb64t)]
     -   <details>
 
         <summary>Abstract:</summary>
@@ -155,13 +155,20 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         To what extent do citizens prioritize living in a democracy, compared to being wealthy, safe, and other factors? In an era of democratic decay and authoritarian assertiveness, this question has become hotly contested. We provide a new perspective using conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (existence of elections, health care, etc.) and individual-level outcomes that the respondent would experience (wealth and being a minority). Citizens from Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
 
         </details>
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How do perceptions about the power and aggressiveness of a peer competitor influence public bellicosity in a crisis scenario? A longstanding literature identifies elite misperceptions about an adversary’s capabilities and intentions as an important source of crisis escalation. We shift the theoretical and empirical focus onto the public, investigating how mass perceptions about the adversary shape public support for crisis deescalation. Leveraging the Taiwan Strait crisis as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position in the conflict when presented with factual information that frames different levels of economic power, military capability, or public hawkishness of the other side. Our dyadic experiments reveal that facts undercutting the adversary’s economy and military power did <em>not</em> increase individual preferences for conflict escalation. Importantly, information that reduced respondents’ perceptions of adversary citizens’ hawkishness significantly tamped down public support for escalation in both countries. These findings challenge a dominant perspective that individuals locked in a bilateral conflict will be more emboldened to support aggressive actions against the adversary when its perceived power or reputation for resolve declines.
+
+        </details>
 
 
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "" (with [Jonathan Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
