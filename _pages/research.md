@@ -88,7 +88,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 ## Working Papers
 
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[preanalysis plan](https://osf.io/z23xu), [poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
     -   Resubmitted at *The Journal of Politics*
     -   <details>
 
@@ -106,7 +106,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discover strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People within these countries and among a diverse range of subgroups consistently emphasize free and fair elections and civil liberties as key determinants of democracy. Countries are also considered more democratic if they produce desirable outcomes, but these effects are smaller and less consistent.
 
         </details>
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States." [[preanalysis plan](https://osf.io/pbuew)]
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -114,7 +114,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
 
         </details>
--   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings." [[preanalysis plan](https://osf.io/2hn3q)]
+-   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
     -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
@@ -123,7 +123,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         In contemporary autocracies where democratic uprisings have gained momentum, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I argue that such propaganda aims to provoke and radicalize the opposition: by radicalizing protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition; thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings, benefiting authoritarian survival. I conduct a preregistered experiment in Hong Kong and find that regime opponents report higher levels of anger, disgust, and violence support upon randomized exposure to provocative propaganda, offering microfoundations for my theory. I provide additional qualitative evidence by tracing Hong Kong’s democratic uprising in 2019–20, illustrating the strategic timing of provocative propaganda.
         
         </details>
--   **Yeung, Eddy S. F.** "Dynamic Democratic Backsliding." [[preanalysis plan](https://osf.io/kczh6)]
+-   **Yeung, Eddy S. F.** "Dynamic Democratic Backsliding."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -131,7 +131,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Democratic backsliding occurs over time, but the study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different <em>sequences</em> of democratic backsliding shape accountability. Using a preregistered experiment capturing the reality that democratic transgressions are committed by elected officials (not unelected candidates) over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to recall the incumbent as episodes of democratic backsliding unfold. Moreover, reacting to the same transgressions in different time contexts, respondents change their recall decisions drastically depending on what other transgressions precede. Incumbents who incrementally increase the severity of democratic transgressions are less likely to be held accountable than those who incrementally decrease the severity. My dynamic approach not only paints a less pessimistic picture of American democracy but also demonstrates how sequence matters in shaping voter behavior amid democratic backsliding.
 
         </details>
--   **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Positive Sociotropic Information on Public Support for International Trade." [[preanalysis plan 1](https://osf.io/pm8nd), [preanalysis plan 2](https://osf.io/rb64t)]
+-   **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Positive Sociotropic Information on Public Support for International Trade."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -139,7 +139,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Past influential literature in IPE holds that individuals "learn to love globalization." Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify sociotropic information that is "most likely" to enhance trade support in the US: trade’s benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments, I find no evidence that informing citizens about the societal benefits of trade increases trade support, suggesting that the role of sociotropic information in shaping trade attitudes may be more limited than previously thought.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration." [[preanalysis plan 1](https://osf.io/w59ek), [preanalysis plan 2](https://osf.io/5w63f), [preanalysis plan 3](https://osf.io/4mcy6)]
+-   **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
     -   <details>
 
         <summary>Abstract:</summary>
