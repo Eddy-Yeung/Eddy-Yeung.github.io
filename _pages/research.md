@@ -98,7 +98,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Consistently View Elections and Civil Liberties as Key Components of Democracy."
-    -   Resubmitted at *Science*
+    -   Second round of revise and resubmit at *Science*
     -   <details>
 
         <summary>Abstract:</summary>
@@ -131,12 +131,12 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Democratic backsliding occurs over time, but the study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different <em>sequences</em> of democratic backsliding shape accountability. Using a preregistered experiment capturing the reality that democratic transgressions are committed by elected officials (not unelected candidates) over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to recall the incumbent as episodes of democratic backsliding unfold. Moreover, reacting to the same transgressions in different time contexts, respondents change their recall decisions drastically depending on what other transgressions precede. Incumbents who incrementally increase the severity of democratic transgressions are less likely to be held accountable than those who incrementally decrease the severity. My dynamic approach not only paints a less pessimistic picture of American democracy but also demonstrates how sequence matters in shaping voter behavior amid democratic backsliding.
 
         </details>
--   **Yeung, Eddy S. F.** "Learning to Love Trade? Effects of Positive Sociotropic Information on Public Support for International Trade."
+-   **Yeung, Eddy S. F.** "Learning to Love Trade? The Impact of Positive Sociotropic Information on Public Support for International Trade."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        Past influential literature in IPE holds that individuals "learn to love globalization." Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify sociotropic information that is "most likely" to enhance trade support in the US: trade’s benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments, I find no evidence that informing citizens about the societal benefits of trade increases trade support, suggesting that the role of sociotropic information in shaping trade attitudes may be more limited than previously thought.
+        Past influential literature in international political economy (IPE) holds that individuals "learn to love globalization." Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify positive sociotropic information that is especially likely to enhance trade support in the US: trade’s benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments and against theoretical expectations, informing American citizens about the societal benefits of trade does not measurably increase their trade support. This finding contributes to the behavioral IPE literature by offering first-cut causal evidence that the role of sociotropic information in influencing trade attitudes may be more limited than previously thought.
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
@@ -148,13 +148,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods."
-    -   <details>
 
-        <summary>Abstract:</summary>
-
-        To what extent do citizens prioritize living in a democracy, compared to being wealthy, safe, and other factors? In an era of democratic decay and authoritarian assertiveness, this question has become hotly contested. We provide a new perspective using conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (existence of elections, health care, etc.) and individual-level outcomes that the respondent would experience (wealth and being a minority). Citizens from Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
-
-        </details>
 -   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States."
     -   <details>
 
