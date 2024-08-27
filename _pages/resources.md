@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Many scholars have generously shared their R tutorials on different topics. Their generosity has benefited my research. Here is a nonexhaustive list of these useful resources:
-  * [R for Data Science](https://r4ds.had.co.nz) (by [Hadley Wickham](https://hadley.nz), [Mine Çetinkaya-Rundel](https://mine-cr.com), and [Garrett Grolemund](https://www.linkedin.com/in/garrett-grolemund-49328411))
+  * [R for Data Science](https://r4ds.hadley.nz) (by [Hadley Wickham](https://hadley.nz), [Mine Çetinkaya-Rundel](https://mine-cr.com), and [Garrett Grolemund](https://www.linkedin.com/in/garrett-grolemund-49328411))
   * [Multilevel Modeling in R](https://cehs-research.github.io/eBook_multilevel) (by [Sarah Schwartz](http://www.sarahschwartzstats.com) and [Tyson Barrett](https://tysonbarrett.com))
   * [Cross-National Research Using Multilevel Modeling: lme4](https://www.alexcernat.com/cross-national-research-using-multilevel-model-in-r) (by [Alexandru Cernat](https://www.alexcernat.com))
   * [Multilevel Regression and Poststratification Case Studies](https://bookdown.org/jl5522/MRP-case-studies) (by [Juan Lopez-Martin](https://www.linkedin.com/in/juan-lopez-martin-9a96a91b8), [Justin H. Phillips](http://www.columbia.edu/~jhp2121), and [Andrew Gelman](http://www.stat.columbia.edu/~gelman))
