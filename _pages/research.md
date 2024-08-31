@@ -9,13 +9,22 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
 ## Publications
 
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. Forthcoming. "People Consistently View Elections and Civil Liberties as Key Components of Democracy." *Science*.
+    -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discover strikingly consistent views on what constitutes a “democratic” country from conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. Across countries (<em>N</em> = 6,150) and diverse subgroups within countries, people similarly emphasize free and fair elections and civil liberties as key determinants of democracy. Countries that produce desirable social and economic outcomes are also considered more democratic, but these and other factors exert a smaller and less consistent effect than elections and civil liberties.
+
+        </details>
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)." *The Journal of Politics*.
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
         <summary>Abstract:</summary>
 
-        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting"—and therefore how "democracy-promoting"—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
+        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how “equity-promoting”—and therefore how “democracy-promoting”—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). Forthcoming. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://drive.google.com/file/d/1LHUqvb1vEfsk-Am7SShGgZlGAfaEGTWC/view?usp=sharing)." *Political Science Research and Methods*.
@@ -34,7 +43,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
         <summary>Abstract:</summary>
 
-        American politics scholarship has relied extensively on self-reported measures of ideology. We evaluate these widely used measures through an original national survey. Descriptively, we show that Americans’ understandings of "liberal" and "conservative" are weakly aligned with conventional definitions of these terms and that such understandings are heterogeneous across social groups, casting doubt on the construct validity and measurement equivalence of ideological self-placements. Experimentally, we randomly assign one of three measures of ideology to each respondent: (1) the standard ANES question, (2) a version that adds definitions of "liberal" and "conservative," and (3) a version that keeps these definitions but removes ideological labels from the question. We find that the third measure, which helps to isolate symbolic ideology from operational ideology, shifts self-reported ideology in important ways: Democrats become more conservative, and Republicans more liberal. These findings offer first-cut experimental evidence on the limitations of self-reported ideology as a measure of operational ideology, and contribute to ongoing debates about the use of ideological self-placements in American politics.
+        American politics scholarship has relied extensively on self-reported measures of ideology. We evaluate these widely used measures through an original national survey. Descriptively, we show that Americans’ understandings of “liberal” and “conservative” are weakly aligned with conventional definitions of these terms and that such understandings are heterogeneous across social groups, casting doubt on the construct validity and measurement equivalence of ideological self-placements. Experimentally, we randomly assign one of three measures of ideology to each respondent: (1) the standard ANES question, (2) a version that adds definitions of “liberal” and “conservative,” and (3) a version that keeps these definitions but removes ideological labels from the question. We find that the third measure, which helps to isolate symbolic ideology from operational ideology, shifts self-reported ideology in important ways: Democrats become more conservative, and Republicans more liberal. These findings offer first-cut experimental evidence on the limitations of self-reported ideology as a measure of operational ideology, and contribute to ongoing debates about the use of ideological self-placements in American politics.
 
         </details>
 -   **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[What Is a Patriot? A Cross-National Study in China and the United States](https://doi.org/10.1093/fpa/orae007)." *Foreign Policy Analysis* 20(2): orae007. [[replication material](https://doi.org/10.7910/DVN/GEV30Y), [preprint](https://eddy-yeung.github.io/assets/YeungWangQuek_patriot.pdf)]
@@ -43,7 +52,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
         <summary>Abstract:</summary>
 
-        Patriotism is a pervasive political force. However, not much is known about how people understand what it means to be "patriotic" in the first place. We conduct a cross-country study of mass understandings of patriotism. Through parallel national surveys in two global superpowers—China and the United States—we uncover the substantively different understandings of what it means to be "patriotic" between and within countries, and how the different understandings may map onto different policy preferences. In particular, while the literature draws a distinction between (benign) patriotism and (malign) nationalism, we find that most Chinese respondents—and about a third of American respondents—understand patriotism as nationalism. The nationalistic understanding of patriotism, in turn, corresponds to more hawkish foreign policy preferences. By unpacking folk intuitions about patriotism and mapping them onto existing scholarly debates, we bridge the distance between the academic literature and the mass political behavior it seeks to explain.
+        Patriotism is a pervasive political force. However, not much is known about how people understand what it means to be “patriotic” in the first place. We conduct a cross-country study of mass understandings of patriotism. Through parallel national surveys in two global superpowers—China and the United States—we uncover the substantively different understandings of what it means to be “patriotic” between and within countries, and how the different understandings may map onto different policy preferences. In particular, while the literature draws a distinction between (benign) patriotism and (malign) nationalism, we find that most Chinese respondents—and about a third of American respondents—understand patriotism as nationalism. The nationalistic understanding of patriotism, in turn, corresponds to more hawkish foreign policy preferences. By unpacking folk intuitions about patriotism and mapping them onto existing scholarly debates, we bridge the distance between the academic literature and the mass political behavior it seeks to explain.
 
         </details>
 -   **Yeung, Eddy S. F.** 2024. "[Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US](https://rdcu.be/cVUvX)." *Political Behavior* 46(1): 135--61. [[replication material](https://doi.org/10.7910/DVN/VCHMLD), [slides](https://eddy-yeung.github.io/assets/Yeung_APPAM.pdf)]
@@ -97,15 +106,6 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals’ incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
 
         </details>
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Consistently View Elections and Civil Liberties as Key Components of Democracy."
-    -   Second round of revise and resubmit at *Science*
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discover strikingly consistent views on what constitutes a "democratic" country from our conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. People within these countries and among a diverse range of subgroups consistently emphasize free and fair elections and civil liberties as key determinants of democracy. Countries are also considered more democratic if they produce desirable outcomes, but these effects are smaller and less consistent.
-
-        </details>
 -   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States."
     -   <details>
 
@@ -139,7 +139,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Past influential literature in international political economy (IPE) holds that individuals “learn to love globalization.” Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify positive sociotropic information that is especially likely to enhance trade support in the US: trade’s benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments and against theoretical expectations, informing American citizens about the societal benefits of trade does not measurably increase their trade support. This finding contributes to the behavioral IPE literature by offering first-cut causal evidence that the role of sociotropic information in influencing trade attitudes may be more limited than previously thought.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Joseph Glasgow](http://polisci.emory.edu/home/people/graduate-students.html). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
+-   **Yeung, Eddy S. F.**, and Joseph Glasgow. "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -149,6 +149,13 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods."
 
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        To what extent do citizens prioritize living in a democracy, compared to being wealthy, safe, and other factors? In an era of democratic decay and authoritarian assertiveness, this question has become hotly contested. We provide a new perspective using conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (existence of elections, health care, etc.) and individual-level outcomes that the respondent would experience (wealth and being a minority). Citizens from Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+
+        </details>
 -   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States."
     -   <details>
 
@@ -169,6 +176,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 -   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing: Minimum Wage, Living Wage, and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
+-   "Foreign Meddling by Adverse Side-Taking'' (with Burak Kazim Yilmaz)
 
 ## Null Results Report
 
