@@ -5,7 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-I study how political communication, elite strategy, and psychology shape (1) the dynamics of conflict escalation and (2) public opinion on international cooperation and democracy. In one research agenda, I unpack how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for political violence and authoritarian resilience. In another agenda, I examine how **great power competition** between China and the United States constrains public support for international cooperation and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of political psychology. Because measuring public opinion is crucial to my research, I have a complementary agenda that seeks to improve the **measurement** of policy preferences, political ideology, and mass understandings of contested concepts (e.g., democracy, patriotism) through theoretically grounded survey instruments.
+I study how political communication, elite strategy, and psychology shape (1) the dynamics of conflict escalation and (2) public opinion on international cooperation and democracy, with a focus on East Asia, the United States, and their interactions.
+
+Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use political rhetoric and media control to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about the Taiwan Strait crisis and its implications for regional and international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence**.
+
+My policy-relevant research has been generously funded by the [American Political Science Association](https://apsanet.org), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. Department of Defense](https://www.defense.gov).
 
 ## Publications
 
@@ -37,7 +41,7 @@ I study how political communication, elite strategy, and psychology shape (1) th
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
-    -   Coverage: [The Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723)
+    -   Coverage: [Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723), [Good Authority](https://goodauthority.org) (editor's commentary)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
     -   <details>
 
@@ -97,23 +101,6 @@ I study how political communication, elite strategy, and psychology shape (1) th
 ## Working Papers
 
 Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
-    -   Resubmitted at *The Journal of Politics*
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals’ incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
-
-        </details>
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
-
-        </details>
 -   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
     -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
@@ -129,6 +116,23 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         <summary>Abstract:</summary>
 
         Democratic backsliding occurs over time, but the study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different <em>sequences</em> of democratic backsliding shape accountability. Using a preregistered experiment capturing the reality that democratic transgressions are committed by elected officials (not unelected candidates) over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to recall the incumbent as episodes of democratic backsliding unfold. Moreover, reacting to the same transgressions in different time contexts, respondents change their recall decisions drastically depending on what other transgressions precede. Incumbents who incrementally increase the severity of democratic transgressions are less likely to be held accountable than those who incrementally decrease the severity. My dynamic approach not only paints a less pessimistic picture of American democracy, but also demonstrates how sequence matters in shaping voter behavior amid democratic backsliding.
+
+        </details>
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+    -   Resubmitted at *The Journal of Politics*
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals’ incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
+
+        </details>
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
 
         </details>
 -   **Yeung, Eddy S. F.** "Learning to Love Trade? The Impact of Positive Sociotropic Information on Public Support for International Trade."
@@ -148,7 +152,6 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "People Worldwide Prioritize Democratic Elections and Public Safety over Other Political, Economic, and Social Goods."
-
     -   <details>
 
         <summary>Abstract:</summary>
