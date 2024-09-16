@@ -22,7 +22,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. In contrast, we discover strikingly consistent views on what constitutes a “democratic” country from conjoint survey experiments conducted in the United States, Italy, Egypt, India, Thailand, and Japan. Across countries (<em>N</em> = 6,150) and diverse subgroups within countries, people similarly emphasize free and fair elections and civil liberties as key determinants of democracy. Countries that produce desirable social and economic outcomes are also considered more democratic, but these and other factors exert a smaller and less consistent effect than elections and civil liberties.
 
         </details>
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)." *The Journal of Politics*.
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
@@ -173,7 +173,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China" (with [Matthew Conklin](https://matthewjconklin.com))
+-   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "The Political Effects of Confession Propaganda upon Failed Uprisings: Theory and Evidence from Hong Kong" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
 -   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
