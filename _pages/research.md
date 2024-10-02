@@ -100,8 +100,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Working Papers
 
-Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
--   **Yeung, Eddy S. F.** "The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings."
+-   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1RTbXnOC5iefHGaVEYkwCq0o-C6NKjLZ-/view?usp=sharing)."
     -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
@@ -110,7 +109,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         In contemporary autocracies where democratic uprisings have gained momentum, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I argue that such propaganda aims to provoke and radicalize the opposition: by radicalizing protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition; thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings, benefiting authoritarian survival. I conduct a preregistered experiment in Hong Kong and find that regime opponents report higher levels of anger, disgust, and violence support upon randomized exposure to provocative propaganda, offering microfoundations for my theory. I provide additional qualitative evidence by tracing Hong Kong’s democratic uprising in 2019–20, illustrating the strategic timing of provocative propaganda.
         
         </details>
--   **Yeung, Eddy S. F.** "Dynamic Democratic Backsliding."
+-   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1DBof1byB2esreG7-Q72aUHnSDPVlYcsd/view?usp=sharing)."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -118,7 +117,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Democratic backsliding occurs over time, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials (not unelected candidates) over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are more likely to be held accountable than those who incrementally increase the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a less pessimistic picture of Americans’ willingness to defend democracy than often suggested, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
 
         </details>
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "[Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics](https://drive.google.com/file/d/1tNZORjSgm4mHgauIFmnC2QLneXkksqiR/view?usp=sharing)." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
     -   Resubmitted at *The Journal of Politics*
     -   <details>
 
@@ -127,7 +126,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. We randomly assign choice sets of policy issues to respondents and measure their preference intensity. We show that measured levels of preference intensity are <em>not</em> sensitive to changes in policy bundles for a wide range of policies. Moreover, QVSR effectively tamps down individuals’ incentives to report extreme preferences compared to Likert measures. We then use our measures to examine how state-level preference intensity predicts actual policy outcomes, offering first-cut empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in U.S. politics.
 
         </details>
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Deescalating a Trade War: Dyadic Experiments in China and the United States."
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "[Deescalating a Trade War: Dyadic Experiments in China and the United States](https://drive.google.com/file/d/1XpDbz_Posd5CP-9zgBPSyZphlpDlMMXI/view?usp=sharing)."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -135,7 +134,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
 
         </details>
--   **Yeung, Eddy S. F.** "Learning to Love Trade? The Impact of Positive Sociotropic Information on Public Support for International Trade."
+-   **Yeung, Eddy S. F.** "[Learning to Love Trade? The Impact of Positive Sociotropic Information on Public Support for International Trade](https://drive.google.com/file/d/1R1y8OEVG3f_1mpg6u6KURtmIjiVW4fJM/view?usp=sharing)."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -143,7 +142,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         Past influential literature in international political economy (IPE) holds that individuals “learn to love globalization.” Recent research further shows that providing egocentric information—which helps individuals understand how trade affects economic self-interest—powerfully shapes trade support. Existing scholarship, however, remains inconclusive on whether sociotropic information—which helps individuals understand how trade affects their country—induces similar effects on trade preferences. Drawing on existing theories and observational data, I first identify positive sociotropic information that is especially likely to enhance trade support in the US: trade’s benefits on American jobs or exports/imports, particularly in the agricultural and manufacturing sectors. I then test the impact of such sociotropic information by conducting two preregistered experiments on nationally-representative samples. Across both experiments and against theoretical expectations, informing American citizens about the societal benefits of trade does not measurably increase their trade support. This finding contributes to the behavioral IPE literature by offering first-cut causal evidence that the role of sociotropic information in influencing trade attitudes may be more limited than previously thought.
 
         </details>
--   **Yeung, Eddy S. F.**, and Joseph Glasgow. "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
+-   **Yeung, Eddy S. F.**, and Joseph Glasgow. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://drive.google.com/file/d/1PkzuZ9Hg6yqQNGromcugBf-WDrJsqpN-/view?usp=sharing)."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -159,7 +158,7 @@ Please [email me](mailto:shing.fung.yeung@emory.edu) for the latest drafts.
         To what extent do citizens prioritize living in a democracy, compared to being wealthy, safe, and other factors? In an era of democratic decay and authoritarian assertiveness, this question has become hotly contested. We provide a new perspective using conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (existence of elections, health care, etc.) and individual-level outcomes that the respondent would experience (wealth and being a minority). Citizens from Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
 
         </details>
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States."
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "[Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States](https://drive.google.com/file/d/1KmQA88IymHbHaAT15T42tzr5-kG-OH15/view?usp=sharing)."
     -   <details>
 
         <summary>Abstract:</summary>
