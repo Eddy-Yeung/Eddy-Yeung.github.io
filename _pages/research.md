@@ -100,7 +100,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Working Papers
 
--   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1RTbXnOC5iefHGaVEYkwCq0o-C6NKjLZ-/view?usp=sharing)."
+-   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1EAVIe1miSK2PIEbTzmDlGKFQQmUwXK-b/view?usp=sharing)."
     -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
