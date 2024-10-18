@@ -13,15 +13,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Publications
 
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. Forthcoming. "People Consistently View Elections and Civil Liberties as Key Components of Democracy." *Science*.
-    -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. By contrast, we discovered very consistent views about what constitutes a “democratic” country from conjoint survey experiments conducted in Egypt, India, Italy, Japan, Thailand, and the United States. Across countries (<em>N</em> = 6,150) and diverse subgroups within countries, people similarly emphasized free and fair elections and civil liberties as being the key determinants of democracy. Countries that produce desirable social and economic outcomes are also considered more democratic, but these and other factors exert a smaller and less consistent effect than elections and civil liberties.
-
-        </details>
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
@@ -38,6 +29,15 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         <summary>Abstract:</summary>
 
         Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
+
+        </details>
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2024. "[People Consistently View Elections and Civil Liberties as Key Components of Democracy](https://doi.org/10.1126/science.adp1274)." *Science*. [[replication material](https://doi.org/10.7910/DVN/WUJCBO)]
+    -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How do people around the world define democracy? Answering this question is critical as countries face democratic backsliding and authoritarian governments promote alternative notions of democracy. Indeed, some scholars argue that people from different backgrounds understand democracy differently. By contrast, we discovered very consistent views about what constitutes a “democratic” country from conjoint survey experiments conducted in Egypt, India, Italy, Japan, Thailand, and the United States. Across countries (<em>N</em> = 6,150) and diverse subgroups within countries, people similarly emphasized free and fair elections and civil liberties as being the key determinants of democracy. Countries that produce desirable social and economic outcomes are also considered more democratic, but these and other factors exert a smaller and less consistent effect than elections and civil liberties.
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
