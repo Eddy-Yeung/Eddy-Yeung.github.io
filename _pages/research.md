@@ -32,6 +32,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2024. "[People Consistently View Elections and Civil Liberties as Key Components of Democracy](https://doi.org/10.1126/science.adp1274)." *Science*. [[replication material](https://doi.org/10.7910/DVN/WUJCBO)]
+    -   Coverage: [Cosmos](https://cosmosmagazine.com/people/society/democracy-definition-global), [Phys.org](https://phys.org/news/2024-10-reveals-global-consensus-democracy.html), [The Conversation](https://theconversation.com/how-different-people-around-the-world-understand-democracy-and-why-it-matters-241617), [Veja](https://veja.abril.com.br/ciencia/o-que-e-democracia-pesquisa-revela-que-ha-um-consenso-entre-culturas-muito-diferentes)
     -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
     -   <details>
 
