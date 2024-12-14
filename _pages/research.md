@@ -135,6 +135,14 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         How do perceptions about the power and aggressiveness of a peer competitor influence public bellicosity in a crisis scenario? Leveraging tensions around the Taiwan Strait as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position in the conflict when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our dyadic experiments (<em>N</em> = 7,409) show that information that reduced respondents’ perceptions of the adversary’s economic or military power did <em>not</em> increase their preferences for conflict escalation, even amid a power transition. Importantly, information that tamped down respondents’ perceptions of adversary citizens’ hawkishness significantly increased public support for de-escalation in both countries. These findings challenge a dominant perspective that individuals locked in a bilateral conflict will be more emboldened to support aggressive actions against the adversary when its perceived power or resolve declines.
 
         </details>
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from Mirror Experiments in China and the United States."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Are hawks or doves better at making peace? Existing empirical scholarship has extensively examined how domestic audiences react to hawks and doves when they initiate rapprochement. Shifting the focus onto foreign audiences and using the South China Sea as an empirical context, we fielded mirror experiments in China (<em>N</em> = 3,005) and the United States (<em>N</em> = 2,995) to investigate how Chinese and American citizens respond to conciliatory gestures from the other side as its leader’s reputation varies. We uncover asymmetric public reactions to the olive branch: while Chinese doves were more likely to elicit Americans’ support for reciprocation than Chinese hawks, U.S. doves did not fare better than U.S. hawks among the Chinese public. These findings contribute to understanding how leader reputation shapes the prospect of rapprochement, suggesting that the impact of leader type on foreign public opinion can be sensitive to contextual factors.
+
+        </details>
 -   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "[Deescalating a Trade War: Dyadic Experiments in China and the United States](https://drive.google.com/file/d/1XpDbz_Posd5CP-9zgBPSyZphlpDlMMXI/view?usp=sharing)."
     -   <details>
 
@@ -165,7 +173,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from China and the United States" (with [Matthew Conklin](https://matthewjconklin.com))
 -   "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
 -   "Democratic Benchmarking: The Influence of Comparisons on Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
