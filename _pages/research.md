@@ -159,6 +159,14 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate substantively null effects of factual corrections on multiple measures of prejudice. Policy attitudes also did not change, although our information interventions significantly reduced misperceptions about Blacks and immigrants. These findings highlight the challenges of using corrective information to improve citizens’ attitudes toward minority groups.
 
         </details>
+-   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        In the aftermath of unsuccessful uprisings, many autocrats broadcast dissidents’ confessions to their wrongdoings. Despite the prevalence of confession propaganda in the authoritarian world, its influence on the mass public—the very audience exposed to such political messaging—remains undertheorized and untested in existing scholarship. We theorize the impacts of confession propaganda on different political camps and experimentally test the observable implications in an autocratizing Hong Kong, where the political divide between regime supporters and opponents has remained salient since the failed uprising and institutionalized repression in 2020. The findings from our preregistered experiment (<em>N</em> = 3,448) indicate that confession propaganda not only fails to appease the existing support base, but also triggers attitudinal backlash among moderates. However, it helps to deter dissent by inducing self-censorship among opponents. These results elucidate the toolkit and mechanism by which autocrats can stabilize their regime following large-scale repression of dissent.
+
+        </details>
 
 
 ## Work in Progress
@@ -166,10 +174,9 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition* (under advance contract with Cambridge University Press, Elements in International Relations Series)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
 -   "Democratic Benchmarking: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
--   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "Foreign Meddling by Adverse Side-Taking'' (with Burak Kazim Yilmaz)
+-   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
 
