@@ -119,7 +119,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "[Measuring Preference Intensity: An Investigation into the Sensitivity of Quadratic Voting and an Application in State Politics](https://drive.google.com/file/d/1tNZORjSgm4mHgauIFmnC2QLneXkksqiR/view?usp=sharing)." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
-    -   Resubmitted at *The Journal of Politics*
+    -   Second-round revise and resubmit at *The Journal of Politics*
     -   <details>
 
         <summary>Abstract:</summary>
@@ -143,14 +143,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Are hawks or doves better at making peace? Existing empirical scholarship has extensively examined how domestic audiences react to hawks and doves when they initiate rapprochement. Shifting the focus onto foreign audiences and using the South China Sea as an empirical context, we fielded mirror experiments in China (<em>N</em> = 3,005) and the United States (<em>N</em> = 2,995) to investigate how Chinese and American citizens respond to conciliatory gestures from the other side as its leader’s reputation varies. We uncover asymmetric public reactions to the olive branch: while Chinese doves were more likely to elicit Americans’ support for reciprocation than Chinese hawks, U.S. doves did not fare better than U.S. hawks among the Chinese public. These findings contribute to understanding how leader reputation shapes the prospect of rapprochement, suggesting that the impact of leader type on foreign public opinion can be sensitive to contextual factors.
 
         </details>
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "[Deescalating a Trade War: Dyadic Experiments in China and the United States](https://drive.google.com/file/d/1XpDbz_Posd5CP-9zgBPSyZphlpDlMMXI/view?usp=sharing)."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        How can a trade war be deescalated? While the possible scenarios are many, they often involve some positive signal from one side and reciprocation by the other. How one country reciprocates—and how its domestic public and international rival respond to its reciprocation—is critical to the dynamics of deescalation. However, existing literature focuses theoretically on one form of reciprocation: balanced reciprocity (reciprocation perceivably equivalent to the received). We propose and theorize two additional forms of reciprocation: semi-reciprocity (less than received) and super-reciprocity (more than received). We map theory to experimentation by fielding parallel experiments in China and the United States, capturing the full interaction structure and randomizing who initiates, who reciprocates, and how. The dyadic experiments show, for the first time, how the form and sequence of reciprocation can shape the prospect of rapprochement. By tracking the outcomes across different action-reciprocation pathways among the populations at stake, we offer causal evidence on the domestic dynamics underlying the different pathways of deescalating a trade war that has impacted the global economy profoundly.
-
-        </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "Are Citizens Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries."
     -   <details>
 
@@ -172,12 +164,13 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
+-   *Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition* (under advance contract with Cambridge University Press, Elements in International Relations Series)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings" (with [Ruilin Lai](https://www.ruilinlai.com) and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite))
--   "Democratic Benchmarking: The Influence of Comparisons on Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
+-   "Democratic Benchmarking: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
--   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Foreign Meddling by Adverse Side-Taking'' (with Burak Kazim Yilmaz)
+-   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
 
 ## Null Results Reports / Dormant Papers
