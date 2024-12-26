@@ -15,4 +15,4 @@ I hold an MPhil in Economic Research from the University of Cambridge, where I w
 
 Growing up in Hong Kong's public housing shaped how I think about social inequality, social justice, and social policy. It also drew me closer to the masses, whose formation of political attitudes is the crux of my research agenda.
 
-My research has been published or is forthcoming in _Comparative Political Studies_, _International Organization_, _Political Behavior_, _Political Science Research and Methods_, _Science_, _The Journal of Politics_, and other journals.
+My research has appeared in a wide range of journals, including [_Comparative Political Studies_](https://journals.sagepub.com/home/cps), [_Foreign Policy Analysis_](https://academic.oup.com/fpa), [_International Organization_](https://www.cambridge.org/core/journals/international-organization), [_Political Behavior_](https://link.springer.com/journal/11109), [_Political Science Research and Methods_](https://www.cambridge.org/core/journals/political-science-research-and-methods), [_Science_](https://www.science.org/journal/science), and [_The Journal of Politics_](https://www.journals.uchicago.edu/toc/jop/current).
