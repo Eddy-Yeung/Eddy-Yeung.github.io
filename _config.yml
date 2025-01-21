@@ -84,36 +84,19 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Candidate at Emory University"
   location         : "Atlanta, GA"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=wZx81R4AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"Eddy-Yeung"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "eddy-yeung"
-  orcid            : "https://orcid.org/0000-0003-2843-6810"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "EddySFYeung"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eddy-yeung"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/EddySFYeung"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=wZx81R4AAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://orcid.org/0000-0003-2843-6810"
 
 
 # Reading Files
