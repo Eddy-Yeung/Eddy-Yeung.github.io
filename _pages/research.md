@@ -13,15 +13,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Publications
 
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
-    -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how “equity-promoting”—and therefore how “democracy-promoting”—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
-
-        </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). Forthcoming. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://drive.google.com/file/d/1LHUqvb1vEfsk-Am7SShGgZlGAfaEGTWC/view?usp=sharing)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
@@ -31,7 +22,16 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Do external threats increase American bipartisanship? While previous scholarship suggests they do, recent research argues that security threats from foreign adversaries may further polarize Americans amid hyperpartisanship, as information about external threats is often filtered through partisan lens. We subject these competing perspectives to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. Our preregistered experiment shows that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2024. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics*, in press. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
+    -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how “equity-promoting”—and therefore how “democracy-promoting”—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
+
+        </details>
+-   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods*, in press. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
     -   Coverage: [Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723), [Good Authority](https://goodauthority.org) (editor's commentary)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
     -   <details>
