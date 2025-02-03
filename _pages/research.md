@@ -172,7 +172,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
--   *Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations Series)
+-   *Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Democratic Benchmarking: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Foreign Meddling by Adverse Side-Taking'' (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))

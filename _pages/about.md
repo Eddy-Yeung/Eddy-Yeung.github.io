@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the Department of Political Science at [Emory University](http://polisci.emory.edu/home). I am also Princeton Dissertation Scholar at the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu) and Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org). I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor in Fall 2026.
+Welcome! I am a PhD candidate in the Department of Political Science at [Emory University](http://polisci.emory.edu/home). I am also Princeton Dissertation Scholar at the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu) and Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org). I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor of Political Science in Fall 2026.
 
 I study how political communication, elite strategy, and psychology shape (1) the dynamics of conflict escalation and deescalation and (2) public opinion on international cooperation and democracy, with a focus on East Asia, the United States, and their interactions. My [research](https://eddy-yeung.github.io/research) lies at the intersection of comparative politics and international relations, focusing on mass-elite interactions in domestic and international politics.
 
