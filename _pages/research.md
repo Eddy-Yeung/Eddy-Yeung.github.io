@@ -80,6 +80,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." *International Organization* 76(3): 741--65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
+    -   Coverage: [Brookings](https://www.brookings.edu/articles/in-the-era-of-trump-tariffs-turkey-should-look-to-the-european-union)
     -   Keywords: relative gains, other-regarding preferences, trade, US-China relations, public opinion
     -   <details>
 
