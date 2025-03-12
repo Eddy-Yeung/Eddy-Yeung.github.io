@@ -119,8 +119,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Democratic backsliding occurs over time, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials over time, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable in a more timely manner than incumbents who incrementally increase the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans' willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
         
         </details>
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: Investigating the Sensitivity of Quadratic Voting and Reexamining Policy Representation in the US." [[poster](https://apsa2023-apsa.ipostersessions.com/?s=FA-39-0C-F2-DB-23-5E-37-B6-15-93-A4-3F-2F-1C-35)]
-    -   Second-round revise and resubmit at *The Journal of Politics*
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: Investigating the Sensitivity of Quadratic Voting and Reexamining Policy Representation in the US."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -160,7 +159,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate substantively null effects of factual corrections on multiple measures of prejudice. Policy attitudes also did not change, although our information interventions significantly reduced misperceptions about Blacks and immigrants. These findings highlight the challenges of using corrective information to improve citizens’ attitudes toward minority groups.
 
         </details>
--   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Logic and Impacts of Confession Propaganda upon Failed Uprisings."
+-   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -173,11 +172,11 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
--   *Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
+-   *Deescalating a Trade War: Strategies and Reciprocities in the Shadow of US-China Rivalry* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
 -   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Democratic Benchmarking: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Foreign Meddling by Adverse Side-Taking'' (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
--   "Voice After Exit: Hong Kong Diaspora’s Transnational Mobilization and Community Building in Five Host Countries" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
+-   "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Spillover Effects of Framing and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
 
