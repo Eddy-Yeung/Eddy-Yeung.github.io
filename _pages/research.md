@@ -168,7 +168,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
-
 ## Work in Progress
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
