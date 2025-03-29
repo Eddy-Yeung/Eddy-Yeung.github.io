@@ -15,7 +15,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -25,7 +24,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). Forthcoming. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China's Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -35,9 +33,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2025. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods* 13(2): 412--33. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
     -   Coverage: [Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723), [Good Authority](https://goodauthority.org) (editor's commentary)
-
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -47,9 +43,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2024. "[People Consistently View Elections and Civil Liberties as Key Components of Democracy](https://doi.org/10.1126/science.adp1274)." *Science* 386(6719): 291--96. [[replication material](https://doi.org/10.7910/DVN/WUJCBO)]
     -   Coverage: [Cosmos](https://cosmosmagazine.com/people/society/democracy-definition-global), [Folha](https://www1.folha.uol.com.br/mundo/2024/10/estudo-investiga-definicao-global-de-democracia-diante-de-tendencias-autoritarias.shtml), [Phys.org](https://phys.org/news/2024-10-reveals-global-consensus-democracy.html), [The Conversation](https://theconversation.com/how-different-people-around-the-world-understand-democracy-and-why-it-matters-241617), [Veja](https://veja.abril.com.br/ciencia/o-que-e-democracia-pesquisa-revela-que-ha-um-consenso-entre-culturas-muito-diferentes)
-
     -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -59,7 +53,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.**, [Mengqiao Wang](http://sidc.uibe.edu.cn/szdw/jsjs/2042423e4c1a4b95b56951f9de24cac0.htm), and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2024. "[What Is a Patriot? A Cross-National Study in China and the United States](https://doi.org/10.1093/fpa/orae007)." *Foreign Policy Analysis* 20(2): orae007. [[replication material](https://doi.org/10.7910/DVN/GEV30Y), [preprint](https://eddy-yeung.github.io/assets/YeungWangQuek_patriot.pdf)]
     -   Keywords: patriotism, nationalism, national identity, China and the United States, public opinion, foreign policy preferences
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -69,9 +62,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.** 2024. "[Can Conservatives Be Persuaded? Framing Effects on Support for Universal Basic Income in the US](https://rdcu.be/cVUvX)." *Political Behavior* 46(1): 135--61. [[replication material](https://doi.org/10.7910/DVN/VCHMLD), [slides](https://eddy-yeung.github.io/assets/Yeung_APPAM.pdf)]
     -   Coverage: [Fortune](https://fortune.com/2024/02/05/texas-republican-ubi-hand-out-money-like-popcorn-houston)
-
     -   Keywords: universal basic income, framing, conservative, welfare, public opinion
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -81,7 +72,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.** 2023. "[Overestimation of the Level of Democracy among Citizens in Nondemocracies](https://doi.org/10.1177/00104140221089647)." *Comparative Political Studies* 56(2): 228--66. [[replication material](https://doi.org/10.7910/DVN/HUAADF), [preprint](https://osf.io/2fqmh)]
     -   Keywords: nondemocratic regimes, comparative public opinion, media control, democratic legitimacy, authoritarian resilience
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -91,9 +81,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2022. "[Relative Gains in the Shadow of a Trade War](https://doi.org/10.1017/S0020818322000030)." *International Organization* 76(3): 741--65. [[replication material](https://doi.org/10.7910/DVN/DEPUUO)]
     -   Coverage: [Brookings](https://www.brookings.edu/articles/in-the-era-of-trump-tariffs-turkey-should-look-to-the-european-union)
-
     -   Keywords: relative gains, other-regarding preferences, trade, US-China relations, public opinion
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -103,9 +91,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 -   **Yeung, Eddy S. F.** 2021. "[Does Immigration Boost Public Euroscepticism in European Union Member States?](https://doi.org/10.1177/14651165211030428)" *European Union Politics* 22(4): 631--54. [[replication material](https://github.com/Eddy-Yeung/euroscepticism-and-immigration), [preprint](https://osf.io/jb5pm)]
     -   Coverage: [European Politics and Policy](https://blogs.lse.ac.uk/europpblog/2021/08/02/there-is-no-evidence-that-immigration-boosts-euroscepticism-in-eu-member-states)
-
     -   Keywords: European integration, Euroscepticism, immigration, public opinion
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -117,9 +103,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 ## Working Papers
 
 -   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1EAVIe1miSK2PIEbTzmDlGKFQQmUwXK-b/view?usp=sharing)."
-
     -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -129,7 +113,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -139,7 +122,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: Investigating the Sensitivity of Quadratic Voting and Reexamining Policy Representation in the US."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -149,7 +131,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "[Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States](https://drive.google.com/file/d/1KmQA88IymHbHaAT15T42tzr5-kG-OH15/view?usp=sharing)."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -159,7 +140,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.**, and [Matthew J. Conklin](https://matthewjconklin.com). "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from Mirror Experiments in China and the United States."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -169,7 +149,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "Are Citizens Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -179,7 +158,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.**, and Joseph Glasgow. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://drive.google.com/file/d/1PkzuZ9Hg6yqQNGromcugBf-WDrJsqpN-/view?usp=sharing)."
-
     -   <details>
 
         <summary>Abstract:</summary>
@@ -189,7 +167,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
-
     -   <details>
 
         <summary>Abstract:</summary>
