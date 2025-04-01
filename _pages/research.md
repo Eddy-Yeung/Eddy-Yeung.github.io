@@ -179,7 +179,8 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 -   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
 -   *Deescalating a Trade War: Strategies and Reciprocities in the Shadow of US-China Rivalry* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
--   *Empirical Study of Deterrence in the Context of Great Power Competition* (multi-paper project with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+-   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
+-   "Evaluating the Impacts of Taiwan's Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Identifying Backsliding: The Influence of Comparisons on Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Foreign Meddling by Adverse Side-Taking'' (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
