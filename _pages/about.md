@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the Department of Political Science at [Emory University](http://polisci.emory.edu/home) and an Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org). In Fall 2026, I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor of Political Science.
+Welcome! I am a PhD candidate in the Department of Political Science at [Emory University](http://polisci.emory.edu/home), an Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org), and an Associate Member at the [Nuffield College](https://www.nuffield.ox.ac.uk) of the [University of Oxford](https://www.ox.ac.uk). In Fall 2026, I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor of Political Science.
 
 My [research](https://eddy-yeung.github.io/research) examines how political communication, elite strategy, and psychology shape (1) the dynamics of **conflict escalation** and **deescalation** and (2) public opinion on **international cooperation** and **democracy**. Focusing primarily on East Asia and the United States, my scholarship brings new theoretical and empirical insights into different forms of **mass-elite interactions** in domestic and international politics.
 
