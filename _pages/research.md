@@ -130,7 +130,16 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "[Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States](https://drive.google.com/file/d/1KmQA88IymHbHaAT15T42tzr5-kG-OH15/view?usp=sharing)."
+-   **Yeung, Eddy S. F.**, and Joseph Glasgow. "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants' crime rate is lower than natives' crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice---although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections' efficacy in improving citizens' attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
+
+        </details>
+
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Cross-National Experiments in China and the United States."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -157,15 +166,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   **Yeung, Eddy S. F.**, and Joseph Glasgow. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://drive.google.com/file/d/1PkzuZ9Hg6yqQNGromcugBf-WDrJsqpN-/view?usp=sharing)."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants' crime rate is lower than natives' crime rate. Across three well-powered experiments, we estimate substantively null effects of factual corrections on multiple measures of prejudice. Policy attitudes also did not change, although our information interventions significantly reduced misperceptions about Blacks and immigrants. These findings highlight the challenges of using corrective information to improve citizens' attitudes toward minority groups.
-
-        </details>
-
 -   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
     -   <details>
 
@@ -185,7 +185,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   "Foreign Meddling by Adverse Side-Taking'' (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Spillover Effects of Framing and Support for Universal Basic Income in the United States" (with [Tim Schaitberger](https://www.kcl.ac.uk/people/tim-schaitberger))
 
 ## Null Results Reports / Dormant Papers
 
