@@ -5,6 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.abstract-body {
+  font-size: 0.8rem;      /* tiny text just for abstracts */
+  margin: 0.75rem 0 1.25rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #d0d0d0;
+}
+</style>
+
 I study how political communication, elite strategy, and psychology shape (1) the dynamics of conflict escalation and deescalation and (2) public opinion on international cooperation and democracy, with a focus on East Asia, the United States, and their interactions.
 
 Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**.
@@ -42,7 +51,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2024. "[People Consistently View Elections and Civil Liberties as Key Components of Democracy](https://doi.org/10.1126/science.adp1274)." *Science* 386(6719): 291--96. [[replication material](https://doi.org/10.7910/DVN/WUJCBO)]
-    -   Coverage: [Cosmos](https://cosmosmagazine.com/people/society/democracy-definition-global), [Folha](https://www1.folha.uol.com.br/mundo/2024/10/estudo-investiga-definicao-global-de-democracia-diante-de-tendencias-autoritarias.shtml), [Phys.org](https://phys.org/news/2024-10-reveals-global-consensus-democracy.html), [The Conversation](https://theconversation.com/how-different-people-around-the-world-understand-democracy-and-why-it-matters-241617), [Veja](https://veja.abril.com.br/ciencia/o-que-e-democracia-pesquisa-revela-que-ha-um-consenso-entre-culturas-muito-diferentes)
+    -   Coverage: [Cosmos](https://cosmosmagazine.com/people/society/democracy-definition-global), [Folha](https://www1.folha.uol.com.br/mundo/2024/10/estudo-investiga-definicao-global-de-democracia-diante-de-tendencias-autoritarias.shtml), [Phys.org](https://phys.org/news/2024-10-reveals-global-consensus-democracy.html), [Science Magazine (Policy Forum)](https://www.science.org/doi/abs/10.1126/science.ads7371), [Science Podcast](https://www.science.org/content/podcast/how-deal-backsliding-democracies-and-balancing-life-scientist-and-athlete), [The Conversation](https://theconversation.com/how-different-people-around-the-world-understand-democracy-and-why-it-matters-241617), [Veja](https://veja.abril.com.br/ciencia/o-que-e-democracia-pesquisa-revela-que-ha-um-consenso-entre-culturas-muito-diferentes)
     -   Keywords: understanding of democracy, liberal democracy, democratic legitimacy, comparative public opinion
     -   <details>
 
@@ -113,6 +122,13 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)."
+  <details>
+    <summary><span class="pill">Abstract</span></summary>
+
+    <div class="abstract-body">
+      Democratic backsliding occurs over time, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials over time, I find that a majority of American respondents---against the backdrop of partisan and policy interests---are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable in a more timely manner than incumbents who incrementally increase the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans' willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
+    </div>
+  </details>
     -   <details>
 
         <summary>Abstract:</summary>
@@ -130,7 +146,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   **Yeung, Eddy S. F.**, and Joseph Glasgow. "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
+-   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
     -   <details>
 
         <summary>Abstract:</summary>
