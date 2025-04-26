@@ -244,6 +244,11 @@ defaults:
       share: true
       comments: true
 
+
+#  Extra assets
+custom_css:
+  - /assets/css/custom.css
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -311,10 +316,3 @@ compress_html:
 
 # Site masthead title
 masthead_title: "Eddy Yeung / 楊承風"
-
-# ------------------------------------------------------------
-#  Extra assets
-# ------------------------------------------------------------
-custom_css:
-  - /assets/css/custom.css
-  
