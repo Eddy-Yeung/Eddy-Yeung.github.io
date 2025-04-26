@@ -122,13 +122,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)."
-  <details>
-    <summary><span class="pill">Abstract</span></summary>
-
-    <div class="abstract-body">
-      Democratic backsliding occurs over time, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials over time, I find that a majority of American respondents---against the backdrop of partisan and policy interests---are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable in a more timely manner than incumbents who incrementally increase the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans' willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
-    </div>
-  </details>
     -   <details>
 
         <summary>Abstract:</summary>
