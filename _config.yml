@@ -311,3 +311,10 @@ compress_html:
 
 # Site masthead title
 masthead_title: "Eddy Yeung / 楊承風"
+
+# ------------------------------------------------------------
+#  Extra assets
+# ------------------------------------------------------------
+custom_css:
+  - /assets/css/custom.css
+  
