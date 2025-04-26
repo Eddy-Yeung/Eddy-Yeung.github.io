@@ -1,0 +1,11 @@
+/* ── _sass/_custom.scss  (or assets/css/custom.css) ──────────────── */
+/* Hide the extra “○” bullet in publication lists */
+details > summary {
+    list-style: none;          /* remove bullet in all browsers        */
+    margin-left: 0;            /* align text with parent list bullet    */
+  }
+  
+  /* Safari/WebKit also needs its proprietary marker disabled */
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
