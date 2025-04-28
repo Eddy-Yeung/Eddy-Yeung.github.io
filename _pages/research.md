@@ -183,6 +183,14 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         In the aftermath of unsuccessful uprisings, many autocrats broadcast dissidents’ confessions to their wrongdoings. Despite the prevalence of confession propaganda in autocracies worldwide, its influence on the public—the very audience exposed to such political messaging—remains unclear in existing scholarship. We develop an identity-based theory to hypothesize about the impacts of confession propaganda on different political camps and experimentally test the observable implications in autocratizing Hong Kong, where the political divide between regime supporters and opponents has remained salient since the failed uprising and widespread repression in 2020. The results from our preregistered experiment (<em>N</em> = 3,448) indicate that confession propaganda not only fails to appease the existing support base, but also triggers attitudinal backlash among moderates. However, it helps to deter dissent by inducing self-censorship among regime opponents. These empirical findings elucidate the toolkit and mechanism by which autocrats can stabilize their regime following large-scale repression of dissent.
 
         </details>
+-   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Diasporas increasingly gain voting rights, engage in political mobilization, and shape the political landscape worldwide. Yet, we know surprisingly little about how they form their political attitudes in the first place. This article unpacks the structure of diasporas’ policy preferences by introducing the concept of transnational linked fate—the sense of interconnectedness among diasporas as shaped by their shared experiences, struggles, and geopolitical context prior to migration. Such group consciousness, we argue, can powerfully influence their foreign policy preferences. To evaluate our claim, we administered harmonized candidate-choice experiments to an original sample of Hong Kong diasporas in four host countries. We find that candidates endorsing hawkish policies against China in economic and geopolitical issues enjoyed significant electoral dividends. Such foreign policy preferences were so intense that other domestic issues played little to no roles in influencing respondents’ decision making. This extreme structure of political preferences remained similar even among respondents who were already highly assimilated into the host country or had weak social ties with the homeland. These findings not only shed new light on diasporas’ formation of political preferences, but also underscore how transnational identities can reverberate across borders to shape host-country elections and foreign-policy debates.
+
+        </details>
 
 ## Work in Progress
 
@@ -192,7 +200,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   "Evaluating the Impacts of Taiwan's Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Identifying Backsliding: The Influence of Comparisons on Americans' Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
 -   "Foreign Meddling by Adverse Side-Taking'' (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
--   "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad" (with [Maggie Shum](http://www.maggieshum.com), [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip)
 -   "White Identity, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 
 ## Null Results Reports / Dormant Papers
