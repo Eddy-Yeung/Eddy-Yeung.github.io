@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the [Department of Politics & International Relations](https://www.politics.ox.ac.uk) and an Associate Member at the [Nuffield College](https://www.nuffield.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk). I am also an Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org). In Fall 2026, I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor of Political Science.
+Welcome! I am a Postdoctoral Research Fellow in the [Department of Politics & International Relations](https://www.politics.ox.ac.uk) and an Associate Member in [Nuffield College](https://www.nuffield.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk). I am also an Emerging Scholar at the [Harry Frank Guggenheim Foundation](https://www.hfg.org). In Fall 2026, I will join the [Bush School of Government & Public Service](https://bush.tamu.edu) at [Texas A&M University](https://www.tamu.edu) as Assistant Professor of Political Science.
 
 My [research](https://eddy-yeung.github.io/research) examines how political communication, elite strategy, and psychology shape (1) the dynamics of **conflict escalation** and **deescalation** and (2) public opinion on **international cooperation** and **democracy**. Focusing primarily on East Asia and the United States, my scholarship theorizes and empirically examines different forms of **mass-elite interactions** in domestic and international politics.
 
