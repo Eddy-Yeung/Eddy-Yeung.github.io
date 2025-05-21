@@ -130,6 +130,15 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
+-   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Comparisons often feature in political discourse on democracy. How do comparisons—across space and time—influence mass perceptions of democracy? Building on economic and psychological theories, we investigate the role of comparisons in shaping Americans’ assessments of subnational democracy. In two preregistered national experiments (<em>N</em> = 8,013), we uncover a “positivity bias’’ in Americans’ evaluation of democracy. When given information about how the current, somewhat undemocratic state was already “more democratic’’ than its neighboring state or its recent past, respondents applied cross-state and cross-temporal comparisons and evaluated the present state more optimistically. However, when the current state was being compared with a “democratically superior’’ neighboring state or recent past, the same dynamics of contrast disappeared such that respondents did not revise their democratic evaluation downward. These findings, which hold regardless of partisanship, raise normative concerns about citizens’ ability to detect democratic backsliding and coordinate against it as antidemocratic politicians erode democracy incrementally and subnationally.
+
+        </details>
+
 -   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Measuring Preference Intensity: Investigating the Sensitivity of Quadratic Voting and Reexamining Policy Representation in the US."
     -   <details>
 
@@ -198,8 +207,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   *Deescalating a Trade War: Strategies and Reciprocities in the Shadow of US-China Rivalry* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
 -   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy" (with [Jennifer Gandhi](https://www.jennifergandhi.com))
--   "Foreign Meddling by Adverse Side-Taking’’ (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
+-   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "White Protectionism, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 
 ## Null Results Reports / Dormant Papers
