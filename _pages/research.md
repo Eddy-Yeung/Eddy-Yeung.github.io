@@ -122,6 +122,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         </details>
 
 -   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)."
+    -   Winner of 2025 Democracy and Autocracy Section Best Paper Award
     -   <details>
 
         <summary>Abstract:</summary>
