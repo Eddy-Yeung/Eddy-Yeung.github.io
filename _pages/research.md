@@ -14,7 +14,7 @@ author_profile: true
 }
 </style>
 
-I study how political communication, elite strategy, and psychology shape (1) the dynamics of conflict escalation and deescalation and (2) public opinion on international cooperation and democracy, with a focus on East Asia, the United States, and their interactions.
+I study how political communication, elite strategy, and psychology shape democratic legitimacy under autocracy and the dynamics of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
 
 Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**.
 
