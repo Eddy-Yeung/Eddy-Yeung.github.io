@@ -127,10 +127,28 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         <summary>Abstract:</summary>
 
-        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable in a more timely manner than incumbents who incrementally increase the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
+        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents---against the backdrop of partisan and policy interests---are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans' willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
 
         </details>
 
+-   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
+
+        </details>
+        
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "[Are Citizens Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        To what extent do citizens prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become hotly contested as democracies come under pressure worldwide, yet comparative evidence remains scarce. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). Citizens across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+
+        </details>
+        
 -   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
     -   <details>
 
@@ -146,15 +164,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         <summary>Abstract:</summary>
 
         Measuring preference intensity is extraordinarily difficult. Quadratic voting for survey research (QVSR) measures individual preference intensity using an incentive-compatible approach. Because QVSR elicits preference intensity relative to a set of alternatives, one reasonable but untested concern is its sensitivity to the choice set of policy issues. In an original survey experiment where we randomly assign choice sets of policy issues to over 7,000 American respondents and use QVSR to measure their preference intensity, we find that the average measured levels of preference intensity are relatively insensitive to changes in policy bundles for a wide range of policies. We then use our validated measures to examine how state-level preference intensity predicts actual policy outcomes, offering novel empirical evidence that preference intensity does not meaningfully shape policy congruence in the American states. We contribute to the methodological literature on measuring preference intensity and the substantive literature on policy representation in US politics.
-
-        </details>
-
--   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
 
         </details>
 
@@ -176,15 +185,15 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "[Are Citizens Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)."
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocities and the Future of International Politics."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        To what extent do citizens prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become hotly contested as democracies come under pressure worldwide, yet comparative evidence remains scarce. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). Citizens across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+        The future of international politics will be significantly driven by the politics of reciprocities: how states perceive and respond to reciprocities of the other states, and how the others perceive and respond thereof. We propose a framework that differentiates reciprocities by direction (positive or negative) and magnitude (reciprocation perceivably larger than, smaller than, or equal to the initial favor or sanction). We then theorize how the different forms of reciprocity shape domestic and foreign perceptions and responses. Such domestic and international dynamics can influence the making of foreign policy and, consequently, the trajectory of conflict and cooperation. Analyzing recent trade wars and international conflicts, we illustrate the logic and applicability of different reciprocation strategies in world politics. By reconceptualizing reciprocities and inspecting their systematic implications, we offer a general framework that structures scholarly analysis of our tumultuous times.
 
         </details>
-
+        
 -   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
     -   <details>
 
@@ -193,6 +202,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         In the aftermath of unsuccessful uprisings, many autocrats publicly broadcast dissidents’ confessions to their wrongdoings. Despite the prevalence of confession propaganda in autocracies worldwide, its influence on the public—the very audience exposed to such political messaging—remains unclear. We develop an identity-based theory to hypothesize about the impacts of confession propaganda on different political camps and experimentally test the observable implications in autocratizing Hong Kong, where the political divide between regime supporters and opponents has remained salient since the failed uprising and widespread repression in 2020. The results from our large-scale, preregistered experiment (<em>N</em> = 3,448) indicate that confession propaganda fails to appease the existing support base and triggers attitudinal backlash among moderates. However, it helps to deter dissent by inducing self-censorship among regime opponents. Our theory of confession propaganda and empirical findings elucidate the toolkit and mechanism by which autocrats can stabilize their regime following large-scale repression of dissent.
 
         </details>
+        
 -   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad."
     -   <details>
 
@@ -210,6 +220,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "White Protectionism, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
+-   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com))
 
 ## Null Results Reports / Dormant Papers
 
