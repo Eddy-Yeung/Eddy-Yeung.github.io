@@ -14,7 +14,7 @@ author_profile: true
 }
 </style>
 
-I study how political communication, elite strategy, and psychology shape democratic legitimacy under autocracy and the dynamics of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
+I study how political communication and elite strategy shape democratic legitimacy under autocracy and the psychology of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
 
 Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**.
 
@@ -127,7 +127,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         <summary>Abstract:</summary>
 
-        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents---against the backdrop of partisan and policy interests---are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans' willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
+        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
 
         </details>
 
@@ -221,6 +221,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "White Protectionism, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "When Violence Makes Sense: How Citizens Judge Protest across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
 
 ## Null Results Reports / Dormant Papers
 
