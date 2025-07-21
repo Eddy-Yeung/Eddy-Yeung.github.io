@@ -22,7 +22,26 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Publications
 
--   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. Forthcoming. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
+-   **Yeung, Eddy S. F.** Forthcoming. "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)." *British Journal of Political Science*.
+    -   Winner of 2025 Democracy and Autocracy Section Best Paper Award
+    -   Keywords: democratic backsliding, vertical accountability, public opinion, voter behavior, American democracy, survey experiment
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
+
+        </details>
+-   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). Forthcoming. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://drive.google.com/file/d/1zunaGmahpbMG5RKR0VM9dX8ids2JO3u3/view?usp=sharing)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/MXNA8U)]
+    -   Keywords: prejudice reduction, racialized misinformation, factual corrections, welfare, immigration
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
+
+        </details>
+-   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2025. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics*, in press. [[replication material](https://doi.org/10.7910/DVN/R6WRTG)]
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
@@ -31,7 +50,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Autocrats often disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation: redistributionist propaganda helps autocrats fortify a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Exploiting such nuanced understandings of democracy, autocrats can deploy redistributionist propaganda to manipulate public opinion on how “equity-promoting”—and therefore how “democracy-promoting”—the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among global citizens. We then probe the causal effect of redistributionist propaganda by using a preregistered survey experiment that exploits real-world propaganda material in China. Consistent with our argument, respondents exposed to redistributionist propaganda evaluated China’s democracy more positively.
 
         </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). Forthcoming. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2025. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods*, in press. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
 
@@ -120,32 +139,13 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Where democratic uprisings have gained momentum, some autocracies respond by disseminating propaganda that blatantly taunts and mocks their political opponents. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I propose a theory of <em>propaganda as provocation</em>. By using provocative propaganda to radicalize protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings. I experimentally test the psychological microfoundations in Hong Kong, showing that regime opponents became more enraged, disgusted, and supportive of protest violence upon exposure to provocative propaganda. I offer additional evidence by tracing Hong Kong’s Anti-ELAB movement, illustrating the strategic dynamics of provocative propaganda and the delegitimizing impact of protest radicalization—consistent with the logic of propaganda as provocation.
 
         </details>
-
--   **Yeung, Eddy S. F.** "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)."
-    -   Winner of 2025 Democracy and Autocracy Section Best Paper Award
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
-
-        </details>
-
--   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). "Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
-
-        </details>
         
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "[Are Citizens Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)."
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        To what extent do citizens prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become hotly contested as democracies come under pressure worldwide, yet comparative evidence remains scarce. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). Citizens across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+        To what extent do people prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become contested as democracies come under pressure worldwide. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). People across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Regarding trade-offs, many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
 
         </details>
         
