@@ -18,12 +18,13 @@ I study how political communication and elite strategy shape democratic legitima
 
 Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**.
 
-Much of my research is driven by normative and policy concerns. To date, my research has been funded by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), and [Stand Together Trust](https://standtogethertrust.org/about-us).
+Much of my research is driven by normative and policy concerns. To date, my research has been funded by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
 ## Publications
 
 -   **Yeung, Eddy S. F.** Forthcoming. "[Dynamic Democratic Backsliding](https://drive.google.com/file/d/1ZI33JdEu-RxEsuOwA1WsEnTEQlSxjLlC/view?usp=sharing)." *British Journal of Political Science*.
-    -   Winner of 2025 Democracy and Autocracy Section Best Paper Award
+    -   Winner of [APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
+    -   Winner of [APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
     -   Keywords: democratic backsliding, vertical accountability, public opinion, voter behavior, American democracy, survey experiment
     -   <details>
 
@@ -33,6 +34,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). Forthcoming. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://doi.org/10.1086/737780)." *The Journal of Politics*. [[replication material](https://doi.org/10.7910/DVN/MXNA8U), [preprint](https://drive.google.com/file/d/1zunaGmahpbMG5RKR0VM9dX8ids2JO3u3/view?usp=sharing)]
+    -   Coverage: [Good Authority](https://us12.campaign-archive.com/?u=6a195a173a2e1f8616573606f&id=39e03d1f57) (editor’s commentary)
     -   Keywords: prejudice reduction, racialized misinformation, factual corrections, welfare, immigration
     -   <details>
 
@@ -131,7 +133,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 ## Working Papers
 
 -   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1EAVIe1miSK2PIEbTzmDlGKFQQmUwXK-b/view?usp=sharing)."
-    -   Winner of [2024 Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
+    -   Winner of [Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
         <summary>Abstract:</summary>
@@ -167,12 +169,12 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Perception, Misperception, and Crisis Deescalation: Experimental Evidence amid Great Power Tensions."
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Exploiting the Rival? Power, Foreign Hawkishness, and Domestic Escalatory Preferences amid US-China Tensions."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        How do perceptions about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a hard case for deescalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our novel dyadic experiments (<em>N</em> = 7,409) show that information that reduced respondents’ perceptions of the adversary’s power did not increase their preferences for conflict escalation, even amid great power tensions. Moreover, information that dampened respondents’ perceptions of adversary citizens’ hawkishness significantly increased public support for deescalation in both countries. These findings offer a microfoundational account to challenge a dominant perspective that states locked in a bilateral rivalry will support more aggressive actions against the adversary when its perceived power or resolve declines.
+        How does information about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase their preferences for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased public support for de-escalation in both countries. These findings not only cut against the perspective that a heightened sense of power will motivate people to support war, but also uncover foreign hawkishness as an underappreciated factor that can sway domestic support for using military force.
 
         </details>
 
@@ -199,7 +201,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         <summary>Abstract:</summary>
 
-        In the aftermath of unsuccessful uprisings, many autocrats publicly broadcast dissidents’ confessions to their wrongdoings. Despite the prevalence of confession propaganda in autocracies worldwide, its influence on the public—the very audience exposed to such political messaging—remains unclear. We develop an identity-based theory to hypothesize about the impacts of confession propaganda on different political camps and experimentally test the observable implications in autocratizing Hong Kong, where the political divide between regime supporters and opponents has remained salient since the failed uprising and widespread repression in 2020. The results from our large-scale, preregistered experiment (<em>N</em> = 3,448) indicate that confession propaganda fails to appease the existing support base and triggers attitudinal backlash among moderates. However, it helps to deter dissent by inducing self-censorship among regime opponents. Our theory of confession propaganda and empirical findings elucidate the toolkit and mechanism by which autocrats can stabilize their regime following large-scale repression of dissent.
+        In the aftermath of unsuccessful uprisings, many autocrats publicly broadcast dissidents’ confessions to their wrongdoings. Despite the prevalence of confession propaganda in autocracies worldwide, its influence on the public—the very audience exposed to such political messaging—remains unclear. We develop an identity-based theory to hypothesize about the impacts of confession propaganda on different political camps and experimentally test the observable implications in Hong Kong, where the political divide between regime supporters and opponents has remained salient since the failed uprising and widespread repression in 2020. The results from our preregistered experiment (<em>N</em> = 3,448) indicate that confession propaganda fails to appease the existing support base but helps to deter dissent by inducing self-censorship. However, it triggers attitudinal backlash among independents who lack a pro-regime or anti-regime identity. Our theory and evidence elucidate the mechanism and limits of a common strategy wielded by autocrats to stabilize their regime following large-scale repression of dissent.
 
         </details>
         
@@ -214,14 +216,12 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
 ## Work in Progress
 
--   *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings* (book project)
--   *Deescalating a Trade War: Strategies and Reciprocities in the Shadow of US-China Rivalry* (with [Kai Quek](https://ppaweb.hku.hk/f/quek), under advance contract with Cambridge University Press, Elements in International Relations series)
--   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
--   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
--   "White Protectionism, Psychological Wage, and the Racial Politics of Soaking the Rich" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
+-   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
--   "When Violence Makes Sense: How Citizens Judge Protest across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
+-   "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
+-   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
+-   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
 
 ## Null Results Reports / Dormant Papers
 
