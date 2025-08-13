@@ -169,12 +169,12 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Exploiting the Rival? Power, Foreign Hawkishness, and Domestic Escalatory Preferences amid US-China Tensions."
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Power and Public Hawkishness: Domestic Support for Conflict Escalation amid US-China Tensions."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        How does information about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase their preferences for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased public support for de-escalation in both countries. These findings not only cut against the perspective that a heightened sense of power will motivate people to support war, but also uncover foreign hawkishness as an underappreciated factor that can sway domestic support for using military force.
+        How does information about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase their preferences for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased public support for de-escalation in both countries. These findings not only cut against the theoretical perspective that a heightened sense of power will motivate people to support war, but also uncover foreign hawkishness as an underappreciated factor that can sway domestic support for using military force.
 
         </details>
 
