@@ -169,7 +169,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Power and Public Hawkishness: Domestic Support for Conflict Escalation amid US-China Tensions."
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Power and Public Hawkishness: Domestic Support for Conflict Escalation amid Great Power Competition."
     -   <details>
 
         <summary>Abstract:</summary>
