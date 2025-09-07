@@ -186,15 +186,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Are hawks or doves better at making peace? Existing scholarship mainly focuses on how domestic audiences react to hawks and doves when they initiate rapprochement. Building on the latest research that focuses on foreign audiences and leveraging the South China Sea as an empirical context, we fielded replications and mirror experiments in China (<em>N</em> = 3,005) and the United States (<em>N</em> = 2,995) to investigate how Chinese and American citizens respond to rapprochement initiatives of the other side as its leader’s reputation varies. We uncover asymmetric public reactions to the olive branch: while Chinese dovish leaders were more likely to elicit Americans’ support for reciprocation than Chinese hawkish leaders, American dovish leaders did not fare better than American hawkish leaders among the Chinese public. These findings not only contribute new evidence that doves could fare better in rapprochement dynamics, but also show that doves’ international advantage may be more contextually sensitive than previously appreciated.
 
         </details>
-
--   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. "Reciprocities and the Future of International Politics."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        The future of international politics will be significantly driven by the politics of reciprocities: how states perceive and respond to reciprocities of the other states, and how the others perceive and respond thereof. We propose a framework that differentiates reciprocities by direction (positive or negative) and magnitude (reciprocation perceivably larger than, smaller than, or equal to the initial favor or sanction). We then theorize how the different forms of reciprocity shape domestic and foreign perceptions and responses. Such domestic and international dynamics can influence the making of foreign policy and, consequently, the trajectory of conflict and cooperation. Analyzing recent trade wars and international conflicts, we illustrate the logic and applicability of different reciprocation strategies in world politics. By reconceptualizing reciprocities and inspecting their systematic implications, we offer a general framework that structures scholarly analysis of our tumultuous times.
-
-        </details>
         
 -   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
     -   <details>
@@ -220,6 +211,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 -   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
+-   "Reciprocities in International Politics" (with [Kai Quek](https://ppaweb.hku.hk/f/quek))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
 
