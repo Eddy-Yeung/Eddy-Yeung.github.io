@@ -33,6 +33,15 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials incrementally, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
 
         </details>
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. Forthcoming. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)." *Comparative Political Studies*. [[replication material](https://doi.org/10.7910/DVN/WUDAWV)]
+    -   Keywords: democracy; public opinion; tradeoffs; cross-national experiments
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        To what extent do people prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become contested as democracies come under pressure worldwide. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). People across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Regarding trade-offs, many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+
+        </details>
 -   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). 2025. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://doi.org/10.1086/737780)." *The Journal of Politics*, in press. [[replication material](https://doi.org/10.7910/DVN/MXNA8U), [preprint](https://drive.google.com/file/d/1zunaGmahpbMG5RKR0VM9dX8ids2JO3u3/view?usp=sharing)]
     -   Coverage: [Good Authority](https://us12.campaign-archive.com/?u=6a195a173a2e1f8616573606f&id=39e03d1f57) (editor’s commentary)
     -   Keywords: prejudice reduction, racialized misinformation, factual corrections, welfare, immigration
@@ -139,15 +148,6 @@ Much of my research is driven by normative and policy concerns. To date, my rese
         <summary>Abstract:</summary>
 
         Where democratic uprisings have gained momentum, some autocracies respond by disseminating propaganda that blatantly taunts and mocks their political opponents. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I propose a theory of <em>propaganda as provocation</em>. By using provocative propaganda to radicalize protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings. I experimentally test the psychological microfoundations in Hong Kong, showing that regime opponents became more enraged, disgusted, and supportive of protest violence upon exposure to provocative propaganda. I offer additional evidence by tracing Hong Kong’s Anti-ELAB movement, illustrating the strategic dynamics of provocative propaganda and the delegitimizing impact of protest radicalization—consistent with the logic of propaganda as provocation.
-
-        </details>
-        
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v1)."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        To what extent do people prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become contested as democracies come under pressure worldwide. We address this gap through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). People across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Regarding trade-offs, many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
 
         </details>
         
