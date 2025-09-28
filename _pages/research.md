@@ -71,6 +71,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   **Yeung, Eddy S. F.**, and [Kai Quek](https://ppaweb.hku.hk/f/quek). 2025. "[Self-Reported Political Ideology](https://doi.org/10.1017/psrm.2024.2)." *Political Science Research and Methods* 13(2): 412–33. [[replication material](https://doi.org/10.7910/DVN/FLKUMG)]
+    -   Listed as one of the [most influential Political Science and IR articles 2024](https://www.cambridge.org/core/browse-subjects/politics-and-international-relations/most-influental-political-science-and-ir-articles-2024) by Cambridge University Press
     -   Coverage: [Atlantic](https://www.theatlantic.com/politics/archive/2024/03/gen-z-gender-divide-2024-election/677723), [Good Authority](https://goodauthority.org) (editor’s commentary)
     -   Keywords: ideology, liberal, conservative, measurement, political sophistication
     -   <details>
