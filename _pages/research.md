@@ -16,9 +16,9 @@ author_profile: true
 
 I study how political communication and elite strategy shape democratic legitimacy under autocracy and the psychology of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
 
-Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**.
+Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** and other strategies to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**. Beyond studying mass-elite interactions pertaining to democracy and conflict, some of my work grapples with the intersection of race, welfare, and ideology in American politics from a comparative perspective.
 
-Much of my research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
+My research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
 ## Publications
 
@@ -34,7 +34,7 @@ Much of my research is driven by normative and policy concerns. To date, my rese
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. Forthcoming. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://osf.io/preprints/osf/w46uf_v2)." *Comparative Political Studies*. [[replication material](https://doi.org/10.7910/DVN/WUDAWV)]
-    -   Keywords: democracy; public opinion; tradeoffs; cross-national experiments
+    -   Keywords: democracy, autocracy, democratic commitment, comparative public opinion
     -   <details>
 
         <summary>Abstract:</summary>
