@@ -22,7 +22,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
 ## Publications
 
--   **Yeung, Eddy S. F.** Forthcoming. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science*.
+-   **Yeung, Eddy S. F.** Forthcoming. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science*. [[replication material](https://doi.org/10.7910/DVN/IK26V9)]
     -   Winner of [APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
     -   Winner of [APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
     -   Keywords: democratic backsliding, vertical accountability, public opinion, voter behavior, American democracy
