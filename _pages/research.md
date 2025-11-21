@@ -22,7 +22,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
 ## Publications
 
--   **Yeung, Eddy S. F.** 2025. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science* 55(e164), 1–24. [[replication material](https://doi.org/10.7910/DVN/IK26V9)]
+-   **Yeung, Eddy S. F.** 2025. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science* 55: e164. [[replication material](https://doi.org/10.7910/DVN/IK26V9)]
     -   Winner of [APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
     -   Winner of [APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
     -   Keywords: democratic backsliding, vertical accountability, public opinion, voter behavior, American democracy
@@ -62,6 +62,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2025. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics* 87(4): 1600–16. [[replication material](https://doi.org/10.7910/DVN/R6WRTG), [preprint](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)]
+    -   Coverage: [Faculti](https://faculti.net/redistribution-and-illusion-how-autocrats-use-equity-rhetoric-to-claim-democracy)
     -   Keywords: propaganda, redistribution, autocracy, democratic legitimacy, public opinion
     -   <details>
 
