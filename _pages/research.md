@@ -149,16 +149,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         <summary>Abstract:</summary>
 
-        Where democratic uprisings have gained momentum, some autocracies respond by disseminating propaganda that blatantly taunts and mocks their political opponents. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the political logic behind it? I propose a theory of <em>propaganda as provocation</em>. By using provocative propaganda to radicalize protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings. I experimentally test the psychological microfoundations in Hong Kong, showing that regime opponents became more enraged, disgusted, and supportive of protest violence upon exposure to provocative propaganda. I offer additional evidence by tracing Hong Kong’s Anti-ELAB movement, illustrating the strategic dynamics of provocative propaganda and the delegitimizing impact of protest radicalization—consistent with the logic of propaganda as provocation.
-
-        </details>
-        
--   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Comparisons often feature in political discourse on democracy. How do comparisons—across space and time—influence mass perceptions of democracy? Building on economic and psychological theories, we investigate the role of comparisons in shaping Americans’ assessments of subnational democracy. In two preregistered national experiments (<em>N</em> = 8,013), we uncover a “positivity bias” in Americans’ evaluation of democracy. When given information about how the current, somewhat undemocratic state was already “more democratic” than its neighboring state or its recent past, respondents applied cross-state and cross-temporal comparisons and evaluated the present state more optimistically. However, when the current state was being compared with a “democratically superior’’ neighboring state or recent past, the same dynamics of contrast disappeared such that respondents did not revise their democratic evaluation downward. These findings, which hold regardless of partisanship, raise normative concerns about citizens’ ability to detect democratic backsliding and coordinate against it as antidemocratic politicians erode democracy incrementally and subnationally.
+        Where democratic uprisings have gained momentum, some autocracies respond by disseminating propaganda that taunts and mocks their political opponents. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the logic behind it? I propose a theory of <em>propaganda as provocation</em>. By using provocative propaganda to radicalize protesters in social movements, autocrats can discredit regime opponents and dissuade others from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings. I experimentally test the psychological microfoundations in Hong Kong, showing that regime opponents became more angered, disgusted, and supportive of protest violence upon exposure to provocative propaganda. I offer additional evidence by tracing the Anti-Extradition Law Amendment Bill movement, illustrating the strategic dynamics of provocative propaganda and the delegitimizing impact of protest radicalization—consistent with the logic of propaganda as provocation.
 
         </details>
 
@@ -198,7 +189,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
--   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: Diaspora, Transnational Linked Fate, and Political Preferences Abroad."
+-   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among Hong Kong Diasporas."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -206,14 +197,33 @@ My research is driven by normative and policy concerns. To date, my research has
         Diasporas increasingly gain voting rights, engage in political mobilization, and shape the political landscape worldwide. Yet, we know surprisingly little about how they form their political attitudes in the first place. This article unpacks the structure of diasporas’ policy preferences by introducing the concept of transnational linked fate—the sense of interconnectedness among diasporas as shaped by their shared experiences, struggles, and geopolitical context prior to migration. Such group consciousness, we argue, can powerfully influence their foreign policy preferences. To evaluate our claim, we administered harmonized candidate-choice experiments to an original sample of Hong Kong diasporas in four host countries. We find that candidates endorsing hawkish policies against China in economic and geopolitical issues enjoyed significant electoral dividends. Such foreign policy preferences were so intense that other domestic issues played little to no roles in influencing respondents’ decision making. This extreme structure of political preferences remained similar even among respondents who were already highly assimilated into the host country or had weak social ties with the homeland. These findings not only shed new light on diasporas’ formation of political preferences, but also underscore how transnational identities can reverberate across borders to shape host-country elections and foreign-policy debates.
 
         </details>
+        
+-   [Fan, Lisa](https://lisayfan.com), [Tony Zirui Yang](https://tonyziruiyang.org), and **Eddy S. F. Yeung**. "Echoes of Erosion: Communicating Foreign Democratic Backsliding in Autocratizing Regimes."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Political communication plays an important role in shaping the trajectory of global democratic decline and resilience. While existing scholarship focuses on how domestic factors enable illiberal actors to undermine democracy, less is known about how politicians communicate democratic erosion abroad to reorient domestic discourse about democracy. We argue that in countries experiencing autocratization, elites have strategic incentives to contest narratives of foreign democratic erosion by framing their rivals as threats to democracy. While opposition elites can draw parallels between foreign and domestic illiberal actors and make democracy a salient issue for voters, incumbents have incentives to undermine the opposition’s issue ownership over democracy by reframing foreign backsliding as evidence of the dangers posed by pluralism and their opponents. To evaluate our argument, we draw on a large corpus of social media data to analyze how politicians in three autocratizing regimes, Hungary, Poland, and Türkiye, publicly communicated the January 6 attack on the US Capitol, a globally salient episode of democratic erosion. Across three countries, we uncover strikingly similar communication patterns: opposition elites extensively used US backsliding to warn against domestic illiberalism, whereas ruling party elites framed the event as a security threat and countercharged the opposition as endangering democracy. By unpacking such competitive framing dynamics, our study highlights a key mechanism through which foreign democratic erosion shapes domestic political discourse and partisan conflict that subsequently contributes to the diffusion of illiberal norms across the world.
+
+        </details>
+        
+-   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Comparisons often feature in political discourse on democracy. How do comparisons—across space and time—influence mass perceptions of democracy? Building on economic and psychological theories, we investigate the role of comparisons in shaping Americans’ assessments of subnational democracy. In two preregistered national experiments (<em>N</em> = 8,013), we uncover a “positivity bias” in Americans’ evaluation of democracy. When given information about how the current, somewhat undemocratic state was already “more democratic” than its neighboring state or its recent past, respondents applied cross-state and cross-temporal comparisons and evaluated the present state more optimistically. However, when the current state was being compared with a “democratically superior’’ neighboring state or recent past, the same dynamics of contrast disappeared such that respondents did not revise their democratic evaluation downward. These findings, which hold regardless of partisanship, raise normative concerns about citizens’ ability to detect democratic backsliding and coordinate against it as antidemocratic politicians erode democracy incrementally and subnationally.
+
+        </details>
 
 ## Work in Progress
 
 -   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
 -   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
--   "Reciprocities in International Politics" (with [Kai Quek](https://ppaweb.hku.hk/f/quek))
+-   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
+-   "Uncertainties and Voter Support for Anti- and Pro-Democratic Politicians: Evidence from a Ten-Country Experiment" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
 
