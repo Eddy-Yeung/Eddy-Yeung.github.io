@@ -22,5 +22,6 @@ Many scholars have generously shared their R tutorials on different topics. Thei
   
 Additional resources for research design:
   * [Programming Choice Experiments in Qualtrics](https://m-graham.com/resources/conjoint%20how-to.pdf) (by Matt Graham)
+  * [Programming and Analyzing Conjoint Experiments Using Projoint](https://yhoriuchi.github.io/projoint/index.html) (by Yusaku Horiuchi, Aaron Kaufman, and Gary King)
   * [Programming Quadratic Voting in Qualtrics](https://charlottecavaille.wordpress.com/qvsr) (by Charlotte Cavaillé)
   * [Research Design in the Social Sciences](https://book.declaredesign.org) (by Graeme Blair, Alexander Coppock, and Macartan Humphreys)
