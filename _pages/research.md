@@ -22,6 +22,15 @@ My research is driven by normative and policy concerns. To date, my research has
 
 ## Publications
 
+-   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2026. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods* 14(1): 190–200. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
+    -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Do external threats increase American bipartisanship? We subject this question to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. We find that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
+
+        </details>
 -   **Yeung, Eddy S. F.** 2025. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science* 55: e164. [[replication material](https://doi.org/10.7910/DVN/IK26V9)]
     -   Winner of [APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
     -   Winner of [APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
@@ -50,15 +59,6 @@ My research is driven by normative and policy concerns. To date, my research has
         <summary>Abstract:</summary>
 
         Misunderstandings about marginalized social groups are widespread among the American public and can play an important role in shaping outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
-
-        </details>
--   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2025. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods*, in press. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
-    -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Do external threats increase American bipartisanship? We subject this question to an experimental test. Leveraging the Biden and Trump administrations’ similar characterization of the China threat, we exposed American respondents to real-world primes about security threats from China, while randomizing the messenger of such primes. We find that the threat primes—regardless of the partisan identity of their messenger—boosted Democrats’ and Republicans’ support for assertive foreign policy in a largely parallel manner, thereby failing to reduce preference polarization. Importantly, there were no measurable changes across multiple indicators of affective polarization. These findings clarify the limits of external threats in uniting Americans, while also challenging recent perspectives that external threats—often colored by elite rhetoric—will further polarize the American public.
 
         </details>
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2025. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics* 87(4): 1600–16. [[replication material](https://doi.org/10.7910/DVN/R6WRTG), [preprint](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)]
