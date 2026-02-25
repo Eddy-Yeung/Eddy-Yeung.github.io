@@ -43,6 +43,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 -   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2025. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://doi.org/10.1177/00104140251392539)." *Comparative Political Studies*, in press. [[replication material](https://doi.org/10.7910/DVN/WUDAWV)]
+    -   Coverage: [Good Authority](https://mailchi.mp/goodauthority.org/the-unmaking-of-a-viral-graph-15081283?e=8564c1c035) (editor’s commentary)
     -   Keywords: democracy, autocracy, public opinion, democratic commitment, experiment
     -   <details>
 
