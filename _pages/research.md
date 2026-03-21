@@ -171,15 +171,6 @@ My research is driven by normative and policy concerns. To date, my research has
         How does information about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase their preferences for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased public support for de-escalation in both countries. These findings not only cut against the theoretical perspective that a heightened sense of power will motivate people to support war, but also uncover foreign hawkishness as an underappreciated factor that can sway domestic support for using military force.
 
         </details>
-
--   **Yeung, Eddy S. F.**, and [Matthew J. Conklin](https://matthewjconklin.com). "Hawks, Doves, and Rapprochement in the South China Sea: Evidence from Mirror Experiments in China and the United States."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Are hawks or doves better at making peace? Existing scholarship mainly focuses on how domestic audiences react to hawks and doves when they initiate rapprochement. Building on the latest research that focuses on foreign audiences and leveraging the South China Sea as an empirical context, we fielded replications and mirror experiments in China (<em>N</em> = 3,005) and the United States (<em>N</em> = 2,995) to investigate how Chinese and American citizens respond to rapprochement initiatives of the other side as its leader’s reputation varies. We uncover asymmetric public reactions to the olive branch: while Chinese dovish leaders were more likely to elicit Americans’ support for reciprocation than Chinese hawkish leaders, American dovish leaders did not fare better than American hawkish leaders among the Chinese public. These findings not only contribute new evidence that doves could fare better in rapprochement dynamics, but also show that doves’ international advantage may be more contextually sensitive than previously appreciated.
-
-        </details>
         
 -   [Lai, Ruilin](https://www.ruilinlai.com), **Eddy S. F. Yeung**, and [Matthew Gabel](https://matthewgabel.wixsite.com/mysite). "After Repression: The Impacts of Confession Propaganda upon Failed Uprisings."
     -   <details>
@@ -208,6 +199,24 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
+-   [Hu, Yuhan](https://www.politics.ox.ac.uk/person/yuhan-hu), and **Eddy S. F. Yeung**. "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Regime type is one of the most important and well-studied variables in political science. Yet despite extensive scholarship on nonviolent resistance, no research to date has examined whether and how regime type shapes the legitimacy of protest violence. We develop moral and rationalist logics to theorize that violent protests may suffer less popular backlash from international audiences when directed against autocracy than against democracy. Contrary to theoretical expectations, our harmonized experiments in the US and UK reveal that individuals do not judge violent protests differently across regime types. Compared to nonviolent tactics, violent tactics garner substantially lower public support and significantly boost the legitimacy of state repression, regardless of the political system under which the protest took place. Mechanism analyses reveal that people do not view violence as more morally justified or strategically effective in autocracies. These findings offer novel microfoundational evidence of nonviolence’s legitimacy premium in resistance movements.
+
+        </details>
+
+-   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is overt side-taking, a meddler’s explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the rival. Additional evidence, including an original survey designed to probe the mechanisms, indicates that such backlash exists because rivals’ endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make unfavorable foreign policy decisions. Our findings suggest that foreign rivals can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
+
+        </details>
+                
 -   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
     -   <details>
 
@@ -219,12 +228,15 @@ My research is driven by normative and policy concerns. To date, my research has
 
 ## Work in Progress
 
--   "Foreign Meddling by Adverse Side-Taking" (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io))
--   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
--   "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types" (with [Yuhan Hu](https://www.politics.ox.ac.uk/person/yuhan-hu))
--   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US–China Relations" (with [Matthew J. Conklin](https://matthewjconklin.com))
 -   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "Uncertainties and Voter Support for Anti- and Pro-Democratic Politicians: Evidence from a Ten-Country Experiment" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
+-   "How Autocrats Speak: Introducing a Global Dataset of Authoritarian Communication" (with [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
+-   "Appealing to Democracy: Strategic Variation in Democratic Rhetoric across Global Autocracies" (with [Lisa Fan](https://lisayfan.com), [Scott Williamson](https://www.scott-williamson.com), and [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik))
+-   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
+-   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
+-   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
 
