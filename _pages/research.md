@@ -163,12 +163,12 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Power and Public Hawkishness: Domestic Support for Conflict Escalation amid Great Power Competition."
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Material Capabilities, Foreign Public Hawkishness, and Domestic Support for Conflict Escalation amid Great Power Competition."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        How does information about the power and aggressiveness of an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—as an empirical setting, we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase their preferences for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased public support for de-escalation in both countries. These findings not only cut against the theoretical perspective that a heightened sense of power will motivate people to support war, but also uncover foreign hawkishness as an underappreciated factor that can sway domestic support for using military force.
+        How does information about an adversary influence public bellicosity in a crisis scenario? Leveraging US-China tensions around the Taiwan Strait—a challenging context for de-escalation—we assess whether American and Chinese citizens adopt a more belligerent or conciliatory position when presented with factual indicators that reveal different levels of economic power, military capability, or public hawkishness of the other side. Our large-scale dyadic experiments show that information portraying the adversary as materially weaker did <em>not</em> increase public support for conflict escalation, even amid great power tensions. Importantly, information portraying foreign citizens as less aggressive significantly increased support for de-escalation in both countries. These findings not only challenge theoretical expectations that an adversary’s perceived vulnerability or weakness incentivizes aggression, but also identifies foreign public opinion as a distinct informational signal that shapes how individuals assess adversaries and can sway domestic support for conflict escalation.
 
         </details>
         
