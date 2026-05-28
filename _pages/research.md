@@ -16,7 +16,7 @@ author_profile: true
 
 I study how political communication and elite strategy shape democratic legitimacy under autocracy and the psychology of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
 
-Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** and other strategies to distort public opinion and manipulate mass beliefs, with implications for **political violence** and **authoritarian resilience**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**. Beyond studying mass-elite interactions about democracy and conflict, my other work grapples with the intersection of race, welfare, and ideology in American politics from a comparative perspective.
+Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** and other strategies to distort public opinion and manipulate mass beliefs, with implications for **authoritarian resilience** and **political violence**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**. Beyond studying mass-elite interactions about democracy and conflict, my other work grapples with the intersection of race, welfare, and ideology in American politics from a comparative perspective.
 
 My research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
@@ -218,6 +218,14 @@ My research is driven by normative and policy concerns. To date, my research has
         </details>
                 
 -   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Building on theories in behavioral economics and psychology, we investigate the role of comparisons in shaping Americans’ assessments of subnational democracy. In two preregistered national experiments (<em>N</em> = 10,500), we find that individuals' assessments of democracy are meaningfully shaped by the presence of comparators in their information environment, underscoring how comparisons induce <em>contrast</em> in assessment. Democracy in a state under evaluation was assessed more favorably when respondents were primed to think about another state that is less democratic. Conversely, when confronted with a more democratic comparator, respondents downgraded their assessment of democracy in the state under evaluation. These results generally hold not only in a hypothetical setting that maximized experimental control but also in a realistic setting that allowed respondents to choose their own comparator. Our findings, which hold regardless of partisanship, highlight the importance of reference points in influencing citizens’ assessments of their political system and their ability to detect democratic backsliding.
+
+        </details>
+
 
 ## Work in Progress
 
@@ -225,7 +233,7 @@ My research is driven by normative and policy concerns. To date, my research has
 -   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "Uncertainties and Voter Support for Anti- and Pro-Democratic Politicians: Evidence from a Ten-Country Experiment" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "How Autocrats Speak: Introducing a Global Dataset of Authoritarian Communication" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
--   "Appealing to Democracy: Strategic Variation in Democratic Rhetoric across Global Autocracies" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
+-   "Dictators of Democracy: Strategic Variation in Authoritarian Democratic Rhetoric" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
