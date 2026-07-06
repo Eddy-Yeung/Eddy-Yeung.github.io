@@ -163,7 +163,16 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 
--   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Material Capabilities, Foreign Public Hawkishness, and Domestic Support for Conflict Escalation amid Great Power Competition."
+-   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is <em>overt side-taking</em>, a meddler’s explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the adversary. Additional evidence indicates that such backlash exists because rivals' endorsement can make domestic voters infer that the endorsed candidate, if elected, will underperform in foreign policymaking. These findings suggest that foreign adversaries can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
+
+        </details>
+        
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Putting Competition in Context: Material Capabilities, Foreign Hawkishness, and Conflict Escalation amid Great Power Rivalry."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -181,12 +190,12 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
--   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among Hong Kong Diasporas."
+-   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among the Hong Kong Diaspora."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences are especially strong when diasporas maintain close ties with the homeland, which heightens the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the UK, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties.
+        Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences heighten the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the United Kingdom, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties. Our findings provide novel experimental evidence that diasporas continue to care intensely about and voice on behalf of their homeland even after exit.
 
         </details>
         
@@ -195,7 +204,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         <summary>Abstract:</summary>
 
-        Political communication plays an important role in shaping the trajectory of global democratic decline and resilience. While existing scholarship focuses on how domestic factors enable illiberal actors to undermine democracy, less is known about how politicians communicate democratic erosion abroad to reorient domestic discourse about democracy. We argue that in countries experiencing autocratization, elites have strategic incentives to contest narratives of foreign democratic erosion by framing their rivals as threats to democracy. While opposition elites can draw parallels between foreign and domestic illiberal actors and make democracy a salient issue for voters, incumbents have incentives to undermine the opposition’s issue ownership over democracy by reframing foreign backsliding as evidence of the dangers posed by pluralism and their opponents. To evaluate our argument, we draw on a large corpus of social media data to analyze how politicians in three autocratizing regimes, Hungary, Poland, and Türkiye, publicly communicated the January 6 attack on the US Capitol, a globally salient episode of democratic erosion. Across three countries, we uncover strikingly similar communication patterns: opposition elites extensively used US backsliding to warn against domestic illiberalism, whereas ruling party elites framed the event as a security threat and countercharged the opposition as endangering democracy. By unpacking such competitive framing dynamics, our study highlights a key mechanism through which foreign democratic erosion shapes domestic political discourse and partisan conflict that subsequently contributes to the diffusion of illiberal norms across the world.
+        Political communication plays an important role in shaping democratic norms and resilience. However, little is known about how politicians communicate democratic erosion <em>abroad</em> to reorient domestic discourse about democracy. We argue that in countries experiencing autocratization, elites have strategic incentives to contest narratives of foreign democratic erosion by framing their rivals as democratic threats. Empirically, we draw on a large corpus of social media data to analyze how politicians in three autocratizing regimes—Hungary, Poland, and Türkiye—communicated the January 6 attack on the US Capitol, a globally salient episode of democratic erosion. Across three countries, we uncover strikingly similar communication patterns: opposition elites extensively used US backsliding to warn against domestic illiberalism, whereas ruling party elites framed the event as a security threat and countercharged the opposition as endangering democracy. The competitive framing dynamics uncovered by our study has implications for how autocratization events spill over in an interconnected world.
 
         </details>
         
@@ -205,15 +214,6 @@ My research is driven by normative and policy concerns. To date, my research has
         <summary>Abstract:</summary>
 
         Regime type is one of the most important and well-studied variables in political science. Yet despite extensive scholarship on nonviolent resistance, no research to date has examined whether and how regime type shapes the legitimacy of protest violence. We develop moral and rationalist logics to theorize that violent protests may suffer less popular backlash from international audiences when directed against autocracy than against democracy. Contrary to theoretical expectations, our harmonized experiments in the US and UK reveal that individuals do not judge violent protests differently across regime types. Compared to nonviolent tactics, violent tactics garner substantially lower public support and significantly boost the legitimacy of state repression, regardless of the political system under which the protest took place. Mechanism analyses reveal that people do not view violence as more morally justified or strategically effective in autocracies. These findings offer novel microfoundational evidence of nonviolence’s legitimacy premium in resistance movements.
-
-        </details>
-
--   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is <em>overt side-taking</em>, a meddler’s explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the adversary. Additional evidence indicates that such backlash exists because rivals' endorsement can make domestic voters infer that the endorsed candidate, if elected, will underperform in foreign policymaking. These findings suggest that foreign adversaries can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
 
         </details>
                 
@@ -231,9 +231,9 @@ My research is driven by normative and policy concerns. To date, my research has
 
 -   "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US–China Relations" (with [Matthew J. Conklin](https://matthewjconklin.com))
 -   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
--   "Uncertainties and Voter Support for Anti- and Pro-Democratic Politicians: Evidence from a Ten-Country Experiment" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
+-   "The Public Opinion Consequences of Voter Uncertainties about Democratic Outcomes" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "How Autocrats Speak: Introducing a Global Dataset of Authoritarian Communication" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
--   "Dictators of Democracy: Strategic Variation in Authoritarian Democratic Rhetoric" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
+-   "The Art of Democratic Rhetoric: How Dictators Co-opt the Language of Democracy" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
