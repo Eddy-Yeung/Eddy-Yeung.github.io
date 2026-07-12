@@ -20,6 +20,12 @@ Situated in the global context of rising misinformation on social media, my rese
 
 My research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
+## Books / Monographs
+-   Quek, Kai, and **Eddy S. F. Yeung**. 2026. *[Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition](https://www.cambridge.org/core/elements/abs/deescalating-a-trade-war/3A0BF1A2573F6483622FABE83C9582D2#element)*. Cambridge University Press (Elements in International Relations Series).
+-   **Yeung, Eddy S. F.** *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings*. Dissertation book project.
+    -   Winner of [2026 APSA Democracy and Autocracy Section’s Juan Linz Best Dissertation Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
+    -   Honorable mention of [2026 APSA Political Psychology Section’s Best Dissertation Award](https://apsanet.org/membership/organized-sections/section28)
+
 ## Publications
 
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2026. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods* 14(1): 190–200. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
@@ -32,8 +38,8 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 -   **Yeung, Eddy S. F.** 2025. "[Dynamic Democratic Backsliding](https://doi.org/10.1017/S0007123425100847)." *British Journal of Political Science* 55: e164. [[replication material](https://doi.org/10.7910/DVN/IK26V9), [preprint](https://eddy-yeung.github.io/assets/dynamic-democratic-backsliding.pdf)]
-    -   Winner of [APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
-    -   Winner of [APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
+    -   Winner of [2025 APSA Democracy and Autocracy Section’s Best Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
+    -   Winner of [2023 APSA Elections, Public Opinion, and Voting Behavior Section’s Early-Career Fellowship](https://connect.apsanet.org/s32)
     -   Keywords: democratic backsliding, vertical accountability, public opinion, voter behavior, American democracy
     -   <details>
 
@@ -145,7 +151,7 @@ My research is driven by normative and policy concerns. To date, my research has
 ## Working Papers
 
 -   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1EAVIe1miSK2PIEbTzmDlGKFQQmUwXK-b/view?usp=sharing)."
-    -   Winner of APSA Political Communication Section’s [Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
+    -   Winner of [2024 APSA Political Communication Section’s Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
     -   <details>
 
         <summary>Abstract:</summary>
