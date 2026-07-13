@@ -21,7 +21,7 @@ Situated in the global context of rising misinformation on social media, my rese
 My research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
 ## Books / Monographs
--   Quek, Kai, and **Eddy S. F. Yeung**. 2026. *[Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition](https://www.cambridge.org/core/elements/abs/deescalating-a-trade-war/3A0BF1A2573F6483622FABE83C9582D2#element)*. Cambridge University Press (Elements in International Relations Series).
+-   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. 2026. *[Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition](https://www.cambridge.org/core/elements/abs/deescalating-a-trade-war/3A0BF1A2573F6483622FABE83C9582D2#element)*. Cambridge University Press (Elements in International Relations Series).
 -   **Yeung, Eddy S. F.** *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings*. Dissertation book project.
     -   Winner of [2026 APSA Democracy and Autocracy Section’s Juan Linz Best Dissertation Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
     -   Honorable mention of [2026 APSA Political Psychology Section’s Best Dissertation Award](https://apsanet.org/membership/organized-sections/section28)
@@ -231,17 +231,51 @@ My research is driven by normative and policy concerns. To date, my research has
         Building on theories in behavioral economics and psychology, we investigate the role of comparisons in shaping Americans’ assessments of subnational democracy. In two preregistered national experiments (<em>N</em> = 10,500), we find that individuals' assessments of democracy are meaningfully shaped by the presence of comparators in their information environment, underscoring how comparisons induce <em>contrast</em> in assessment. Democracy in a state under evaluation was assessed more favorably when respondents were primed to think about another state that is less democratic. Conversely, when confronted with a more democratic comparator, respondents downgraded their assessment of democracy in the state under evaluation. These results generally hold not only in a hypothetical setting that maximized experimental control but also in a realistic setting that allowed respondents to choose their own comparator. Our findings, which hold regardless of partisanship, highlight the importance of reference points in influencing citizens’ assessments of their political system and their ability to detect democratic backsliding.
 
         </details>
+        
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. "The Mass Public Foundations of Democratic Resilience."
+    -   <details>
 
+        <summary>Abstract:</summary>
 
-## Work in Progress
+        Democratic resilience hinges not only on institutional design or elite behavior but also on the beliefs, values, and coordination of ordinary citizens. Yet the rapidly expanding public opinion literature in the current era of democratic backsliding lacks a unifying framework that specifies when mass attitudes sustain democratic governance. Put concisely, under what conditions does public opinion on democracy matter for the sustainability of democracy? We develop a framework organized around two fundamental requisites for mass-level democratic resilience: a coordination requirement (a shared understanding and judgment of what democracy is and is not) and an activation requirement (a sufficiently high valuation of democracy both intrinsically and relative to other goods). Conceptualizing these two requisites allows us to identify four anti-democratic tactics that target the public’s role in sustaining democracy: redefining democracy, hijacking democratic language, smearing democracy as a system, and reorienting people’s attention away from democracy and toward policy outcomes instead. This framework helps to systematize and draw implications from the comparative public opinion literature on democracy, and provide new understanding of successful and failed public defense of democracy, from South Korea’s reversal of martial law to the United States’s contested democratic moment.
 
--   "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US–China Relations" (with [Matthew J. Conklin](https://matthewjconklin.com))
+        </details>
+        
+-   **Yeung, Eddy S. F.**, [Scott Williamson](https://www.scott-williamson.com), [Lisa Fan](https://lisayfan.com), and [Jonathan A. Chu](https://www.jonathanchu.org). "The Public Opinion Consequences of Voter Uncertainties about Democratic Outcomes."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+         Despite widespread support for democracy, anti-democratic politicians are often not punished—and pro-democratic politicians not rewarded—at the ballot box. Why? To explain this puzzle, we foreground the role of voter uncertainty and decompose it into two theoretical forms. First is intention uncertainty: whether or not the political candidate’s proposed policy intends to undermine or consolidate democracy. Second is implementation uncertainty: whether the candidate, if elected, can implement the policy as promised. We subject our theory to experimentation, randomizing both types of uncertainty and measuring their downstream effects on voter support across ten countries worldwide. The results suggest that intention uncertainty powerfully explains voters’ inability to punish or reward anti- and pro-democratic candidates, while implementation uncertainty can also contribute to voters’ leniency toward anti-democratic candidates. Our findings offer microfoundational insights into the rise and fall of anti- and pro-democratic politicians across the world, contributing to our understanding of democratic backsliding and defense through the lens of mass–elite interactions.
+
+        </details>
+        
+-   [Fan, Lisa](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "The Art of Democratic Rhetoric: How Dictators Co-opt the Language of Democracy."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+         A key legitimation strategy for autocrats is to claim that they govern democratically. However, we know little about how and when they deploy democratic rhetoric in pursuit of this goal. Using a novel corpus of speeches from 51 regimes from 1999 to 2024, we employ supervised machine learning and transformer-based language models to measure rhetorical appeals to democracy by autocratic leaders. Our results suggest that autocrats strategically emphasize different aspects of democracy to align their rhetoric with the institutional framework of their regimes. Autocrats are more likely to invoke conventional, procedural understandings of democracy where their institutions more credibly support such claims, while those with weaker institutions resort to more authoritarian conceptions of democracy. We further show that democratic claims shift in response to different types of challenges, with autocrats more likely to invoke procedural democratic claims under political pressure. These findings suggest that democratic rhetoric is not just a blunt instrument of authoritarian propaganda, but instead reflects strategic attempts to leverage competing understandings of democracy to justify autocratic rule.
+
+        </details>
+
+-   [Fan, Lisa](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "How Autocrats Speak: Introducing a Global Dataset of Authoritarian Communication."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+         How do authoritarian leaders speak? Political communication is central to authoritarian rule, with consequences for public opinion, elite behavior, and regime stability. Yet, existing datasets focus on specific regions or time periods, limiting comparative research on authoritarian communication. This paper introduces a novel dataset of 50,872 texts collected from 77 authoritarian leaders across 60 countries from 1994 to 2024. Our approach integrates web scraping, archival research, and advanced natural language processing methods to systematically collect and process text data. Our corpus includes granular speech and statement-level data including original and machine-translated text, speakers, sentiment scores, and temporal markers. We validate the accuracy of our dataset against existing corpora, and apply our corpus to generate novel insights into the study of comparative politics and international relations. In an era when autocrats increasingly rely on information control, our dataset offers essential tools for understanding the rhetorical toolkit of modern authoritarianism.
+
+        </details>
+
+## Selected Work in Progress
+
+-   "Foreign Democratic Backsliding and Domestic Democratic Resilience" (with [Ka Ming Chan](https://www.kmchan.page) and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
--   "The Public Opinion Consequences of Voter Uncertainties about Democratic Outcomes" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), and [Scott Williamson](https://www.scott-williamson.com))
--   "How Autocrats Speak: Introducing a Global Dataset of Authoritarian Communication" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
--   "The Art of Democratic Rhetoric: How Dictators Co-opt the Language of Democracy" (with [Lisa Fan](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
--   "The Mass Public Foundations of Democratic Resilience" (with [Jonathan A. Chu](https://www.jonathanchu.org) and [Scott Williamson](https://www.scott-williamson.com))
+-   "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US–China Relations" (with [Matthew J. Conklin](https://matthewjconklin.com))
+-   "Secrecy Appeals and Public Support for Conflict Escalation" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
+-   "Whataboutism and Public Support for Foreign Interference" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
 -   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
 -   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
