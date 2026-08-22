@@ -14,11 +14,9 @@ author_profile: true
 }
 </style>
 
-I study how political communication and elite strategy shape democratic legitimacy under autocracy and the psychology of conflict escalation and deescalation, with a focus on East Asia, the United States, and their interactions.
+I study how elite strategy shapes (1) democratic legitimacy under autocracy and democratic backsliding and (2) the psychology of conflict escalation and deescalation, with a focus on China, the United States, and their interactions. Centering around mass-elite interactions about democracy and conflict, my scholarship sheds light on regime dynamics and the interplay between domestic politics and international relations through the lens of political communication and political psychology.
 
-Situated in the global context of rising misinformation on social media, my research unpacks how authoritarian actors use **propaganda** and other strategies to distort public opinion and manipulate mass beliefs, with implications for **authoritarian resilience** and **political violence**. I also examine how great power competition between China and the United States constrains public support for **international cooperation** and under what conditions such constraints can be tamped down, shedding light on the interplay between domestic politics and international relations through the lens of **political psychology**. Concerned about escalating US-China tensions and their implications for international security, my ongoing projects combine behavioral frameworks with modern social science techniques to study **deterrence** and **rapprochement**. Beyond studying mass-elite interactions about democracy and conflict, my other work grapples with the intersection of race, welfare, and ideology in American politics from a comparative perspective.
-
-My research is driven by normative and policy concerns. To date, my research has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
+My research is driven by normative and policy concerns. To date, it has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
 ## Books / Monographs
 -   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. 2026. *[Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition](https://www.amazon.com/Deescalating-Trade-War-Reciprocation-International/dp/1009659219)*. Cambridge University Press (Elements in International Relations Series). [[replication material](https://doi.org/10.7910/DVN/4AMEAQ)]
@@ -28,6 +26,24 @@ My research is driven by normative and policy concerns. To date, my research has
 
 ## Publications
 
+-   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. Forthcoming. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among the Hong Kong Diaspora." *Political Behavior*. [[replication material](https://doi.org/10.7910/DVN/4SEPIM)]
+    -   Keywords: diaspora, policy preference, transnational ties, integration, conjoint experiment, Hong Kong
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences heighten the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the United Kingdom, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties. Our findings provide novel experimental evidence that diasporas continue to care intensely about and voice on behalf of their homeland even after exit.
+
+        </details>
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. Forthcoming. "Does Preference Intensity Matter? Reexamining Policy Representation in the American States." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/6B6APA)]
+    -   Keywords: preference intensity, policy representation, congruence, state politics, quadratic voting, measurement
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Preference intensity may play an important role in shaping mass political behavior, yet existing empirical scholarship on representation typically relies on survey measures that capture public opinion in terms of preference directionality without intensity. We use a variety of measures—not only the standard Likert and “most important policy” items but also the quadratic voting method—to reassess responsiveness and congruence of a diverse set of American state policies that vary in issue areas and salience. Across multiple novel measures, we consistently find that state-level preference intensity does not reliably predict actual policy outcomes. We contribute new evidence that the lack of policy representation in the American states remains—even if preference intensity is systematically integrated into the empirical analysis.
+
+        </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2026. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods* 14(1): 190–200. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
@@ -160,21 +176,12 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. "Does Preference Intensity Matter? Reexamining Policy Representation in the American States."
+-   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Tensions."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        Preference intensity may play an important role in shaping mass political behavior, yet existing empirical scholarship on representation typically relies on survey measures that capture public opinion in terms of preference directionality without intensity. We use a variety of measures—not only the standard Likert and “most important policy” items but also the quadratic voting method—to reassess responsiveness and congruence of a diverse set of American state policies that vary in issue areas and salience. Across multiple novel measures, we consistently find that state-level preference intensity does not reliably predict actual policy outcomes. We contribute new evidence that the lack of policy representation in the American states remains—even if preference intensity is systematically integrated into the empirical analysis.
-
-        </details>
-
--   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is <em>overt side-taking</em>, a meddler’s explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the adversary. Additional evidence indicates that such backlash exists because rivals' endorsement can make domestic voters infer that the endorsed candidate, if elected, will underperform in foreign policymaking. These findings suggest that foreign adversaries can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
+        Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct but understudied form of intervention is <em>overt side-taking</em>, a meddler’s explicit verbal endorsement of a domestic candidate. We unpack its impact on domestic electoral dynamics, theorizing a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a large-scale experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the adversary. Ally endorsements, by contrast, aided endorsed candidates. A follow-up experiment finds that media warnings about the disingenuous nature of rival endorsements didn’t temper their adverse electoral impact. These findings suggest that foreign adversaries can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
 
         </details>
         
@@ -196,15 +203,6 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
--   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among the Hong Kong Diaspora."
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences heighten the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the United Kingdom, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties. Our findings provide novel experimental evidence that diasporas continue to care intensely about and voice on behalf of their homeland even after exit.
-
-        </details>
-        
 -   [Fan, Lisa](https://lisayfan.com), [Tony Zirui Yang](https://tonyziruiyang.org), and **Eddy S. F. Yeung**. "Echoes of Erosion: Communicating Foreign Democratic Backsliding in Autocratizing Regimes."
     -   <details>
 
@@ -214,13 +212,13 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
--   [Hu, Yuhan](https://www.politics.ox.ac.uk/person/yuhan-hu), and **Eddy S. F. Yeung**. "Principled Opposition to Violence: The Legitimacy Premium of Nonviolent Protests across Regime Types."
+-   [Hu, Yuhan](https://www.politics.ox.ac.uk/person/yuhan-hu), and **Eddy S. F. Yeung**. "Democracy, Autocracy, and Foreign Public Response to Protester Violence."
     -   <details>
 
         <summary>Abstract:</summary>
 
-        Regime type is one of the most important and well-studied variables in political science. Yet despite extensive scholarship on nonviolent resistance, no research to date has examined whether and how regime type shapes the legitimacy of protest violence. We develop moral and rationalist logics to theorize that violent protests may suffer less popular backlash from international audiences when directed against autocracy than against democracy. Contrary to theoretical expectations, our harmonized experiments in the US and UK reveal that individuals do not judge violent protests differently across regime types. Compared to nonviolent tactics, violent tactics garner substantially lower public support and significantly boost the legitimacy of state repression, regardless of the political system under which the protest took place. Mechanism analyses reveal that people do not view violence as more morally justified or strategically effective in autocracies. These findings offer novel microfoundational evidence of nonviolence’s legitimacy premium in resistance movements.
-
+        How do international publics react to protester violence? International support plays an important role in shaping protest trajectories, yet surprisingly little is known about how <em>foreign</em> public opinion responds. We develop moral and rationalist mechanisms to argue that violent protests may suffer less popular backlash from international audiences when directed against autocracies than against democracies. Contrary to theoretical expectations, our harmonized experiments in the US and UK reveal that individuals do not judge foreign violent protests differently across democracies and autocracies. Compared to nonviolent tactics, violent tactics garner lower foreign public support and boost the international legitimacy of state repression among foreign democratic publics, regardless of the political system under which the protests take place. These findings offer microfoundational evidence of how the nonviolent legitimacy premium operates internationally, demonstrating that the appeal of nonviolence travels across borders and regime types.
+        
         </details>
                 
 -   [Gandhi, Jennifer](https://www.jennifergandhi.com), and **Eddy S. F. Yeung**. "Identifying Backsliding: The Influence of Comparisons on Americans’ Assessments of Subnational Democracy."
@@ -250,7 +248,7 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
         
--   [Fan, Lisa](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "The Art of Democratic Rhetoric: How Dictators Co-opt the Language of Democracy."
+-   [Fan, Lisa](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "Claiming Democracy: Strategic Variation in Authoritarian Democratic Rhetoric."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -268,12 +266,18 @@ My research is driven by normative and policy concerns. To date, my research has
 
         </details>
 
+-   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US-China Relations."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        How does a foreign leader’s reputation shape domestic responses to rapprochement? While recent research suggests that foreign doves are more likely to elicit favorable public responses, we argue that this international advantage can be constrained by characteristics of the conflict dyad, especially the national publics involved. In mirror experiments administered to American and Chinese citizens (<em>N</em> = 6,000) using the South China Sea as an empirical context, we uncover asymmetric public reactions to the olive branch. Chinese dovish leaders were more likely than hawkish leaders to elicit Americans’ support for reciprocation to a rapprochement gesture, but American dovish leaders did not fare better among the Chinese public. Two follow-up experiments (<em>N</em> = 4,856) rule out issue indivisibility and structural power imbalances as potential mechanisms, instead suggesting that hawkish national sentiments better explain the asymmetry. Our findings show that doves’ international advantage is more contextually sensitive than previously appreciated and identify a source of that  sensitivity.
+
 ## Selected Work in Progress
 
 -   "Foreign Democratic Backsliding and Domestic Democratic Resilience" (with [Ka Ming Chan](https://www.kmchan.page) and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Mass Understandings of Free and Fair Elections" (with [Jonathan A. Chu](https://www.jonathanchu.org), [Lisa Fan](https://lisayfan.com), [Bardia Rahmani](https://www.bardiarahmani.com), and [Scott Williamson](https://www.scott-williamson.com))
 -   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
--   "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US–China Relations" (with [Matthew J. Conklin](https://matthewjconklin.com))
 -   "Secrecy Appeals and Public Support for Conflict Escalation" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
 -   "Whataboutism and Public Support for Foreign Interference" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
 -   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
