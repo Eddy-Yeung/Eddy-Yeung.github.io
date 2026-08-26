@@ -14,7 +14,7 @@ author_profile: true
 }
 </style>
 
-I study how elite strategy shapes (1) democratic legitimacy under autocracy and democratic backsliding and (2) the psychology of conflict escalation and deescalation, with a focus on China, the United States, and their interactions. Centering around mass-elite interactions about democracy and conflict, my scholarship sheds light on regime dynamics and the interplay between domestic politics and international relations through the lens of political communication and political psychology.
+I study how elite strategy shapes (1) democratic legitimacy under autocracy and democratic backsliding and (2) the psychology of conflict escalation and deescalation, with a focus on China, the United States, and their interactions. Centering around mass-elite interactions on democracy and conflict, my scholarship sheds light on regime dynamics and the interplay between domestic politics and international relations through the lens of political communication and political psychology.
 
 My research is driven by normative and policy concerns. To date, it has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
