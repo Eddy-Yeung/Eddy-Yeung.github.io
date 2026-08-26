@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Eddy S. F. Yeung"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher at Oxford University"
-  location         : "Oxford, UK"
+  bio              : "Assistant Professor at Texas A&M University"
+  location         : #"College Station, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wZx81R4AAAAJ&hl=en"
-  email            : "eddy.yeung@politics.ox.ac.uk"
+  email            : "eddy.yeung@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
