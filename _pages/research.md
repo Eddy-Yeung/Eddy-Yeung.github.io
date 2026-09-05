@@ -35,7 +35,7 @@ My research is driven by normative and policy concerns. To date, it has been sup
         Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences heighten the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the United Kingdom, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties. Our findings provide novel experimental evidence that diasporas continue to care intensely about and voice on behalf of their homeland even after exit.
 
         </details>
--   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. Forthcoming. "Does Preference Intensity Matter? Reexamining Policy Representation in the American States." *Political Science Research and Methods*. [[replication material](https://doi.org/10.7910/DVN/6B6APA)]
+-   [Peskowitz, Zachary](https://www.zacharypeskowitz.com), and **Eddy S. F. Yeung**. 2026. "Does Preference Intensity Matter? Reexamining Policy Representation in the American States." *Political Science Research and Methods*, in press. [[replication material](https://doi.org/10.7910/DVN/6B6APA)]
     -   Keywords: preference intensity, policy representation, congruence, state politics, quadratic voting, measurement
     -   <details>
 
@@ -239,7 +239,7 @@ My research is driven by normative and policy concerns. To date, it has been sup
 
         </details>
         
--   **Yeung, Eddy S. F.**, [Scott Williamson](https://www.scott-williamson.com), [Lisa Fan](https://lisayfan.com), and [Jonathan A. Chu](https://www.jonathanchu.org). "The Public Opinion Consequences of Voter Uncertainties about Democratic Outcomes."
+-   **Yeung, Eddy S. F.**, [Lisa Fan](https://lisayfan.com), [Scott Williamson](https://www.scott-williamson.com), and [Jonathan A. Chu](https://www.jonathanchu.org). "The Public Opinion Consequences of Voter Uncertainties about Democratic Outcomes."
     -   <details>
 
         <summary>Abstract:</summary>
@@ -249,6 +249,7 @@ My research is driven by normative and policy concerns. To date, it has been sup
         </details>
         
 -   [Fan, Lisa](https://lisayfan.com), [Humeyra Biricik](https://www.politics.ox.ac.uk/person/humeyra-biricik), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "Claiming Democracy: Strategic Variation in Authoritarian Democratic Rhetoric."
+    -   	Winner of 2026 PSA Autocracy and Regime Change Specialist Group Best Paper Award
     -   <details>
 
         <summary>Abstract:</summary>
@@ -266,6 +267,14 @@ My research is driven by normative and policy concerns. To date, it has been sup
 
         </details>
 
+-   [Fan, Lisa](https://lisayfan.com), **Eddy S. F. Yeung**, and [Scott Williamson](https://www.scott-williamson.com). "Who’s to Blame: Elite Self-Criticism and the Politics of Blame."
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+         Why do regime subordinates proactively accept blame for poor outcomes when doing so is costly? We argue that self-criticism allows regime subordinates to acknowledge public grievances while containing blame below the highest levels of leadership. Empirically, we examine more than 1.8 million social media posts from members of Turkey’s 27th Grand National Assembly (2018–2023), using a two-stage large language model to identify and classify blame attribution. Our results demonstrate that regime subordinates are significantly more likely to engage in self-criticism than opposition members, who primarily direct blame toward the incumbent regime. Self-criticism is most prevalent when failures are highly visible and occur in domains where citizens expect governments to protect public welfare. It is also temporally bounded, peaking roughly 45 days after crisis onset before declining toward pre-crisis levels. Our findings show that regime subordinates are not merely recipients of blame but active participants in allocating responsibility, including by publicly assigning blame to themselves.
+
+        </details>
 -   [Conklin, Matthew J.](https://matthewjconklin.com), and **Eddy S. F. Yeung**. "Leader Reputation and Asymmetric Resistance to Rapprochement: Evidence from US-China Relations."
     -   <details>
 
