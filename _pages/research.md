@@ -166,16 +166,6 @@ My research is driven by normative and policy concerns. To date, it has been sup
 
 ## Working Papers
 
--   **Yeung, Eddy S. F.** "[The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings](https://drive.google.com/file/d/1EAVIe1miSK2PIEbTzmDlGKFQQmUwXK-b/view?usp=sharing)."
-    -   Winner of [2024 APSA Political Communication Section’s Timothy E. Cook Best Graduate Student Paper Award](https://politicalcommunication.org/awards)
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Where democratic uprisings have gained momentum, some autocracies respond by disseminating propaganda that taunts and mocks their political opponents. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the antiregime movement. What is the logic behind it? I propose a theory of <em>propaganda as provocation</em>. By using provocative propaganda to radicalize protesters in social movements, autocrats can delegitimize regime opponents and dissuade others from joining forces with the opposition. Thus, provocative propaganda can help reduce the cost of repression and impede democratic uprisings. I experimentally test the psychological microfoundations in Hong Kong, showing that regime opponents became more angered, disgusted, and supportive of protest violence upon exposure to provocative propaganda. I offer additional evidence by tracing Hong Kong’s Anti-Extradition Movement, illustrating the strategic dynamics of provocative propaganda and the delegitimizing impact of protest radicalization—consistent with the logic of propaganda as provocation.
-
-        </details>
-
 -   **Yeung, Eddy S. F.**, and [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io). "The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Tensions."
     -   <details>
 
