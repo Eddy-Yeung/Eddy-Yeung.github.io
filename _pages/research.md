@@ -14,13 +14,13 @@ author_profile: true
 }
 </style>
 
-I study how elite strategy shapes (1) democratic legitimacy under autocracy and democratic backsliding and (2) the psychology of conflict escalation and deescalation, with a focus on China, the United States, and their interactions. Centering around mass-elite interactions on democracy and conflict, my scholarship sheds light on regime survival strategies and the interplay between domestic politics and international relations through the lens of political communication and political psychology.
+I study how elite strategy shapes (1) democratic legitimacy under autocracy and democratic backsliding and (2) the psychology of conflict escalation and de-escalation, with a focus on China, the United States, and their interactions. Centering around mass–elite interactions on democracy and conflict, my scholarship sheds light on regime survival strategies and the interplay between domestic politics and international relations through the lens of political communication and political psychology.
 
 My research is driven by normative and policy concerns. To date, it has been supported by the [American Political Science Association](https://apsanet.org), the [Halle Institute for Global Research](https://halle.emory.edu), the [Harry Frank Guggenheim Foundation](https://www.hfg.org), the [Institute for Humane Studies](https://www.theihs.org), the [Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu), [Stand Together Trust](https://standtogethertrust.org/about-us), and the [U.S. National Science Foundation](https://www.nsf.gov).
 
 ## Books / Monographs
 -   [Quek, Kai](https://ppaweb.hku.hk/f/quek), and **Eddy S. F. Yeung**. 2026. *[Deescalating a Trade War: Strategies of Reciprocation amid US-China Great Power Competition](https://doi.org/10.1017/9781009659208)*. Cambridge University Press (Elements in International Relations Series). [[replication material](https://doi.org/10.7910/DVN/4AMEAQ)]
--   **Yeung, Eddy S. F.** *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings*. Dissertation book project.
+-   **Yeung, Eddy S. F.** *Propaganda as Provocation: How Autocrats Use Political Rhetoric to Impede Democratic Uprisings*. Book manuscript.
     -   Winner of [2026 APSA Democracy and Autocracy Section’s Juan Linz Best Dissertation Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-35)
     -   Honorable mention of [2026 APSA Political Psychology Section’s Best Dissertation Award](https://apsanet.org/membership/organized-sections/section28)
 
