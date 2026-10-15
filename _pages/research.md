@@ -26,7 +26,7 @@ My research is driven by normative and policy concerns. To date, it has been sup
 
 ## Publications
 
--   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. Forthcoming. "Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among the Hong Kong Diaspora." *Political Behavior*. [[replication material](https://doi.org/10.7910/DVN/4SEPIM)]
+-   [Shum, Maggie](http://www.maggieshum.com), **Eddy S. F. Yeung**, [Ka Ming Chan](https://www.kmchan.page), [Sanho Chung](https://sanhochung.me), Athena Tong, and Sam Yip. 2026. "[Voice After Exit: The Prioritization of Homeland-Facing Foreign Policy among the Hong Kong Diaspora](https://rdcu.be/nRzWy147n7za)." *Political Behavior*, in press. [[replication material](https://doi.org/10.7910/DVN/4SEPIM)]
     -   Keywords: diaspora, policy preference, transnational ties, integration, conjoint experiment, Hong Kong
     -   <details>
 
