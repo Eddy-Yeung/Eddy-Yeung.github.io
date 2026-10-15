@@ -44,6 +44,26 @@ My research is driven by normative and policy concerns. To date, it has been sup
         Preference intensity may play an important role in shaping mass political behavior, yet existing empirical scholarship on representation typically relies on survey measures that capture public opinion in terms of preference directionality without intensity. We use a variety of measures—not only the standard Likert and “most important policy” items but also the quadratic voting method—to reassess responsiveness and congruence of a diverse set of American state policies that vary in issue areas and salience. Across multiple novel measures, we consistently find that state-level preference intensity does not reliably predict actual policy outcomes. We contribute new evidence that the lack of policy representation in the American states remains—even if preference intensity is systematically integrated into the empirical analysis.
 
         </details>
+-   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). 2026. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://doi.org/10.1086/737780)." *The Journal of Politics*, in press. [[replication material](https://doi.org/10.7910/DVN/MXNA8U), [preprint](https://drive.google.com/file/d/1zunaGmahpbMG5RKR0VM9dX8ids2JO3u3/view?usp=sharing)]
+    -   Coverage: [Good Authority](https://us12.campaign-archive.com/?u=6a195a173a2e1f8616573606f&id=39e03d1f57) (editor’s commentary)
+    -   Keywords: prejudice reduction, racialized misinformation, factual corrections, welfare, immigration
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Misunderstandings about marginalized social groups are widespread among the American public and can shape outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
+
+        </details>
+-   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2026. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://doi.org/10.1177/00104140251392539)." *Comparative Political Studies* 59(13): 2964–3001. [[replication material](https://doi.org/10.7910/DVN/WUDAWV)]
+    -   Coverage: [Good Authority](https://mailchi.mp/goodauthority.org/the-unmaking-of-a-viral-graph-15081283?e=8564c1c035) (editor’s commentary)
+    -   Keywords: democracy, autocracy, public opinion, democratic commitment, experiment
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        To what extent do people prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become contested as democracies come under pressure worldwide. We provide an answer through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). People across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Regarding tradeoffs, many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
+
+        </details>
 -   **Yeung, Eddy S. F.**, and [Weifang Xu](https://www.weifangxu.com). 2026. "[Do External Threats Increase Bipartisanship in the United States? An Experimental Test in the Shadow of China’s Rise](https://doi.org/10.1017/psrm.2024.60)." *Political Science Research and Methods* 14(1): 190–200. [[replication material](https://doi.org/10.7910/DVN/I43DNF)]
     -   Keywords: external threat, polarization, elite cues, foreign policy, US-China relations, replication
     -   <details>
@@ -62,26 +82,6 @@ My research is driven by normative and policy concerns. To date, it has been sup
         <summary>Abstract:</summary>
 
         Democratic backsliding occurs incrementally, but the empirical study of how citizens respond to undemocratic politicians has been predominantly static. I formulate and test predictions about how different sequences of backsliding shape accountability. Using a novel preregistered experiment (<em>N</em> = 4,234) capturing the reality that democratic transgressions are committed by elected officials step by step, I find that a majority of American respondents—against the backdrop of partisan and policy interests—are willing to electorally remove the incumbent as episodes of democratic backsliding unfold. Moreover, incumbents who incrementally decrease the severity of democratic transgressions are held accountable more promptly than incumbents who incrementally increase or sporadically vary the severity. By establishing a new experimental framework to study democratic backsliding, my dynamic approach not only paints a more nuanced picture of Americans’ willingness to defend democracy, but also demonstrates that sequence matters in shaping voter behavior amid incremental transgressions of democracy.
-
-        </details>
--   [Chu, Jonathan A.](https://www.jonathanchu.org), [Scott Williamson](https://www.scott-williamson.com), and **Eddy S. F. Yeung**. 2025. "[Are People Willing to Trade Away Democracy for Desirable Outcomes? Experimental Evidence from Six Countries](https://doi.org/10.1177/00104140251392539)." *Comparative Political Studies*, in press. [[replication material](https://doi.org/10.7910/DVN/WUDAWV)]
-    -   Coverage: [Good Authority](https://mailchi.mp/goodauthority.org/the-unmaking-of-a-viral-graph-15081283?e=8564c1c035) (editor’s commentary)
-    -   Keywords: democracy, autocracy, public opinion, democratic commitment, experiment
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        To what extent do people prioritize living in a democracy over other indicators of good governance or personal well-being? This question has become contested as democracies come under pressure worldwide. We provide an answer through cross-national conjoint experiments in which survey respondents choose between hypothetical countries that differ in terms of societal-level attributes (e.g., elections, health care) and individual-level outcomes that the respondent would experience (e.g., wealth, minority status). People across Egypt, India, Italy, Japan, Thailand, and the United States consistently prioritize living in a safe country with free and fair elections over other factors, including other components of democracy like civil liberties and checks and balances. Regarding tradeoffs, many people would forfeit democratic elections to avoid living in a dangerous society but not to obtain wealth and other goods. Electoral democracy is attractive globally but can be undermined by concerns about crime and safety.
-
-        </details>
--   **Yeung, Eddy S. F.**, and [Joseph Glasgow](https://www.linkedin.com/in/joey-glasgow). 2025. "[Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration](https://doi.org/10.1086/737780)." *The Journal of Politics*, in press. [[replication material](https://doi.org/10.7910/DVN/MXNA8U), [preprint](https://drive.google.com/file/d/1zunaGmahpbMG5RKR0VM9dX8ids2JO3u3/view?usp=sharing)]
-    -   Coverage: [Good Authority](https://us12.campaign-archive.com/?u=6a195a173a2e1f8616573606f&id=39e03d1f57) (editor’s commentary)
-    -   Keywords: prejudice reduction, racialized misinformation, factual corrections, welfare, immigration
-    -   <details>
-
-        <summary>Abstract:</summary>
-
-        Misunderstandings about marginalized social groups are widespread among the American public and can shape outgroup prejudice. Does correcting racialized misperceptions about marginalized groups mitigate prejudicial attitudes? To test the impact of factual corrections, we conduct three preregistered survey experiments in the US (<em>N</em> = 8,306). Study 1 and Study 2 draw on the case of welfare and inform respondents that the share of Black welfare recipients is lower than that of White recipients. Study 3 focuses on the case of immigration and informs respondents that immigrants’ crime rate is lower than natives’ crime rate. Across three well-powered experiments, we estimate null to minuscule effects of factual corrections on multiple measures of prejudice—although our informational interventions significantly reduced misperceptions about Blacks and immigrants. These findings illuminate the scope conditions of factual corrections’ efficacy in improving citizens’ attitudes toward minority groups and have implications for scholarship on belief-attitude relationships.
 
         </details>
 -   [Wang, Hsu Yumin](https://hsuyuminwang.com), and **Eddy S. F. Yeung**. 2025. "[Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies](https://doi.org/10.1086/734238)." *The Journal of Politics* 87(4): 1600–16. [[replication material](https://doi.org/10.7910/DVN/R6WRTG), [preprint](https://drive.google.com/file/d/1xd0TWoP0nx8A2JCQEZpWfec-Syu1nwMs/view?usp=sharing)]
@@ -279,7 +279,9 @@ My research is driven by normative and policy concerns. To date, it has been sup
 -   "The Politics of Antipolitics" (with [Lisa Fan](https://lisayfan.com) and [Scott Williamson](https://www.scott-williamson.com))
 -   "Secrecy Appeals and Public Support for Conflict Escalation" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
 -   "Whataboutism and Public Support for Foreign Interference" (with [Matthew J. Conklin](https://matthewjconklin.com) and [Sam Sharman](https://samsharman.com))
+-   "LGBTQ+ Rights and Public Support for War" (with [Alberto López Ortega](https://aloport.github.io/cv/) and [Tony Zirui Yang](https://tonyziruiyang.org))
 -   "Founding Myths Reimagined: The Rationalist Microfoundation of National Narratives" (with [Peng Peng](https://www.peng-peng.org))
+-   "China’s Rise and Authoritarian Diffusion in Africa" (with [Peng Peng](https://www.peng-peng.org) and [Xiaonan Wang](https://www.xiaonanwang.org))
 -   "The Wages of Whiteness in Contemporary America" (with [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   "Evaluating the Impacts of Taiwan’s Conscription Reform and Civil Defense Mobilization amid the Risk of War" (with [Renard Sexton](https://renardsexton.com), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Hsu Yumin Wang](https://hsuyuminwang.com))
 -   *Empirical Microfoundations of Deterrence: Signaling and Perceptions of Resolve and Reassurance in Real-Time Conflict* (book project with [Renard Sexton](https://renardsexton.com))
